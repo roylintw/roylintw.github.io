@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on 程式修練所</title>
+    <link>https://roylintw.github.io/tags/java/</link>
+    <description>Recent content in Java on 程式修練所</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 03 Apr 2022 10:14:57 +0600</lastBuildDate><atom:link href="https://roylintw.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇文章</title>
+      <link>https://roylintw.github.io/blog/test/</link>
+      <pubDate>Sun, 03 Apr 2022 10:14:57 +0600</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/test/</guid>
+      <description>一級標題 This text is red!我是 Roy
+ 阿柴 ㄚㄚ   Hello  what  are     are you   hello</description>
+    </item>
+    
+  </channel>
+</rss>
