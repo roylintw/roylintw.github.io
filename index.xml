@@ -13,7 +13,8 @@
       <pubDate>Sun, 03 Apr 2022 10:15:35 +0600</pubDate>
       
       <guid>https://roylintw.github.io/blog/second-post/</guid>
-      <description>我是第二篇文章</description>
+      <description>我是第二篇文章
+public class OCA_79 {public static void main(String[] args) {String str1 = &amp;#34;Java&amp;#34;;String[] str2 = {&amp;#34;J&amp;#34;, &amp;#34;a&amp;#34;, &amp;#34;v&amp;#34;, &amp;#34;a&amp;#34;};String str3 = &amp;#34;&amp;#34;;for(String str : str2) {str3 = str3 + str;}String str4 = &amp;#34;Java&amp;#34;;boolean b1 = (str1.</description>
     </item>
     
     <item>

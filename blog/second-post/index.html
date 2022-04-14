@@ -135,7 +135,26 @@
         
         <div class="content mb-5">
           <p>我是第二篇文章</p>
+<pre tabindex="0"><code>public class OCA_79 {
 
+	public static void main(String[] args) {
+		String str1 = &#34;Java&#34;;
+		String[] str2 = {&#34;J&#34;, &#34;a&#34;, &#34;v&#34;, &#34;a&#34;};
+		String str3 = &#34;&#34;;
+			for(String str : str2) {
+				str3 = str3 + str;
+			}
+		String str4 = &#34;Java&#34;;
+		boolean b1 = (str1.equals(str3));
+		boolean b2 = (str1 == str3);
+		System.out.println(b1 + &#34;, &#34; + b2);
+		System.out.println(&#34;str1= &#34; + str1);
+		System.out.println(&#34;str3= &#34; + str3);
+		
+	}
+
+}
+</code></pre>
         </div>
 
         
@@ -166,63 +185,7 @@
 
 
 
-<footer class="text-capitalize">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-12 text-center mb-5">
-        <a href="https://roylintw.github.io"><img src="https://roylintw.github.io/images/dolphin.png" alt="程式修練所"></a>
-      </div>
-               
-      <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Contact Me</h6>
-        <ul class="list-unstyled">
-          
-                     
-          <li class="mb-3"><i class="ti-location-pin mr-3 text-primary"></i>Taiwan</li>
-          
-                     
-          <li class="mb-3"><a class="text-dark" href="mailto:bizroylin@gmail.com"><i
-                class="ti-email mr-3 text-primary"></i>bizroylin@gmail.com</a>
-          
-          </li>
-        </ul>
-      </div>
-      
-      <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Social Contacts</h6>
-        <ul class="list-unstyled">
-          
-          <li class="mb-3"><a class="text-dark" href="https://github.com/roylintw">github</a></li>
-          
-        </ul>
-      </div>
-      <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Categories</h6>
-        <ul class="list-unstyled">
-          <li class="mb-3"><a class="text-dark"
-              href="/categories/go-language/">Go language</a>
-          </li>
-          <li class="mb-3"><a class="text-dark"
-              href="/categories/%e5%bf%83%e5%be%97/">心得</a>
-          </li>
-        </ul>
-      </div>
-      <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Quick Links</h6>
-        <ul class="list-unstyled">
-          
-          <li class="mb-3"><a class="text-dark" href="https://roylintw.github.io/about/">About</a></li>
-          
-          <li class="mb-3"><a class="text-dark" href="https://roylintw.github.io/blog/">Post</a></li>
-          
-        </ul>
-      </div>
-      <div class="col-12 border-top py-4 text-center">
-        | copyright © 2021 <a href="https://themefisher.com/hugo-themes/">Themefisher</a> All Rights Reserved |
-      </div>
-    </div>
-  </div>
-</footer>
+
 
 <script>
   var indexURL = "https://roylintw.github.io/index.json"
