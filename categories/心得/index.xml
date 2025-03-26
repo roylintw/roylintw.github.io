@@ -6,25 +6,14 @@
     <description>Recent content in 心得 on 程式修練所</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 03 Apr 2022 10:15:35 +0600</lastBuildDate><atom:link href="https://roylintw.github.io/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Mar 2025 10:15:35 +0600</lastBuildDate><atom:link href="https://roylintw.github.io/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>第二篇文章</title>
-      <link>https://roylintw.github.io/blog/second-post/</link>
-      <pubDate>Sun, 03 Apr 2022 10:15:35 +0600</pubDate>
+      <title>第三篇文章</title>
+      <link>https://roylintw.github.io/blog/third-post/</link>
+      <pubDate>Wed, 26 Mar 2025 10:15:35 +0600</pubDate>
       
-      <guid>https://roylintw.github.io/blog/second-post/</guid>
-      <description>我是第二篇文章
-public class OCA_79 {public static void main(String[] args) {String str1 = &amp;#34;Java&amp;#34;;String[] str2 = {&amp;#34;J&amp;#34;, &amp;#34;a&amp;#34;, &amp;#34;v&amp;#34;, &amp;#34;a&amp;#34;};String str3 = &amp;#34;&amp;#34;;for(String str : str2) {str3 = str3 + str;}String str4 = &amp;#34;Java&amp;#34;;boolean b1 = (str1.</description>
-    </item>
-    
-    <item>
-      <title>第一篇文章</title>
-      <link>https://roylintw.github.io/blog/test/</link>
-      <pubDate>Sun, 03 Apr 2022 10:14:57 +0600</pubDate>
-      
-      <guid>https://roylintw.github.io/blog/test/</guid>
-      <description>一級標題 This text is red!我是 Roy
- 阿柴 ㄚㄚ   Hello  what  are     are you   hello</description>
+      <guid>https://roylintw.github.io/blog/third-post/</guid>
+      <description>我是第三篇文章</description>
     </item>
     
   </channel>

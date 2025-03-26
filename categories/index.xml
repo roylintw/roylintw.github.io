@@ -6,22 +6,40 @@
     <description>Recent content in Categories on 程式修練所</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 03 Apr 2022 10:15:35 +0600</lastBuildDate><atom:link href="https://roylintw.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Mar 2025 10:15:35 +0600</lastBuildDate><atom:link href="https://roylintw.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>心得</title>
       <link>https://roylintw.github.io/categories/%E5%BF%83%E5%BE%97/</link>
-      <pubDate>Sun, 03 Apr 2022 10:15:35 +0600</pubDate>
+      <pubDate>Wed, 26 Mar 2025 10:15:35 +0600</pubDate>
       
       <guid>https://roylintw.github.io/categories/%E5%BF%83%E5%BE%97/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Go Language</title>
-      <link>https://roylintw.github.io/categories/go-language/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>網站</title>
+      <link>https://roylintw.github.io/categories/%E7%B6%B2%E7%AB%99/</link>
+      <pubDate>Sat, 27 Aug 2022 13:19:47 +0800</pubDate>
       
-      <guid>https://roylintw.github.io/categories/go-language/</guid>
+      <guid>https://roylintw.github.io/categories/%E7%B6%B2%E7%AB%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://roylintw.github.io/categories/java/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://roylintw.github.io/categories/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>證照</title>
+      <link>https://roylintw.github.io/categories/%E8%AD%89%E7%85%A7/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://roylintw.github.io/categories/%E8%AD%89%E7%85%A7/</guid>
       <description></description>
     </item>
     

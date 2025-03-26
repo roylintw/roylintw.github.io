@@ -6,11 +6,11 @@
     <description>Recent content in Tags on 程式修練所</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 03 Apr 2022 10:15:35 +0600</lastBuildDate><atom:link href="https://roylintw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Mar 2025 10:15:35 +0600</lastBuildDate><atom:link href="https://roylintw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java</title>
       <link>https://roylintw.github.io/tags/java/</link>
-      <pubDate>Sun, 03 Apr 2022 10:15:35 +0600</pubDate>
+      <pubDate>Wed, 26 Mar 2025 10:15:35 +0600</pubDate>
       
       <guid>https://roylintw.github.io/tags/java/</guid>
       <description></description>
@@ -19,7 +19,7 @@
     <item>
       <title>程式語言</title>
       <link>https://roylintw.github.io/tags/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/</link>
-      <pubDate>Sun, 03 Apr 2022 10:15:35 +0600</pubDate>
+      <pubDate>Wed, 26 Mar 2025 10:15:35 +0600</pubDate>
       
       <guid>https://roylintw.github.io/tags/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/</guid>
       <description></description>
@@ -28,7 +28,7 @@
     <item>
       <title>Game</title>
       <link>https://roylintw.github.io/tags/game/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <pubDate>Sat, 27 Aug 2022 13:19:47 +0800</pubDate>
       
       <guid>https://roylintw.github.io/tags/game/</guid>
       <description></description>
@@ -37,7 +37,7 @@
     <item>
       <title>HTML</title>
       <link>https://roylintw.github.io/tags/html/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <pubDate>Sat, 27 Aug 2022 13:19:47 +0800</pubDate>
       
       <guid>https://roylintw.github.io/tags/html/</guid>
       <description></description>
@@ -46,7 +46,7 @@
     <item>
       <title>New</title>
       <link>https://roylintw.github.io/tags/new/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <pubDate>Sat, 27 Aug 2022 13:19:47 +0800</pubDate>
       
       <guid>https://roylintw.github.io/tags/new/</guid>
       <description></description>
@@ -55,7 +55,7 @@
     <item>
       <title>Photos</title>
       <link>https://roylintw.github.io/tags/photos/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <pubDate>Sat, 27 Aug 2022 13:19:47 +0800</pubDate>
       
       <guid>https://roylintw.github.io/tags/photos/</guid>
       <description></description>
@@ -64,9 +64,45 @@
     <item>
       <title>Python</title>
       <link>https://roylintw.github.io/tags/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <pubDate>Sat, 27 Aug 2022 13:19:47 +0800</pubDate>
       
       <guid>https://roylintw.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1Z0-808</title>
+      <link>https://roylintw.github.io/tags/1z0-808/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://roylintw.github.io/tags/1z0-808/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OCAJP</title>
+      <link>https://roylintw.github.io/tags/ocajp/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://roylintw.github.io/tags/ocajp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>觀念</title>
+      <link>https://roylintw.github.io/tags/%E8%A7%80%E5%BF%B5/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://roylintw.github.io/tags/%E8%A7%80%E5%BF%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>證照</title>
+      <link>https://roylintw.github.io/tags/%E8%AD%89%E7%85%A7/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://roylintw.github.io/tags/%E8%AD%89%E7%85%A7/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on 程式修練所</title>
+    <link>https://roylintw.github.io/categories/java/</link>
+    <description>Recent content in Java on 程式修練所</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 17 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://roylintw.github.io/categories/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【Java】基本資料型態 預設值</title>
+      <link>https://roylintw.github.io/blog/java/primitive_data_types/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/java/primitive_data_types/</guid>
+      <description>參考連結 基本資料型態
+Java 原始資料型態預設值 primitive data type default value</description>
+    </item>
+    
+  </channel>
+</rss>
