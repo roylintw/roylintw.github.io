@@ -6,7 +6,17 @@
     <description>Recent content on 程式修練所</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 26 Mar 2025 10:15:35 +0600</lastBuildDate><atom:link href="https://roylintw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Mar 2025 10:15:35 +0600</lastBuildDate><atom:link href="https://roylintw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>氣泡排序法</title>
+      <link>https://roylintw.github.io/blog/algorithms/bubblesort/</link>
+      <pubDate>Fri, 28 Mar 2025 10:15:35 +0600</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/algorithms/bubblesort/</guid>
+      <description>氣泡排序法（Bubble Sort）是一種簡單的排序演算法，用於對列表或數組中的元素進行排序。該演算法的基本原理是從列表的開頭開始，兩兩比較相鄰的元素，並在必要時進行交換。這個過程重複多次，直到整個列表有序為止。
+氣泡排序法的基本原理：  比較和交換：  從列表的開頭開始，依次比較相鄰的兩個元素。 如果前一個元素大於後一個元素，則交換這兩個元素的位置。 這個過程會將較大的元素「冒泡」到列表的末尾，因此稱為「氣泡排序」。   迭代排序：  重複比較和交換的過程，直到列表完全排序。 每次迭代都會將最大的元素放在列表的末尾，因此每次迭代的範圍逐漸減少。   最佳和最差情況：  在最佳情況下，如果列表已經有序，則氣泡排序會很快結束。 在最差情況下，列表逆序排列，則排序所需的比較和交換次數最多。   時間複雜度：  平均和最壞情況時間複雜度為 O(n^2)，其中 n 是列表的長度。 最佳情況時間複雜度為 O(n)（當列表已經有序時）。   優點：  氣泡排序法簡單易懂，實現容易。 在列表已經接近排序的情況下，氣泡排序可以很快完成排序。   缺點：  氣泡排序法效率較低，時間複雜度高於其他一些排序演算法。 在大部分情況下不建議用於大規模數據排序。    氣泡排序法的程式範例： 下面是一個用 Java 實現的氣泡排序法範例：</description>
+    </item>
+    
     <item>
       <title>第三篇文章</title>
       <link>https://roylintw.github.io/blog/third-post/</link>
@@ -14,6 +24,20 @@
       
       <guid>https://roylintw.github.io/blog/third-post/</guid>
       <description>我是第三篇文章</description>
+    </item>
+    
+    <item>
+      <title>網頁用什麼顏色對眼睛比較好</title>
+      <link>https://roylintw.github.io/blog/%E7%B6%B2%E9%A0%81%E7%94%A8%E4%BB%80%E9%BA%BC%E9%A1%8F%E8%89%B2%E5%B0%8D%E7%9C%BC%E7%9D%9B%E6%AF%94%E8%BC%83%E5%A5%BD/</link>
+      <pubDate>Wed, 26 Mar 2025 10:15:35 +0600</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/%E7%B6%B2%E9%A0%81%E7%94%A8%E4%BB%80%E9%BA%BC%E9%A1%8F%E8%89%B2%E5%B0%8D%E7%9C%BC%E7%9D%9B%E6%AF%94%E8%BC%83%E5%A5%BD/</guid>
+      <description>對眼睛比較友善的網頁顏色通常是較柔和、低對比度的顏色，避免過於刺眼的亮色和高對比度的搭配。以下是一些常見的推薦顏色搭配和原則：
+背景顏色： 使用柔和的淺色背景（如淺灰色或淺米色）會比純白色更能減少眼睛疲勞。白色背景過於刺眼，尤其在長時間觀看時容易感到不適。
+文字顏色： 選擇深色文字（如深灰或黑色）搭配淺色背景。避免使用過於鮮豔或對比過強的顏色（如紅色或黃色），因為這些顏色會讓眼睛感到刺痛。
+暗模式： 如果是長時間使用設備，暗模式（背景黑色或深灰色，文字白色或淺灰色）也是一個不錯的選擇，可以減少眼睛的疲勞和光線對比。
+避免過多的顏色： 除非有特殊設計需求，否則避免網頁使用過多的顏色。過多鮮豔顏色會讓眼睛難以集中注意力。
+調整亮度： 根據環境光線調整亮度，避免在黑暗環境中使用亮色背景，或是在光線強烈的地方使用過於暗沉的顏色。</description>
     </item>
     
     <item>

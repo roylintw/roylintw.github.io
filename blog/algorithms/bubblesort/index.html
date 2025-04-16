@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="zh-tw"><head>
+  <meta charset="utf-8">
+  <title>程式修練所</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="氣泡排序法 介紹">
+  <meta name="author" content="阿孟">
+  <meta name="generator" content="Hugo 0.96.0" />
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://roylintw.github.io/plugins/bootstrap/bootstrap.min.css ">
+  
+  <link rel="stylesheet" href="https://roylintw.github.io/plugins/slick/slick.css ">
+  
+  <link rel="stylesheet" href="https://roylintw.github.io/plugins/themify-icons/themify-icons.css ">
+  
+  <link rel="stylesheet" href="https://roylintw.github.io/plugins/venobox/venobox.css ">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="https://roylintw.github.io/scss/style.min.css" media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="https://roylintw.github.io/images/favicon.png " type="image/x-icon">
+  <link rel="icon" href="https://roylintw.github.io/images/favicon.png " type="image/x-icon">
+
+  <!-- google analitycs -->
+  <script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-159343362-2', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+  
+
+<!-- Syntax -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/atom-one-dark.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+<script>hljs.highlightAll();</script>
+
+
+</head><body>
+<!-- preloader start -->
+<div class="preloader">
+  
+</div>
+<!-- preloader end -->
+<!-- navigation -->
+<header class="navigation">
+  <div class="container">
+    
+    <nav class="navbar navbar-expand-lg navbar-white bg-transparent border-bottom pl-0">
+      <a class="navbar-brand mobile-view" href="https://roylintw.github.io"><img class="img-fluid"
+          src="https://roylintw.github.io/images/dolphin.png" alt="程式修練所"></a>
+      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
+        <i class="ti-menu"></i>
+      </button>
+
+      <div class="collapse navbar-collapse text-center" id="navigation">
+        <div class="desktop-view">
+          <ul class="navbar-nav mr-auto">
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://github.com/roylintw"><i class="ti-github"></i></a>
+            </li>
+            
+          </ul>
+        </div>
+
+        <a class="navbar-brand mx-auto desktop-view" href="https://roylintw.github.io"><img class="img-fluid"
+            src="https://roylintw.github.io/images/dolphin.png" alt="程式修練所"></a>
+
+        <ul class="navbar-nav">
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://roylintw.github.io/about/">About</a>
+          </li>
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://roylintw.github.io/blog/">Post</a>
+          </li>
+          
+          
+        </ul>
+
+        
+        <!-- search -->
+        <div class="search pl-lg-4">
+          <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
+          <div class="search-wrapper">
+            <form action="https://roylintw.github.io/search" class="h-100">
+              <input class="search-box px-4" id="search-query" name="s" type="search" placeholder="Type & Hit Enter...">
+            </form>
+            <button id="searchClose" class="search-close"><i class="ti-close text-dark"></i></button>
+          </div>
+        </div>
+        
+
+        
+      </div>
+    </nav>
+  </div>
+</header>
+<!-- /navigation -->
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        
+        <a href="/categories/%e6%bc%94%e7%ae%97%e6%b3%95"
+          class="text-primary">演算法</a>
+        
+        <h2>氣泡排序法</h2>
+        <div class="mb-3 post-meta">
+          <span>By 阿孟</span>
+          
+          <span class="border-bottom border-primary px-2 mx-1"></span>
+          <span>28 March 2025</span>
+          
+        </div>
+        
+        <div class="content mb-5">
+          <p>氣泡排序法（Bubble Sort）是一種簡單的排序演算法，用於對列表或數組中的元素進行排序。該演算法的基本原理是從列表的開頭開始，兩兩比較相鄰的元素，並在必要時進行交換。這個過程重複多次，直到整個列表有序為止。</p>
+<h3 id="氣泡排序法的基本原理"><strong>氣泡排序法的基本原理：</strong></h3>
+<ol>
+<li><strong>比較和交換</strong>：
+<ul>
+<li>從列表的開頭開始，依次比較相鄰的兩個元素。</li>
+<li>如果前一個元素大於後一個元素，則交換這兩個元素的位置。</li>
+<li>這個過程會將較大的元素「冒泡」到列表的末尾，因此稱為「氣泡排序」。</li>
+</ul>
+</li>
+<li><strong>迭代排序</strong>：
+<ul>
+<li>重複比較和交換的過程，直到列表完全排序。</li>
+<li>每次迭代都會將最大的元素放在列表的末尾，因此每次迭代的範圍逐漸減少。</li>
+</ul>
+</li>
+<li><strong>最佳和最差情況</strong>：
+<ul>
+<li>在最佳情況下，如果列表已經有序，則氣泡排序會很快結束。</li>
+<li>在最差情況下，列表逆序排列，則排序所需的比較和交換次數最多。</li>
+</ul>
+</li>
+<li><strong>時間複雜度</strong>：
+<ul>
+<li>平均和最壞情況時間複雜度為 <strong><code>O(n^2)</code></strong>，其中 <strong><code>n</code></strong> 是列表的長度。</li>
+<li>最佳情況時間複雜度為 <strong><code>O(n)</code></strong>（當列表已經有序時）。</li>
+</ul>
+</li>
+<li><strong>優點</strong>：
+<ul>
+<li>氣泡排序法簡單易懂，實現容易。</li>
+<li>在列表已經接近排序的情況下，氣泡排序可以很快完成排序。</li>
+</ul>
+</li>
+<li><strong>缺點</strong>：
+<ul>
+<li>氣泡排序法效率較低，時間複雜度高於其他一些排序演算法。</li>
+<li>在大部分情況下不建議用於大規模數據排序。</li>
+</ul>
+</li>
+</ol>
+<h3 id="氣泡排序法的程式範例"><strong>氣泡排序法的程式範例：</strong></h3>
+<p>下面是一個用 Java 實現的氣泡排序法範例：</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#eed;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-java" data-lang="java"><span style="display:flex;"><span><span style="color:#8b008b;font-weight:bold">public</span> <span style="color:#8b008b;font-weight:bold">class</span> <span style="color:#008b45;font-weight:bold">BubbleSort</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#8b008b;font-weight:bold">public</span> <span style="color:#8b008b;font-weight:bold">static</span> <span style="color:#00688b;font-weight:bold">void</span> <span style="color:#008b45">bubbleSort</span>(<span style="color:#00688b;font-weight:bold">int</span>[] array) {
+</span></span><span style="display:flex;"><span>        <span style="color:#00688b;font-weight:bold">int</span> n = array.<span style="color:#658b00">length</span>;
+</span></span><span style="display:flex;"><span>        <span style="color:#00688b;font-weight:bold">boolean</span> swapped;
+</span></span><span style="display:flex;"><span>        
+</span></span><span style="display:flex;"><span>        <span style="color:#228b22">// 遍歷列表
+</span></span></span><span style="display:flex;"><span><span style="color:#228b22"></span>        <span style="color:#8b008b;font-weight:bold">for</span> (<span style="color:#00688b;font-weight:bold">int</span> i = 0; i &lt; n - 1; i++) {
+</span></span><span style="display:flex;"><span>            swapped = <span style="color:#8b008b;font-weight:bold">false</span>;
+</span></span><span style="display:flex;"><span>            
+</span></span><span style="display:flex;"><span>            <span style="color:#228b22">// 比較相鄰元素
+</span></span></span><span style="display:flex;"><span><span style="color:#228b22"></span>            <span style="color:#8b008b;font-weight:bold">for</span> (<span style="color:#00688b;font-weight:bold">int</span> j = 0; j &lt; n - i - 1; j++) {
+</span></span><span style="display:flex;"><span>                <span style="color:#8b008b;font-weight:bold">if</span> (array[j] &gt; array[j + 1]) {
+</span></span><span style="display:flex;"><span>                    <span style="color:#228b22">// 交換元素
+</span></span></span><span style="display:flex;"><span><span style="color:#228b22"></span>                    <span style="color:#00688b;font-weight:bold">int</span> temp = array[j];
+</span></span><span style="display:flex;"><span>                    array[j] = array[j + 1];
+</span></span><span style="display:flex;"><span>                    array[j + 1] = temp;
+</span></span><span style="display:flex;"><span>                    
+</span></span><span style="display:flex;"><span>                    <span style="color:#228b22">// 設定 swapped 為 true 表示有進行交換
+</span></span></span><span style="display:flex;"><span><span style="color:#228b22"></span>                    swapped = <span style="color:#8b008b;font-weight:bold">true</span>;
+</span></span><span style="display:flex;"><span>                }
+</span></span><span style="display:flex;"><span>            }
+</span></span><span style="display:flex;"><span>            
+</span></span><span style="display:flex;"><span>            <span style="color:#228b22">// 如果這次迭代沒有進行交換，說明列表已經排序完成，可以提前退出
+</span></span></span><span style="display:flex;"><span><span style="color:#228b22"></span>            <span style="color:#8b008b;font-weight:bold">if</span> (!swapped) {
+</span></span><span style="display:flex;"><span>                <span style="color:#8b008b;font-weight:bold">break</span>;
+</span></span><span style="display:flex;"><span>            }
+</span></span><span style="display:flex;"><span>        }
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    
+</span></span><span style="display:flex;"><span>    <span style="color:#8b008b;font-weight:bold">public</span> <span style="color:#8b008b;font-weight:bold">static</span> <span style="color:#00688b;font-weight:bold">void</span> <span style="color:#008b45">main</span>(String[] args) {
+</span></span><span style="display:flex;"><span>        <span style="color:#228b22">// 定義一個整數數組
+</span></span></span><span style="display:flex;"><span><span style="color:#228b22"></span>        <span style="color:#00688b;font-weight:bold">int</span>[] array = {64, 34, 25, 12, 22, 11, 90};
+</span></span><span style="display:flex;"><span>        
+</span></span><span style="display:flex;"><span>        <span style="color:#228b22">// 輸出排序前的數組
+</span></span></span><span style="display:flex;"><span><span style="color:#228b22"></span>        System.<span style="color:#658b00">out</span>.<span style="color:#658b00">println</span>(<span style="color:#cd5555">&#34;排序前的數組:&#34;</span>);
+</span></span><span style="display:flex;"><span>        <span style="color:#8b008b;font-weight:bold">for</span> (<span style="color:#00688b;font-weight:bold">int</span> num : array) {
+</span></span><span style="display:flex;"><span>            System.<span style="color:#658b00">out</span>.<span style="color:#658b00">print</span>(num + <span style="color:#cd5555">&#34; &#34;</span>);
+</span></span><span style="display:flex;"><span>        }
+</span></span><span style="display:flex;"><span>        System.<span style="color:#658b00">out</span>.<span style="color:#658b00">println</span>();
+</span></span><span style="display:flex;"><span>        
+</span></span><span style="display:flex;"><span>        <span style="color:#228b22">// 執行氣泡排序
+</span></span></span><span style="display:flex;"><span><span style="color:#228b22"></span>        bubbleSort(array);
+</span></span><span style="display:flex;"><span>        
+</span></span><span style="display:flex;"><span>        <span style="color:#228b22">// 輸出排序後的數組
+</span></span></span><span style="display:flex;"><span><span style="color:#228b22"></span>        System.<span style="color:#658b00">out</span>.<span style="color:#658b00">println</span>(<span style="color:#cd5555">&#34;排序後的數組:&#34;</span>);
+</span></span><span style="display:flex;"><span>        <span style="color:#8b008b;font-weight:bold">for</span> (<span style="color:#00688b;font-weight:bold">int</span> num : array) {
+</span></span><span style="display:flex;"><span>            System.<span style="color:#658b00">out</span>.<span style="color:#658b00">print</span>(num + <span style="color:#cd5555">&#34; &#34;</span>);
+</span></span><span style="display:flex;"><span>        }
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="參考文章">參考文章</h3>
+<ol>
+<li>ChatGPT</li>
+<li><a href="https://www.youtube.com/watch?v=2Gp5kohphy0&amp;list=PLVVMQF8vWNCITO9U3h-cVA6nHkdqJEifc&amp;index=10&amp;ab_channel=%E5%9C%96%E8%A7%A3%E7%A8%8B%E5%BC%8F%E6%95%99%E5%AD%B8SamTsai">【圖解演算法教學】Bubble Sort 的大隊接力賽 入門|介紹|教學|LeetCode|資料結構</a></li>
+<li>Bubble Sort Algorithm - GreeksForGreeks</li>
+</ol>
+
+        </div>
+
+        
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "roylintw" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+<script>
+  var indexURL = "https://roylintw.github.io/index.json"
+</script>
+
+<!-- JS Plugins -->
+
+<script src="https://roylintw.github.io/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://roylintw.github.io/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://roylintw.github.io/plugins/slick/slick.min.js"></script>
+
+<script src="https://roylintw.github.io/plugins/venobox/venobox.min.js"></script>
+
+<script src="https://roylintw.github.io/plugins/search/fuse.min.js"></script>
+
+<script src="https://roylintw.github.io/plugins/search/mark.js"></script>
+
+<script src="https://roylintw.github.io/plugins/search/search.js"></script>
+
+<!-- Main Script -->
+
+<script src="https://roylintw.github.io/js/script.min.js"></script>
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-primary ml-2">I Accept</span>
+</div>
+<script>
+	(function ($) {
+		const cookieBox = document.getElementById('js-cookie-box');
+		const cookieButton = document.getElementById('js-cookie-button');
+		if (!Cookies.get('cookie-box')) {
+			cookieBox.classList.remove('cookie-box-hide');
+			cookieButton.onclick = function () {
+				Cookies.set('cookie-box', true, {
+					expires:  2 
+				});
+				cookieBox.classList.add('cookie-box-hide');
+			};
+		}
+	})(jQuery);
+</script>
+
+
+<style>
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 9999;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
+}
+
+.cookie-box-hide {
+  display: none;
+}
+</style>
+</body>
+</html>
