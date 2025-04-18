@@ -6,15 +6,37 @@
     <description>Recent content in 演算法 on 程式修練所</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 28 Mar 2025 10:15:35 +0600</lastBuildDate><atom:link href="https://roylintw.github.io/tags/%E6%BC%94%E7%AE%97%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Apr 2025 16:12:35 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/tags/%E6%BC%94%E7%AE%97%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>氣泡排序法</title>
+      <title>🔢 排序演算法 - 插入排序法</title>
+      <link>https://roylintw.github.io/blog/algorithms/insertionsort/</link>
+      <pubDate>Fri, 18 Apr 2025 16:12:35 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/algorithms/insertionsort/</guid>
+      <description>📌定義： 選擇排序是一種簡單直觀的排序演算法。
+它的基本思想是：每一輪從未排序的元素中選出最小（或最大）的元素，放到已排序區域的最前/後面。
+🧠原理： 假設有一個陣列 [29, 10, 14, 37, 13]，進行升序排序：</description>
+    </item>
+    
+    <item>
+      <title>🔢 排序演算法 - 選擇排序法</title>
+      <link>https://roylintw.github.io/blog/algorithms/selectionsort/</link>
+      <pubDate>Fri, 18 Apr 2025 15:11:35 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/algorithms/selectionsort/</guid>
+      <description>📌定義： 選擇排序是一種簡單直觀的排序演算法。
+它的基本思想是：每一輪從未排序的元素中選出最小（或最大）的元素，放到已排序區域的最前/後面。
+🧠原理： 假設有一個陣列 [29, 10, 14, 37, 13]，進行升序排序：</description>
+    </item>
+    
+    <item>
+      <title>🔢 排序演算法 - 氣泡排序法</title>
       <link>https://roylintw.github.io/blog/algorithms/bubblesort/</link>
-      <pubDate>Fri, 28 Mar 2025 10:15:35 +0600</pubDate>
+      <pubDate>Fri, 28 Mar 2025 10:15:35 +0800</pubDate>
       
       <guid>https://roylintw.github.io/blog/algorithms/bubblesort/</guid>
       <description>氣泡排序法（Bubble Sort）是一種簡單的排序演算法，用於對列表或數組中的元素進行排序。該演算法的基本原理是從列表的開頭開始，兩兩比較相鄰的元素，並在必要時進行交換。這個過程重複多次，直到整個列表有序為止。
-氣泡排序法的基本原理：  比較和交換：  從列表的開頭開始，依次比較相鄰的兩個元素。 如果前一個元素大於後一個元素，則交換這兩個元素的位置。 這個過程會將較大的元素「冒泡」到列表的末尾，因此稱為「氣泡排序」。   迭代排序：  重複比較和交換的過程，直到列表完全排序。 每次迭代都會將最大的元素放在列表的末尾，因此每次迭代的範圍逐漸減少。   最佳和最差情況：  在最佳情況下，如果列表已經有序，則氣泡排序會很快結束。 在最差情況下，列表逆序排列，則排序所需的比較和交換次數最多。   時間複雜度：  平均和最壞情況時間複雜度為 O(n^2)，其中 n 是列表的長度。 最佳情況時間複雜度為 O(n)（當列表已經有序時）。   優點：  氣泡排序法簡單易懂，實現容易。 在列表已經接近排序的情況下，氣泡排序可以很快完成排序。   缺點：  氣泡排序法效率較低，時間複雜度高於其他一些排序演算法。 在大部分情況下不建議用於大規模數據排序。    氣泡排序法的程式範例： 下面是一個用 Java 實現的氣泡排序法範例：</description>
+基本原理：  比較和交換：  從列表的開頭開始，依次比較相鄰的兩個元素。 如果前一個元素大於後一個元素，則交換這兩個元素的位置。 這個過程會將較大的元素「冒泡」到列表的末尾，因此稱為「氣泡排序」。   迭代排序：  重複比較和交換的過程，直到列表完全排序。 每次迭代都會將最大的元素放在列表的末尾，因此每次迭代的範圍逐漸減少。   最佳和最差情況：  在最佳情況下，如果列表已經有序，則氣泡排序會很快結束。 在最差情況下，列表逆序排列，則排序所需的比較和交換次數最多。   時間複雜度：  平均和最壞情況時間複雜度為 O(n^2)，其中 n 是列表的長度。 最佳情況時間複雜度為 O(n)（當列表已經有序時）。   優點：  氣泡排序法簡單易懂，實現容易。 在列表已經接近排序的情況下，氣泡排序可以很快完成排序。   缺點：  氣泡排序法效率較低，時間複雜度高於其他一些排序演算法。 在大部分情況下不建議用於大規模數據排序。    氣泡排序法的程式範例： 下面是一個用 Java 實現的氣泡排序法範例：</description>
     </item>
     
   </channel>
