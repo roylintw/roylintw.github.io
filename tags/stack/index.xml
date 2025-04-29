@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stack on 小書僮</title>
+    <link>https://roylintw.github.io/tags/stack/</link>
+    <description>Recent content in Stack on 小書僮</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 27 Apr 2025 22:06:35 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/tags/stack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>資料結構 Stack</title>
+      <link>https://roylintw.github.io/blog/data_structure/1_stack/</link>
+      <pubDate>Sun, 27 Apr 2025 22:06:35 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/data_structure/1_stack/</guid>
+      <description>📌定義： 🧠特性：  LIFO(後進先出)  ⏱️ 時間複雜度： ✅ 優點：    ❌ 缺點：  無法依據元素「優先權」來排序或取出  💡 適合用在哪？ 👨‍💻程式： 🧾執行結果： 📚參考文章  ChatGPT  </description>
+    </item>
+    
+  </channel>
+</rss>
