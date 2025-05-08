@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="zh-tw"><head>
+  <meta charset="utf-8">
+  <title>小書僮</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="銀行家演算法 介紹">
+  <meta name="author" content="小書僮">
+  <meta name="generator" content="Hugo 0.96.0" />
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://roylintw.github.io/plugins/bootstrap/bootstrap.min.css ">
+  
+  <link rel="stylesheet" href="https://roylintw.github.io/plugins/slick/slick.css ">
+  
+  <link rel="stylesheet" href="https://roylintw.github.io/plugins/themify-icons/themify-icons.css ">
+  
+  <link rel="stylesheet" href="https://roylintw.github.io/plugins/venobox/venobox.css ">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="https://roylintw.github.io/scss/style.min.css" media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="https://roylintw.github.io/images/favicon.png " type="image/x-icon">
+  <link rel="icon" href="https://roylintw.github.io/images/favicon.png " type="image/x-icon">
+
+  <!-- google analitycs -->
+  <script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-159343362-2', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+  
+
+<!-- Syntax -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/atom-one-dark.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+<script>hljs.highlightAll();</script>
+
+
+</head><body>
+<!-- preloader start -->
+<div class="preloader">
+  
+</div>
+<!-- preloader end -->
+<!-- navigation -->
+<header class="navigation">
+  <div class="container">
+    
+    <nav class="navbar navbar-expand-lg navbar-white bg-transparent border-bottom pl-0">
+      <a class="navbar-brand mobile-view" href="https://roylintw.github.io"><img class="img-fluid"
+          src="https://roylintw.github.io/images/dolphin.png" alt="小書僮"></a>
+      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
+        <i class="ti-menu"></i>
+      </button>
+
+      <div class="collapse navbar-collapse text-center" id="navigation">
+        <div class="desktop-view">
+          <ul class="navbar-nav mr-auto">
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://github.com/roylintw"><i class="ti-github"></i></a>
+            </li>
+            
+          </ul>
+        </div>
+
+        <a class="navbar-brand mx-auto desktop-view" href="https://roylintw.github.io"><img class="img-fluid"
+            src="https://roylintw.github.io/images/dolphin.png" alt="小書僮"></a>
+
+        <ul class="navbar-nav">
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://roylintw.github.io/about/">About</a>
+          </li>
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://roylintw.github.io/blog/">Post</a>
+          </li>
+          
+          
+        </ul>
+
+        
+        <!-- search -->
+        <div class="search pl-lg-4">
+          <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
+          <div class="search-wrapper">
+            <form action="https://roylintw.github.io/search" class="h-100">
+              <input class="search-box px-4" id="search-query" name="s" type="search" placeholder="Type & Hit Enter...">
+            </form>
+            <button id="searchClose" class="search-close"><i class="ti-close text-dark"></i></button>
+          </div>
+        </div>
+        
+
+        
+      </div>
+    </nav>
+  </div>
+</header>
+<!-- /navigation -->
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        
+        <a href="/categories/%e6%bc%94%e7%ae%97%e6%b3%95"
+          class="text-primary">演算法</a>
+        
+        <h2>銀行家演算法</h2>
+        <div class="mb-3 post-meta">
+          <span>By 小書僮</span>
+          
+          <span class="border-bottom border-primary px-2 mx-1"></span>
+          <span>05 May 2025</span>
+          
+        </div>
+        
+        <div class="content mb-5">
+          <h3 id="定義"><strong>📌定義：</strong></h3>
+<h3 id="為什麼要叫銀行家演算法"><strong>為什麼要叫銀行家演算法?</strong></h3>
+<p>「銀行家演算法（Banker&rsquo;s Algorithm）」之所以叫這個名字，是因為它的資源分配邏輯像極了銀行放貸的風險控制機制。這個名稱是由電腦科學家 Edsger Dijkstra 所命名的。</p>
+<p>✅ 為什麼叫「銀行家」？
+想像一個銀行（banker）在考慮是否借錢給多個客戶（processes）時，會這樣想：</p>
+<p>❝ 如果我把這筆錢借出去，會不會導致整個銀行無法滿足其他客戶最低需求，造成資金鏈斷裂？ ❞</p>
+<p>所以銀行家會在每次放貸（資源分配）前：</p>
+<p>評估客戶最多還會需要多少資金（Maximum claim）；</p>
+<p>檢查目前是否還有足夠資金可以應付所有客戶的最壞情況；</p>
+<p>只有在系統整體安全的情況下才會批准借出。</p>
+<p>這跟作業系統中：</p>
+<p>程序（Processes）向系統請求資源（如記憶體、I/O）；</p>
+<p>系統只在能保證安全（無死結）時才會分配資源；
+非常相似。</p>
+<p>✅ 簡單對照表：
+銀行場景	作業系統對應
+銀行貸款給客戶	系統分配資源給程序
+客戶聲明最大貸款額	程序聲明最大資源需求
+銀行檢查是否安全	系統檢查是否會進入不安全狀態（可能死結）</p>
+<p>✅ 總結：
+這個演算法被稱為「銀行家演算法」，是因為它模擬銀行在謹慎放貸時的風險控制邏輯，確保即使每個客戶都在最壞情況下提出最大需求，也不會讓銀行破產（對應於系統進入死結狀態）。
+<img src="../../images/%E9%8A%80%E8%A1%8C%E5%AE%B6%E6%BC%94%E7%AE%97%E6%B3%95_Banker's_Algorithm.jpeg" alt="image"></p>
+<h3 id="原理"><strong>🧠原理：</strong></h3>
+<h3 id="-時間複雜度"><strong>⏱️ 時間複雜度：</strong></h3>
+<h3 id="-優點"><strong>✅ 優點：</strong></h3>
+<ul>
+<li></li>
+</ul>
+<h3 id="-缺點"><strong>❌ 缺點：</strong></h3>
+<ul>
+<li></li>
+</ul>
+<h3 id="-適合用在哪"><strong>💡 適合用在哪？</strong></h3>
+<h3 id="程式"><strong>👨‍💻程式：</strong></h3>
+<div class="highlight"><pre tabindex="0" style="background-color:#eed;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-java" data-lang="java"></code></pre></div><h3 id="執行結果"><strong>🧾執行結果：</strong></h3>
+<pre tabindex="0"><code></code></pre><h3 id="參考文章">📚參考文章</h3>
+<ol>
+<li>ChatGPT</li>
+</ol>
+
+        </div>
+
+        
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "roylintw" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+<script>
+  var indexURL = "https://roylintw.github.io/index.json"
+</script>
+
+<!-- JS Plugins -->
+
+<script src="https://roylintw.github.io/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://roylintw.github.io/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://roylintw.github.io/plugins/slick/slick.min.js"></script>
+
+<script src="https://roylintw.github.io/plugins/venobox/venobox.min.js"></script>
+
+<script src="https://roylintw.github.io/plugins/search/fuse.min.js"></script>
+
+<script src="https://roylintw.github.io/plugins/search/mark.js"></script>
+
+<script src="https://roylintw.github.io/plugins/search/search.js"></script>
+
+<!-- Main Script -->
+
+<script src="https://roylintw.github.io/js/script.min.js"></script>
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-primary ml-2">I Accept</span>
+</div>
+<script>
+	(function ($) {
+		const cookieBox = document.getElementById('js-cookie-box');
+		const cookieButton = document.getElementById('js-cookie-button');
+		if (!Cookies.get('cookie-box')) {
+			cookieBox.classList.remove('cookie-box-hide');
+			cookieButton.onclick = function () {
+				Cookies.set('cookie-box', true, {
+					expires:  2 
+				});
+				cookieBox.classList.add('cookie-box-hide');
+			};
+		}
+	})(jQuery);
+</script>
+
+
+<style>
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 9999;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
+}
+
+.cookie-box-hide {
+  display: none;
+}
+</style>
+</body>
+</html>

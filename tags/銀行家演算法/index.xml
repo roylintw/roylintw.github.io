@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>銀行家演算法 on 小書僮</title>
+    <link>https://roylintw.github.io/tags/%E9%8A%80%E8%A1%8C%E5%AE%B6%E6%BC%94%E7%AE%97%E6%B3%95/</link>
+    <description>Recent content in 銀行家演算法 on 小書僮</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 05 May 2025 21:01:35 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/tags/%E9%8A%80%E8%A1%8C%E5%AE%B6%E6%BC%94%E7%AE%97%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>銀行家演算法</title>
+      <link>https://roylintw.github.io/blog/algorithms/todo_bankers_algorithms/</link>
+      <pubDate>Mon, 05 May 2025 21:01:35 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/algorithms/todo_bankers_algorithms/</guid>
+      <description>📌定義： 為什麼要叫銀行家演算法? 「銀行家演算法（Banker&amp;rsquo;s Algorithm）」之所以叫這個名字，是因為它的資源分配邏輯像極了銀行放貸的風險控制機制。這個名稱是由電腦科學家 Edsger Dijkstra 所命名的。
+✅ 為什麼叫「銀行家」？ 想像一個銀行（banker）在考慮是否借錢給多個客戶（processes）時，會這樣想：</description>
+    </item>
+    
+  </channel>
+</rss>

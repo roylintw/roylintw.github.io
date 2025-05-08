@@ -6,7 +6,17 @@
     <description>Recent content in 演算法 on 小書僮</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 18 Apr 2025 16:12:35 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/tags/%E6%BC%94%E7%AE%97%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 May 2025 21:01:35 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/tags/%E6%BC%94%E7%AE%97%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>銀行家演算法</title>
+      <link>https://roylintw.github.io/blog/algorithms/todo_bankers_algorithms/</link>
+      <pubDate>Mon, 05 May 2025 21:01:35 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/algorithms/todo_bankers_algorithms/</guid>
+      <description>📌定義： 為什麼要叫銀行家演算法? 「銀行家演算法（Banker&amp;rsquo;s Algorithm）」之所以叫這個名字，是因為它的資源分配邏輯像極了銀行放貸的風險控制機制。這個名稱是由電腦科學家 Edsger Dijkstra 所命名的。
+✅ 為什麼叫「銀行家」？ 想像一個銀行（banker）在考慮是否借錢給多個客戶（processes）時，會這樣想：</description>
+    </item>
+    
     <item>
       <title>🔢 排序演算法 - 插入排序法</title>
       <link>https://roylintw.github.io/blog/algorithms/insertionsort/</link>
