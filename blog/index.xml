@@ -6,7 +6,50 @@
     <description>Recent content in Blogs on 小書僮</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 08 May 2025 22:44:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Jun 2025 20:11:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[SourceTree]使用SSL連線GitLab(已解決)</title>
+      <link>https://roylintw.github.io/blog/sourcetree/sourcetree%E4%BD%BF%E7%94%A8ssl%E9%80%A3%E7%B7%9Agitlab/</link>
+      <pubDate>Tue, 24 Jun 2025 20:11:00 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/sourcetree/sourcetree%E4%BD%BF%E7%94%A8ssl%E9%80%A3%E7%B7%9Agitlab/</guid>
+      <description>問題描述 最近需要 Clone GitLab 上的專案，
+但 Clone 時一直顯示錯誤，
+使用 source clone https://gitlab.</description>
+    </item>
+    
+    <item>
+      <title>安裝mysql教學</title>
+      <link>https://roylintw.github.io/blog/sql/%E5%AE%89%E8%A3%9Dmysql%E6%95%99%E5%AD%B8/</link>
+      <pubDate>Sat, 14 Jun 2025 14:37:00 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/sql/%E5%AE%89%E8%A3%9Dmysql%E6%95%99%E5%AD%B8/</guid>
+      <description>下載 前往下載網址 前往 MySQL Community Downloads
+選擇版本和下載點 選擇最新版本，選擇第二個下載點 直接下載 這時畫面上會出現 Login 和 Sign Up 按鈕，</description>
+    </item>
+    
+    <item>
+      <title>[STS] Console Logs 太多被洗掉的原因(已解決)</title>
+      <link>https://roylintw.github.io/blog/sts/console%E7%9A%84log%E8%A8%8A%E6%81%AF%E8%A2%AB%E6%B4%97%E6%8E%89%E5%8E%9F%E5%9B%A0/</link>
+      <pubDate>Tue, 13 May 2025 23:16:00 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/sts/console%E7%9A%84log%E8%A8%8A%E6%81%AF%E8%A2%AB%E6%B4%97%E6%8E%89%E5%8E%9F%E5%9B%A0/</guid>
+      <description>問題描述 最近在看專案結構時，
+想透過 log 觀看跑到哪個 method，
+但一直沒有印在 Console 視窗裡面，
+調了 log.</description>
+    </item>
+    
+    <item>
+      <title>20250513(二) 製作行動銀行測試報告</title>
+      <link>https://roylintw.github.io/blog/diary/20250513/</link>
+      <pubDate>Tue, 13 May 2025 23:08:00 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/diary/20250513/</guid>
+      <description>今日目標： 英文
+ 單字: 7000單字 Unit 文法 哥倫布 文法庫 Unit  研究所 英文(B) 資訊科技概論</description>
+    </item>
+    
     <item>
       <title>log4j2 標籤 介紹</title>
       <link>https://roylintw.github.io/blog/logging/log4j2/</link>
