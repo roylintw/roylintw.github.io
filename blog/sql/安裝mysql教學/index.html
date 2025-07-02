@@ -158,11 +158,33 @@
 <img src="../../../images/MySQL-Installer-%E9%96%8B%E5%A7%8B%E7%95%AB%E9%9D%A2.jpg" alt="image">
 按 Execute，接下來一直按 Next，<br>
 預設 port 3306，按 Next，<br>
-<img src="../../../images/mysql-3306.jpg" alt="image">
-設定一組密碼，記得要記住哦，重要!
-<img src="../../../images/MySQL-Installer-account-and-roles.jpg" alt="image">
+<img src="../../../images/mysql-3306.jpg" alt="image"><br>
+設定一組密碼，記得要記住哦，重要!<br>
+<img src="../../../images/MySQL-Installer-account-and-roles.jpg" alt="image"><br>
 接下來一直按 Next，最後按 Execute 就完成囉
 <img src="../../../images/MySQL-Installer-finish.jpg" alt="image"></p>
+<h5 id="確認是否安裝成功">確認是否安裝成功</h5>
+<p>控制集 &gt; 程式集 &gt; 程式和功能
+<img src="../../../images/MySQL-server-version.jpg" alt="image"></p>
+<h5 id="加入環境變數">加入環境變數</h5>
+<p>步驟：</p>
+<ol>
+<li>右鍵點選「本機」 →「內容」</li>
+<li>點選左側「進階系統設定」</li>
+<li>在「系統內容」中，點選「環境變數」</li>
+<li>在「系統變數」中，找到並點選「Path」→ 點選「編輯」</li>
+<li>點選「新增」，貼上：</li>
+</ol>
+<pre tabindex="0"><code>YourPath\MySQL\MySQL Server 8.0\bin
+</code></pre><ol start="6">
+<li>按「確定」儲存並關閉所有視窗<br>
+<img src="../../../images/MySQL%E7%B7%A8%E8%BC%AF%E7%92%B0%E5%A2%83%E8%AE%8A%E6%95%B8.jpg" alt="image"><br>
+關閉並重新開啟 CMD 或 PowerShell，輸入：</li>
+</ol>
+<pre tabindex="0"><code>mysql -u 你的帳號 -p
+</code></pre><p>再輸入密碼，<br>
+如果成功，會顯示 MySQL 版本號。
+<img src="../../../images/MySQL%E6%9F%A5%E8%A9%A2%E7%89%88%E6%9C%AC.jpg" alt="image"></p>
 <h2 id="下載-mysql-workbench">下載 MySQL Workbench</h2>
 <p>因為 MySQL 本身無提供清晰明確的介面去操作，所以需要下載 MySQL Workbench 來方便我們使用，<br>
 前往 <a href="https://www.mysql.com/products/workbench/">MySQL Workbench</a>，<br>
