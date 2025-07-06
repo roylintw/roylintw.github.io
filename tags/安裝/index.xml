@@ -6,7 +6,17 @@
     <description>Recent content in 安裝 on 小書僮</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 14 Jun 2025 14:37:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/tags/%E5%AE%89%E8%A3%9D/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Jul 2025 01:10:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/tags/%E5%AE%89%E8%A3%9D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>安裝  DBeaver 教學</title>
+      <link>https://roylintw.github.io/blog/sql/%E5%AE%89%E8%A3%9Ddbeaver%E6%95%99%E5%AD%B8/</link>
+      <pubDate>Sat, 05 Jul 2025 01:10:00 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/sql/%E5%AE%89%E8%A3%9Ddbeaver%E6%95%99%E5%AD%B8/</guid>
+      <description>下載 前往下載網址 前往 Download
+開始下載 DBeaver Community &amp;gt; 點選 Windows(installer) &amp;gt; 雙擊下載</description>
+    </item>
+    
     <item>
       <title>安裝mysql教學</title>
       <link>https://roylintw.github.io/blog/sql/%E5%AE%89%E8%A3%9Dmysql%E6%95%99%E5%AD%B8/</link>

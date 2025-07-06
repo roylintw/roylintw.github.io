@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DBeaver on 小書僮</title>
+    <link>https://roylintw.github.io/tags/dbeaver/</link>
+    <description>Recent content in DBeaver on 小書僮</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 05 Jul 2025 01:10:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/tags/dbeaver/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>安裝  DBeaver 教學</title>
+      <link>https://roylintw.github.io/blog/sql/%E5%AE%89%E8%A3%9Ddbeaver%E6%95%99%E5%AD%B8/</link>
+      <pubDate>Sat, 05 Jul 2025 01:10:00 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/sql/%E5%AE%89%E8%A3%9Ddbeaver%E6%95%99%E5%AD%B8/</guid>
+      <description>下載 前往下載網址 前往 Download
+開始下載 DBeaver Community &amp;gt; 點選 Windows(installer) &amp;gt; 雙擊下載</description>
+    </item>
+    
+  </channel>
+</rss>
