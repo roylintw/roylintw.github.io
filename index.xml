@@ -6,7 +6,26 @@
     <description>Recent content on 小書僮</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 05 Jul 2025 01:10:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Jul 2025 22:10:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>docker指令整理</title>
+      <link>https://roylintw.github.io/blog/docker/docker%E6%8C%87%E4%BB%A4%E6%95%B4%E7%90%86/</link>
+      <pubDate>Wed, 09 Jul 2025 22:10:00 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/docker/docker%E6%8C%87%E4%BB%A4%E6%95%B4%E7%90%86/</guid>
+      <description>   指令 功能     資料1 資料2   資料4 資料5    </description>
+    </item>
+    
+    <item>
+      <title>建立資料表</title>
+      <link>https://roylintw.github.io/project/credit-card-recommendation-system/%E5%BB%BA%E7%AB%8B%E8%B3%87%E6%96%99%E8%A1%A8/</link>
+      <pubDate>Tue, 08 Jul 2025 22:28:35 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/project/credit-card-recommendation-system/%E5%BB%BA%E7%AB%8B%E8%B3%87%E6%96%99%E8%A1%A8/</guid>
+      <description>建立資料庫 點擊插頭 icon &amp;gt; 選擇 MySQL &amp;gt; Next
+輸入 Database、password &amp;gt; 測試連線 &amp;gt; Download &amp;gt; 連線錯誤</description>
+    </item>
+    
     <item>
       <title>安裝  DBeaver 教學</title>
       <link>https://roylintw.github.io/blog/sql/%E5%AE%89%E8%A3%9Ddbeaver%E6%95%99%E5%AD%B8/</link>
