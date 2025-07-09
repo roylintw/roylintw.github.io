@@ -13,7 +13,7 @@
       <pubDate>Wed, 09 Jul 2025 22:10:00 +0800</pubDate>
       
       <guid>https://roylintw.github.io/blog/docker/docker%E6%8C%87%E4%BB%A4%E6%95%B4%E7%90%86/</guid>
-      <description>   指令 功能     資料1 資料2   資料4 資料5    </description>
+      <description>   指令 功能 說明     docker ps 查看目前正在執行中的容器（containers） ps = Process Status，容器的執行狀態    </description>
     </item>
     
     <item>
