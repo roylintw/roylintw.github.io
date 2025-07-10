@@ -148,9 +148,39 @@
 </thead>
 <tbody>
 <tr>
-<td>docker ps</td>
+<td><code>docker ps</code></td>
 <td>查看目前正在執行中的容器（containers）</td>
-<td>ps = Process Status，容器的執行狀態</td>
+<td><code>ps</code>: Process Status，容器的執行狀態</td>
+</tr>
+<tr>
+<td><code>docker ps -a</code></td>
+<td>查看目前正在執行中的容器（containers）（包括已停止）</td>
+<td><code>-a</code>: all</td>
+</tr>
+<tr>
+<td><code>docker images</code></td>
+<td>查看 image</td>
+<td></td>
+</tr>
+<tr>
+<td><code>docker rmi &lt;image_id&gt;</code></td>
+<td>刪除 image</td>
+<td><code>rmi</code>: remove image</td>
+</tr>
+<tr>
+<td><code>docker stop &lt;container_id&gt;</code></td>
+<td>暫停 container</td>
+<td></td>
+</tr>
+<tr>
+<td><code>docker rm &lt;container_id&gt;</code></td>
+<td>刪除 container</td>
+<td></td>
+</tr>
+<tr>
+<td><code>docker rm -f &lt;container_id&gt;</code></td>
+<td>刪除 container</td>
+<td><code>-f</code>: force（強制），即使容器正在執行中也會先停止再刪除</td>
 </tr>
 </tbody>
 </table>

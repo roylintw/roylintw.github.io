@@ -6,14 +6,23 @@
     <description>Recent content on 小書僮</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 09 Jul 2025 22:10:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jul 2025 22:49:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux指令整理</title>
+      <link>https://roylintw.github.io/blog/linux/linux%E6%8C%87%E4%BB%A4%E6%95%B4%E7%90%86/</link>
+      <pubDate>Thu, 10 Jul 2025 22:49:00 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/linux/linux%E6%8C%87%E4%BB%A4%E6%95%B4%E7%90%86/</guid>
+      <description>   指令 功能 說明     df -h 查看磁碟空間的使用情況 df: disk free，用來顯示磁碟空間資訊 -h: human-readable，顯示單位為 KB/MB/GB    </description>
+    </item>
+    
     <item>
       <title>docker指令整理</title>
       <link>https://roylintw.github.io/blog/docker/docker%E6%8C%87%E4%BB%A4%E6%95%B4%E7%90%86/</link>
       <pubDate>Wed, 09 Jul 2025 22:10:00 +0800</pubDate>
       
       <guid>https://roylintw.github.io/blog/docker/docker%E6%8C%87%E4%BB%A4%E6%95%B4%E7%90%86/</guid>
-      <description>   指令 功能 說明     docker ps 查看目前正在執行中的容器（containers） ps = Process Status，容器的執行狀態    </description>
+      <description>   指令 功能 說明     docker ps 查看目前正在執行中的容器（containers） ps: Process Status，容器的執行狀態   docker ps -a 查看目前正在執行中的容器（containers）（包括已停止） -a: all   docker images 查看 image    docker rmi &amp;lt;image_id&amp;gt; 刪除 image rmi: remove image   docker stop &amp;lt;container_id&amp;gt; 暫停 container    docker rm &amp;lt;container_id&amp;gt; 刪除 container    docker rm -f &amp;lt;container_id&amp;gt; 刪除 container -f: force（強制），即使容器正在執行中也會先停止再刪除    </description>
     </item>
     
     <item>
