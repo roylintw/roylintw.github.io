@@ -26,12 +26,12 @@
     </item>
     
     <item>
-      <title>建立資料表</title>
-      <link>https://roylintw.github.io/project/credit-card-recommendation-system/%E5%BB%BA%E7%AB%8B%E8%B3%87%E6%96%99%E8%A1%A8/</link>
+      <title>建立資料庫和資料表</title>
+      <link>https://roylintw.github.io/project/credit-card-recommendation-system/%E5%BB%BA%E7%AB%8B%E8%B3%87%E6%96%99%E5%BA%AB%E5%92%8C%E8%B3%87%E6%96%99%E8%A1%A8/</link>
       <pubDate>Tue, 08 Jul 2025 22:28:35 +0800</pubDate>
       
-      <guid>https://roylintw.github.io/project/credit-card-recommendation-system/%E5%BB%BA%E7%AB%8B%E8%B3%87%E6%96%99%E8%A1%A8/</guid>
-      <description>建立資料庫 點擊插頭 icon &amp;gt; 選擇 MySQL &amp;gt; Next
+      <guid>https://roylintw.github.io/project/credit-card-recommendation-system/%E5%BB%BA%E7%AB%8B%E8%B3%87%E6%96%99%E5%BA%AB%E5%92%8C%E8%B3%87%E6%96%99%E8%A1%A8/</guid>
+      <description>連線資料庫 點擊插頭 icon &amp;gt; 選擇 MySQL &amp;gt; Next
 輸入 Database、password &amp;gt; 測試連線 &amp;gt; Download &amp;gt; 連線錯誤</description>
     </item>
     
