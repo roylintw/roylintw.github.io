@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://roylintw.github.io/blog/</loc>
-    <lastmod>2025-07-10T22:49:00+08:00</lastmod>
-  </url><url>
     <loc>https://roylintw.github.io/categories/</loc>
+    <lastmod>2025-07-12T19:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://roylintw.github.io/project/</loc>
+    <lastmod>2025-07-12T19:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://roylintw.github.io/tags/spring-batch/</loc>
+    <lastmod>2025-07-12T19:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://roylintw.github.io/tags/</loc>
+    <lastmod>2025-07-12T19:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://roylintw.github.io/categories/%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1/</loc>
+    <lastmod>2025-07-12T19:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://roylintw.github.io/</loc>
+    <lastmod>2025-07-12T19:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://roylintw.github.io/project/credit-card-recommendation-system/%E5%BB%BA%E7%AB%8Bspringbatch%E5%B0%88%E6%A1%88/</loc>
+    <lastmod>2025-07-12T19:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://roylintw.github.io/blog/</loc>
     <lastmod>2025-07-10T22:49:00+08:00</lastmod>
   </url><url>
     <loc>https://roylintw.github.io/tags/linux/</loc>
@@ -15,12 +33,6 @@
     <lastmod>2025-07-10T22:49:00+08:00</lastmod>
   </url><url>
     <loc>https://roylintw.github.io/blog/linux/linux%E6%8C%87%E4%BB%A4%E6%95%B4%E7%90%86/</loc>
-    <lastmod>2025-07-10T22:49:00+08:00</lastmod>
-  </url><url>
-    <loc>https://roylintw.github.io/tags/</loc>
-    <lastmod>2025-07-10T22:49:00+08:00</lastmod>
-  </url><url>
-    <loc>https://roylintw.github.io/</loc>
     <lastmod>2025-07-10T22:49:00+08:00</lastmod>
   </url><url>
     <loc>https://roylintw.github.io/tags/%E6%8C%87%E4%BB%A4/</loc>
@@ -34,9 +46,6 @@
   </url><url>
     <loc>https://roylintw.github.io/blog/docker/docker%E6%8C%87%E4%BB%A4%E6%95%B4%E7%90%86/</loc>
     <lastmod>2025-07-09T22:10:00+08:00</lastmod>
-  </url><url>
-    <loc>https://roylintw.github.io/project/</loc>
-    <lastmod>2025-07-08T22:28:35+08:00</lastmod>
   </url><url>
     <loc>https://roylintw.github.io/categories/%E5%B0%88%E6%A1%88/</loc>
     <lastmod>2025-07-08T22:28:35+08:00</lastmod>

@@ -6,7 +6,16 @@
     <description>Recent content on 小書僮</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 10 Jul 2025 22:49:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Jul 2025 19:30:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>建立 Spring Batch 專案</title>
+      <link>https://roylintw.github.io/project/credit-card-recommendation-system/%E5%BB%BA%E7%AB%8Bspringbatch%E5%B0%88%E6%A1%88/</link>
+      <pubDate>Sat, 12 Jul 2025 19:30:00 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/project/credit-card-recommendation-system/%E5%BB%BA%E7%AB%8Bspringbatch%E5%B0%88%E6%A1%88/</guid>
+      <description>使用 Spring Initializr 快速建立 Spring Boot 專案 🔗 網址： https://start.spring.io 步驟：</description>
+    </item>
+    
     <item>
       <title>Linux指令整理</title>
       <link>https://roylintw.github.io/blog/linux/linux%E6%8C%87%E4%BB%A4%E6%95%B4%E7%90%86/</link>
