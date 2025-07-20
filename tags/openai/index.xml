@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenAI on 小書僮</title>
+    <link>https://roylintw.github.io/tags/openai/</link>
+    <description>Recent content in OpenAI on 小書僮</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 13 Jul 2025 20:16:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/tags/openai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[信用卡推薦系統]使用 OpenAI 的 API</title>
+      <link>https://roylintw.github.io/project/credit-card-recommendation-system/%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1%E4%BD%BF%E7%94%A8openai%E7%9A%84api/</link>
+      <pubDate>Sun, 13 Jul 2025 20:16:00 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/project/credit-card-recommendation-system/%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1%E4%BD%BF%E7%94%A8openai%E7%9A%84api/</guid>
+      <description>進入官網 OpenAI 官網 註冊帳號 新增金鑰 登入後，看到左側選單
+API keys &amp;gt; Create new secret key</description>
+    </item>
+    
+  </channel>
+</rss>

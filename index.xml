@@ -6,13 +6,33 @@
     <description>Recent content on 小書僮</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 12 Jul 2025 19:30:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Jul 2025 21:31:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>建立 Spring Batch 專案</title>
-      <link>https://roylintw.github.io/project/credit-card-recommendation-system/%E5%BB%BA%E7%AB%8Bspringbatch%E5%B0%88%E6%A1%88/</link>
+      <title>報名ITE資訊專業人員考試</title>
+      <link>https://roylintw.github.io/blog/certification/it/%E5%A0%B1%E5%90%8Dite%E8%B3%87%E8%A8%8A%E5%B0%88%E6%A5%AD%E4%BA%BA%E5%93%A1%E8%80%83%E8%A9%A6/</link>
+      <pubDate>Thu, 17 Jul 2025 21:31:00 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/certification/it/%E5%A0%B1%E5%90%8Dite%E8%B3%87%E8%A8%8A%E5%B0%88%E6%A5%AD%E4%BA%BA%E5%93%A1%E8%80%83%E8%A9%A6/</guid>
+      <description>前往官網 前往 ITE資訊專業人員鑑定
+報名流程 考生服務 &amp;gt; 線上報名 點選 ITE / EEC 大會考</description>
+    </item>
+    
+    <item>
+      <title>[信用卡推薦系統]使用 OpenAI 的 API</title>
+      <link>https://roylintw.github.io/project/credit-card-recommendation-system/%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1%E4%BD%BF%E7%94%A8openai%E7%9A%84api/</link>
+      <pubDate>Sun, 13 Jul 2025 20:16:00 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/project/credit-card-recommendation-system/%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1%E4%BD%BF%E7%94%A8openai%E7%9A%84api/</guid>
+      <description>進入官網 OpenAI 官網 註冊帳號 新增金鑰 登入後，看到左側選單
+API keys &amp;gt; Create new secret key</description>
+    </item>
+    
+    <item>
+      <title>[信用卡推薦系統]建立 Spring Batch 專案</title>
+      <link>https://roylintw.github.io/project/credit-card-recommendation-system/%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1%E5%BB%BA%E7%AB%8Bspringbatch%E5%B0%88%E6%A1%88/</link>
       <pubDate>Sat, 12 Jul 2025 19:30:00 +0800</pubDate>
       
-      <guid>https://roylintw.github.io/project/credit-card-recommendation-system/%E5%BB%BA%E7%AB%8Bspringbatch%E5%B0%88%E6%A1%88/</guid>
+      <guid>https://roylintw.github.io/project/credit-card-recommendation-system/%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1%E5%BB%BA%E7%AB%8Bspringbatch%E5%B0%88%E6%A1%88/</guid>
       <description>使用 Spring Initializr 快速建立 Spring Boot 專案 🔗 網址： https://start.spring.io 步驟：</description>
     </item>
     
@@ -35,13 +55,13 @@
     </item>
     
     <item>
-      <title>建立資料庫和資料表</title>
-      <link>https://roylintw.github.io/project/credit-card-recommendation-system/%E5%BB%BA%E7%AB%8B%E8%B3%87%E6%96%99%E5%BA%AB%E5%92%8C%E8%B3%87%E6%96%99%E8%A1%A8/</link>
+      <title>[信用卡推薦系統]建立資料庫和資料表</title>
+      <link>https://roylintw.github.io/project/credit-card-recommendation-system/%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1%E5%BB%BA%E7%AB%8B%E8%B3%87%E6%96%99%E5%BA%AB%E5%92%8C%E8%B3%87%E6%96%99%E8%A1%A8/</link>
       <pubDate>Tue, 08 Jul 2025 22:28:35 +0800</pubDate>
       
-      <guid>https://roylintw.github.io/project/credit-card-recommendation-system/%E5%BB%BA%E7%AB%8B%E8%B3%87%E6%96%99%E5%BA%AB%E5%92%8C%E8%B3%87%E6%96%99%E8%A1%A8/</guid>
+      <guid>https://roylintw.github.io/project/credit-card-recommendation-system/%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1%E5%BB%BA%E7%AB%8B%E8%B3%87%E6%96%99%E5%BA%AB%E5%92%8C%E8%B3%87%E6%96%99%E8%A1%A8/</guid>
       <description>連線資料庫 點擊插頭 icon &amp;gt; 選擇 MySQL &amp;gt; Next
-輸入 Database、password &amp;gt; 測試連線 &amp;gt; Download &amp;gt; 連線錯誤</description>
+輸入 Password &amp;gt; 測試連線 &amp;gt; Download(如果有缺少元件才需要) 連線錯誤 Public Key Retrieval is not allowed</description>
     </item>
     
     <item>

@@ -8,13 +8,13 @@
     <language>zh-tw</language>
     <lastBuildDate>Tue, 08 Jul 2025 22:28:35 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/tags/%E8%B3%87%E6%96%99%E5%BA%AB/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>建立資料庫和資料表</title>
-      <link>https://roylintw.github.io/project/credit-card-recommendation-system/%E5%BB%BA%E7%AB%8B%E8%B3%87%E6%96%99%E5%BA%AB%E5%92%8C%E8%B3%87%E6%96%99%E8%A1%A8/</link>
+      <title>[信用卡推薦系統]建立資料庫和資料表</title>
+      <link>https://roylintw.github.io/project/credit-card-recommendation-system/%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1%E5%BB%BA%E7%AB%8B%E8%B3%87%E6%96%99%E5%BA%AB%E5%92%8C%E8%B3%87%E6%96%99%E8%A1%A8/</link>
       <pubDate>Tue, 08 Jul 2025 22:28:35 +0800</pubDate>
       
-      <guid>https://roylintw.github.io/project/credit-card-recommendation-system/%E5%BB%BA%E7%AB%8B%E8%B3%87%E6%96%99%E5%BA%AB%E5%92%8C%E8%B3%87%E6%96%99%E8%A1%A8/</guid>
+      <guid>https://roylintw.github.io/project/credit-card-recommendation-system/%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1%E5%BB%BA%E7%AB%8B%E8%B3%87%E6%96%99%E5%BA%AB%E5%92%8C%E8%B3%87%E6%96%99%E8%A1%A8/</guid>
       <description>連線資料庫 點擊插頭 icon &amp;gt; 選擇 MySQL &amp;gt; Next
-輸入 Database、password &amp;gt; 測試連線 &amp;gt; Download &amp;gt; 連線錯誤</description>
+輸入 Password &amp;gt; 測試連線 &amp;gt; Download(如果有缺少元件才需要) 連線錯誤 Public Key Retrieval is not allowed</description>
     </item>
     
   </channel>
