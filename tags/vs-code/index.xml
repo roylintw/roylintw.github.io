@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VS Code on 小書僮</title>
+    <link>https://roylintw.github.io/tags/vs-code/</link>
+    <description>Recent content in VS Code on 小書僮</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 21 Jul 2025 23:34:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/tags/vs-code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[VS Code]實用的快捷鍵整理</title>
+      <link>https://roylintw.github.io/blog/vscode/vscode%E5%BF%AB%E6%8D%B7%E9%8D%B5/</link>
+      <pubDate>Mon, 21 Jul 2025 23:34:00 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/vscode/vscode%E5%BF%AB%E6%8D%B7%E9%8D%B5/</guid>
+      <description>   快捷鍵名稱 快捷鍵 功能     Delete Line Ctrl + D 刪除整行   Copy Line Up / Down Shift + Alt + ↑ / Shift + Alt + ↓ 向上/下複製當前行   View: Zoom in Ctrl + + 放大   View: Zoom out Ctrl + - 縮小   Go Back Alt + ← 回到上一個游標位置    </description>
+    </item>
+    
+  </channel>
+</rss>

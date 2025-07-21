@@ -6,7 +6,16 @@
     <description>Recent content in Blogs on 小書僮</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 17 Jul 2025 21:31:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Jul 2025 23:34:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[VS Code]實用的快捷鍵整理</title>
+      <link>https://roylintw.github.io/blog/vscode/vscode%E5%BF%AB%E6%8D%B7%E9%8D%B5/</link>
+      <pubDate>Mon, 21 Jul 2025 23:34:00 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/vscode/vscode%E5%BF%AB%E6%8D%B7%E9%8D%B5/</guid>
+      <description>   快捷鍵名稱 快捷鍵 功能     Delete Line Ctrl + D 刪除整行   Copy Line Up / Down Shift + Alt + ↑ / Shift + Alt + ↓ 向上/下複製當前行   View: Zoom in Ctrl + + 放大   View: Zoom out Ctrl + - 縮小   Go Back Alt + ← 回到上一個游標位置    </description>
+    </item>
+    
     <item>
       <title>報名ITE資訊專業人員考試</title>
       <link>https://roylintw.github.io/blog/certification/it/%E5%A0%B1%E5%90%8Dite%E8%B3%87%E8%A8%8A%E5%B0%88%E6%A5%AD%E4%BA%BA%E5%93%A1%E8%80%83%E8%A9%A6/</link>
