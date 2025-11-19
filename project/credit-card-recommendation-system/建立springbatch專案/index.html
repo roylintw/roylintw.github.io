@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="zh-tw"><head>
+  <meta charset="utf-8">
+  <title>小書僮</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="建立 Spring Batch 專案">
+  <meta name="author" content="小書僮">
+  <meta name="generator" content="Hugo 0.96.0" />
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://roylintw.github.io/plugins/bootstrap/bootstrap.min.css ">
+  
+  <link rel="stylesheet" href="https://roylintw.github.io/plugins/slick/slick.css ">
+  
+  <link rel="stylesheet" href="https://roylintw.github.io/plugins/themify-icons/themify-icons.css ">
+  
+  <link rel="stylesheet" href="https://roylintw.github.io/plugins/venobox/venobox.css ">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="https://roylintw.github.io/scss/style.min.css" media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="https://roylintw.github.io/images/favicon.png " type="image/x-icon">
+  <link rel="icon" href="https://roylintw.github.io/images/favicon.png " type="image/x-icon">
+
+  <!-- google analitycs -->
+  <script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-159343362-2', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+  
+
+<!-- Syntax -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/atom-one-dark.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+<script>hljs.highlightAll();</script>
+
+
+</head><body>
+<!-- preloader start -->
+<div class="preloader">
+  
+</div>
+<!-- preloader end -->
+<!-- navigation -->
+<header class="navigation">
+  <div class="container">
+    
+    <nav class="navbar navbar-expand-lg navbar-white bg-transparent border-bottom pl-0">
+      <a class="navbar-brand mobile-view" href="https://roylintw.github.io"><img class="img-fluid"
+          src="https://roylintw.github.io/images/smallbookboy_65_65.png" alt="小書僮"></a>
+      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
+        <i class="ti-menu"></i>
+      </button>
+
+      <div class="collapse navbar-collapse text-center" id="navigation">
+        <div class="desktop-view">
+          <ul class="navbar-nav mr-auto">
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://github.com/roylintw"><i class="ti-github"></i></a>
+            </li>
+            
+          </ul>
+        </div>
+
+        <a class="navbar-brand mx-auto desktop-view" href="https://roylintw.github.io"><img class="img-fluid"
+            src="https://roylintw.github.io/images/smallbookboy_65_65.png" alt="小書僮"></a>
+
+        <ul class="navbar-nav">
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://roylintw.github.io/about/">About</a>
+          </li>
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://roylintw.github.io/blog/">Post</a>
+          </li>
+          
+          
+        </ul>
+
+        
+        <!-- search -->
+        <div class="search pl-lg-4">
+          <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
+          <div class="search-wrapper">
+            <form action="https://roylintw.github.io/search" class="h-100">
+              <input class="search-box px-4" id="search-query" name="s" type="search" placeholder="Type & Hit Enter...">
+            </form>
+            <button id="searchClose" class="search-close"><i class="ti-close text-dark"></i></button>
+          </div>
+        </div>
+        
+
+        
+      </div>
+    </nav>
+  </div>
+</header>
+<!-- /navigation -->
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        
+        <a href="/categories/%e4%bf%a1%e7%94%a8%e5%8d%a1%e6%8e%a8%e8%96%a6%e7%b3%bb%e7%b5%b1"
+          class="text-primary">信用卡推薦系統</a>
+        
+        <h2>建立 Spring Batch 專案</h2>
+        <div class="mb-3 post-meta">
+          <span>By 小書僮</span>
+          
+          <span class="border-bottom border-primary px-2 mx-1"></span>
+          <span>12 July 2025</span>
+          
+        </div>
+        
+        <div class="content mb-5">
+          <h3 id="使用-spring-initializr-快速建立-spring-boot-專案">使用 Spring Initializr 快速建立 Spring Boot 專案</h3>
+<p>🔗 網址： <a href="https://start.spring.io">https://start.spring.io</a>
+<img src="../../../images/SpringInitializr-%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1%E6%89%B9%E6%AC%A1.jpg" alt="image"><br>
+步驟：</p>
+<ol>
+<li>開啟 start.spring.io</li>
+<li>填寫專案基本資訊：</li>
+</ol>
+<ul>
+<li>Project: Maven（或 Gradle）</li>
+<li>Language: Java</li>
+<li>Spring Boot: 建議選最新穩定版（如 3.５.x）</li>
+</ul>
+<ol start="3">
+<li>輸入 Metadata：</li>
+</ol>
+<ul>
+<li>Group（組織、公司、網站名稱）: com.smallbookboy</li>
+<li>Artifact（專案的名稱或模組名稱、JAR/war 檔名）: credit-card-recommendation-system-batch</li>
+<li>Name（專案的可讀名稱）:  Small Book Boy Credit Card Recommendation System Batch</li>
+<li>Description（專案的描述）:  信用卡推薦系統批次</li>
+<li>Package name:  com.smallbookboy.credit-card-recommendation-system-batch</li>
+</ul>
+<ol start="4">
+<li>點擊「GENERATE」，下載 zip</li>
+<li>zip 解壓縮至專案資料夾下<br>
+<img src="../../../images/SpringInitializr-%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1%E6%89%B9%E6%AC%A1-%E8%A7%A3%E5%A3%93%E7%B8%AE%E8%87%B3%E5%B0%88%E6%A1%88%E8%B3%87%E6%96%99%E5%A4%BE%E4%B8%8B.jpg" alt="image"></li>
+<li>IDE 開啟專案<br>
+<img src="../../../images/IDE-%E9%96%8B%E5%95%9F%E5%B0%88%E6%A1%88.jpg" alt="image"><br>
+目前建立專案算告一段落，接下來就是 import 需要的 Libraries</li>
+<li>pom 加入 Dependencies</li>
+</ol>
+<ul>
+<li>✅ Spring Batch</li>
+<li>✅ MySQL Driver</li>
+<li>✅ Lombok</li>
+</ul>
+<pre tabindex="0"><code>&lt;dependency&gt;
+	&lt;groupId&gt;org.springframework.boot&lt;/groupId&gt;
+	&lt;artifactId&gt;spring-boot-starter-batch&lt;/artifactId&gt;
+&lt;/dependency&gt;
+
+&lt;dependency&gt;
+	&lt;groupId&gt;com.mysql&lt;/groupId&gt;
+	&lt;artifactId&gt;mysql-connector-j&lt;/artifactId&gt;
+	&lt;version&gt;9.3.0&lt;/version&gt;
+&lt;/dependency&gt;
+
+&lt;dependency&gt;
+	&lt;groupId&gt;org.projectlombok&lt;/groupId&gt;
+	&lt;artifactId&gt;lombok&lt;/artifactId&gt;
+	&lt;version&gt;1.18.38&lt;/version&gt;
+&lt;/dependency&gt;
+</code></pre><p>完成以上步驟後，就恭喜你建立好一個 Spring Batch 專案囉!</p>
+
+        </div>
+
+        
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "roylintw" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+<script>
+  var indexURL = "https://roylintw.github.io/index.json"
+</script>
+
+<!-- JS Plugins -->
+
+<script src="https://roylintw.github.io/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://roylintw.github.io/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://roylintw.github.io/plugins/slick/slick.min.js"></script>
+
+<script src="https://roylintw.github.io/plugins/venobox/venobox.min.js"></script>
+
+<script src="https://roylintw.github.io/plugins/search/fuse.min.js"></script>
+
+<script src="https://roylintw.github.io/plugins/search/mark.js"></script>
+
+<script src="https://roylintw.github.io/plugins/search/search.js"></script>
+
+<!-- Main Script -->
+
+<script src="https://roylintw.github.io/js/script.min.js"></script>
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-primary ml-2">I Accept</span>
+</div>
+<script>
+	(function ($) {
+		const cookieBox = document.getElementById('js-cookie-box');
+		const cookieButton = document.getElementById('js-cookie-button');
+		if (!Cookies.get('cookie-box')) {
+			cookieBox.classList.remove('cookie-box-hide');
+			cookieButton.onclick = function () {
+				Cookies.set('cookie-box', true, {
+					expires:  2 
+				});
+				cookieBox.classList.add('cookie-box-hide');
+			};
+		}
+	})(jQuery);
+</script>
+
+
+<style>
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 9999;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
+}
+
+.cookie-box-hide {
+  display: none;
+}
+</style>
+</body>
+</html>

@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="zh-tw"><head>
+  <meta charset="utf-8">
+  <title>小書僮</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="資料結構 Stack 介紹">
+  <meta name="author" content="小書僮">
+  <meta name="generator" content="Hugo 0.96.0" />
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://roylintw.github.io/plugins/bootstrap/bootstrap.min.css ">
+  
+  <link rel="stylesheet" href="https://roylintw.github.io/plugins/slick/slick.css ">
+  
+  <link rel="stylesheet" href="https://roylintw.github.io/plugins/themify-icons/themify-icons.css ">
+  
+  <link rel="stylesheet" href="https://roylintw.github.io/plugins/venobox/venobox.css ">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="https://roylintw.github.io/scss/style.min.css" media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="https://roylintw.github.io/images/favicon.png " type="image/x-icon">
+  <link rel="icon" href="https://roylintw.github.io/images/favicon.png " type="image/x-icon">
+
+  <!-- google analitycs -->
+  <script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-159343362-2', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+  
+
+<!-- Syntax -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/atom-one-dark.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+<script>hljs.highlightAll();</script>
+
+
+</head><body>
+<!-- preloader start -->
+<div class="preloader">
+  
+</div>
+<!-- preloader end -->
+<!-- navigation -->
+<header class="navigation">
+  <div class="container">
+    
+    <nav class="navbar navbar-expand-lg navbar-white bg-transparent border-bottom pl-0">
+      <a class="navbar-brand mobile-view" href="https://roylintw.github.io"><img class="img-fluid"
+          src="https://roylintw.github.io/images/smallbookboy_65_65.png" alt="小書僮"></a>
+      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
+        <i class="ti-menu"></i>
+      </button>
+
+      <div class="collapse navbar-collapse text-center" id="navigation">
+        <div class="desktop-view">
+          <ul class="navbar-nav mr-auto">
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://github.com/roylintw"><i class="ti-github"></i></a>
+            </li>
+            
+          </ul>
+        </div>
+
+        <a class="navbar-brand mx-auto desktop-view" href="https://roylintw.github.io"><img class="img-fluid"
+            src="https://roylintw.github.io/images/smallbookboy_65_65.png" alt="小書僮"></a>
+
+        <ul class="navbar-nav">
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://roylintw.github.io/about/">About</a>
+          </li>
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://roylintw.github.io/blog/">Post</a>
+          </li>
+          
+          
+        </ul>
+
+        
+        <!-- search -->
+        <div class="search pl-lg-4">
+          <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
+          <div class="search-wrapper">
+            <form action="https://roylintw.github.io/search" class="h-100">
+              <input class="search-box px-4" id="search-query" name="s" type="search" placeholder="Type & Hit Enter...">
+            </form>
+            <button id="searchClose" class="search-close"><i class="ti-close text-dark"></i></button>
+          </div>
+        </div>
+        
+
+        
+      </div>
+    </nav>
+  </div>
+</header>
+<!-- /navigation -->
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        
+        <a href="/categories/%e8%b3%87%e6%96%99%e7%b5%90%e6%a7%8b"
+          class="text-primary">資料結構</a>
+        
+        <h2>資料結構 Stack</h2>
+        <div class="mb-3 post-meta">
+          <span>By 小書僮</span>
+          
+          <span class="border-bottom border-primary px-2 mx-1"></span>
+          <span>25 July 2025</span>
+          
+        </div>
+        
+        <div class="content mb-5">
+          <h2 id="何謂資料清洗">何謂「資料清洗」?</h2>
+<p>資料清洗是指在資料分析或建模之前，對原始資料進行檢查、修正或刪除不正確、不完整、重複或不一致的數據，以提升資料的品質與可靠性。</p>
+<p>我有一份目標信用卡網頁的 html 元素，<br>
+可以參考此文件<a href="../../../files/%E5%8F%B0%E4%BC%81%E9%8A%80-%E9%8A%80%E8%89%B2%E4%B9%8B%E6%84%9B%E4%BF%A1%E7%94%A8%E5%8D%A1%E7%B6%B2%E9%A0%81html%E5%85%83%E7%B4%A0.txt">台企銀-銀色之愛信用卡網頁html元素.txt</a><br>
+可以看到有很多可以看到有很多不需要的元素，
+例如: 標題列、頁尾  &hellip;</p>
+<p>然而我需要的只有下面紅框處的必要資訊，<br>
+<img src="../../../images/%E8%87%BA%E4%BC%81%E9%8A%80-%E9%8A%80%E8%89%B2%E4%B9%8B%E6%84%9B%E4%BF%A1%E7%94%A8%E5%8D%A1-%E9%9C%80%E8%A6%81%E5%85%A7%E5%AE%B9.jpg" alt="image"></p>
+<p>有幾種做法</p>
+<ol>
+<li>去除不需要區塊</li>
+<li>只篩需要的區塊</li>
+</ol>
+<h3 id="作法1-去除不需要區塊">作法1 去除不需要區塊</h3>
+<ul>
+<li>好處:<br>
+1.如果知道有哪些區塊是一定不需要的，  因為某個銀行的信用卡頁面一定是相似的，<br>
+可以很容易篩掉不需要的元素，即使有新增的元素，也不會刪除，  避免新的優惠資訊被遺漏。<br>
+2.減少 tasklet 之間傳輸的資料量</li>
+<li>壞處:  如果有新的不需要元素，需要手動增加條件篩選。</li>
+</ul>
+<h3 id="作法2-只篩需要的區塊">作法2 只篩需要的區塊</h3>
+<ul>
+<li>好處:  簡單暴力，只要找到固定放置優惠訊息的區塊，就可以固定抓優惠。</li>
+<li>壞處:  若有新的優惠元素，可能就因此錯過。</li>
+</ul>
+<h4 id="移除-html-噪音">移除 HTML 噪音</h4>
+<h4 id="統一日期格式">統一日期格式</h4>
+<h4 id="清洗金額格式">清洗金額格式</h4>
+<h4 id="分類活動內容">分類活動內容</h4>
+<h4 id="適用卡別統一格式">適用卡別統一格式</h4>
+<h4 id="去除重複或過期資料">去除重複或過期資料</h4>
+<p>🔧 設計模式說明與對應</p>
+<ol>
+<li>BankPageFilterStrategy（介面 / 抽象類別）
+📌 用途：定義不同銀行網頁過濾與清洗邏輯的策略接口。
+📌 設計模式：策略模式（Strategy Pattern）中的 策略介面
+📌 方法範例：</li>
+</ol>
+<p>java
+複製
+編輯
+public interface BankPageFilterStrategy {
+Document cleanRawHtml(Document rawHtml);
+boolean isValidCardElement(Element cardElement);
+}
+2. CathayFilterStrategy（具體策略類別）
+📌 用途：國泰銀行頁面專屬的過濾邏輯，例如處理它獨有的 HTML 結構、無用區塊、折扣字樣等。
+📌 設計模式：策略模式中的 具體策略
+📌 範例說明：</p>
+<p>java
+複製
+編輯
+public class CathayFilterStrategy implements BankPageFilterStrategy {
+@Override
+public Document cleanRawHtml(Document rawHtml) {
+// 去除廣告區塊、格式調整等
+}</p>
+<pre><code>@Override
+public boolean isValidCardElement(Element cardElement) {
+    // 根據 class 或其他判斷此是否為有效卡片區塊
+}
+</code></pre>
+<p>}
+3. DefaultFilterStrategy（預設策略）
+📌 用途：當某個銀行沒有特別處理時，採用的通用過濾策略。
+📌 設計模式：策略模式中的 備用具體策略
+📌 好處：提高擴展性，不需每家銀行都實作。</p>
+<ol start="4">
+<li>BankCrawlerFactory（工廠類別）
+📌 用途：根據銀行名稱產出對應的處理物件（如 FilterStrategy 或 Extractor）
+📌 設計模式：工廠模式（Factory Pattern）
+📌 範例說明：</li>
+</ol>
+<p>java
+複製
+編輯
+public class BankCrawlerFactory {
+public static BankPageFilterStrategy getFilterStrategy(String bankName) {
+switch(bankName) {
+case &ldquo;Cathay&rdquo;: return new CathayFilterStrategy();
+case &ldquo;Taishin&rdquo;: return new TaishinFilterStrategy();
+default: return new DefaultFilterStrategy();
+}
+}</p>
+<pre><code>public static CardExtractor getCardExtractor(String bankName) {
+    switch(bankName) {
+        case &quot;Cathay&quot;: return new CathayCardExtractor();
+        default: return new GenericCardExtractor();
+    }
+}
+</code></pre>
+<p>}
+5. CathayCardExtractor（特定資料提取器）
+📌 用途：負責從國泰的網頁中提取卡片名稱、優惠文字、年費資訊等。
+📌 設計模式：策略模式中的具體實作或與工廠模式配合使用的「產品」
+📌 方法可能包含：</p>
+<p>java
+複製
+編輯
+public class CathayCardExtractor implements CardExtractor {
+public List<!-- raw HTML omitted --> extractCards(Document cleanedHtml) {
+// 提取卡名、優惠、條件等
+}
+}
+6. GenericCardExtractor（通用提取器）
+📌 用途：對結構規則較一致或資料乾淨的銀行頁面使用的通用擷取器。
+📌 設計模式：策略或抽象工廠中的通用實作
+📌 用途：快速支援新銀行，等未來有需求再客製化。</p>
+<p>🧠 總結：整體架構概念
+[ 爬蟲結果 Document ]
+↓
+[ BankCrawlerFactory ] &ndash;&gt; 給你一個 BankPageFilterStrategy + CardExtractor
+↓
+[ BankPageFilterStrategy.cleanRawHtml ]
+↓
+[ CardExtractor.extractCards ]
+↓
+[ 清洗好的卡片資訊 CardInfo List ]
+✅ 優點
+優點	說明
+可擴展性高	新增一家銀行只要增加新的 FilterStrategy 或 Extractor。
+維護性強	每家銀行邏輯分開，不會影響其他銀行。
+符合 SOLID 原則	特別是 OCP（開放封閉原則）、SRP（單一職責原則）。</p>
+<p>🎯 總覽：使用到的設計模式
+類別	設計模式	解釋
+BankPageFilterStrategy（介面）	策略模式（Strategy Pattern）	定義不同銀行頁面清洗邏輯的策略介面。
+CathayFilterStrategy, DefaultFilterStrategy	策略模式 – 具體策略	為特定銀行提供專屬過濾邏輯。
+BankCrawlerFactory	工廠模式（Factory Pattern）	根據銀行名稱產出對應策略或擷取器物件。
+CathayCardExtractor, GenericCardExtractor	策略模式或抽象工廠的產品	擴展特定銀行資料的擷取邏輯。
+整體流程	依賴反轉原則（DIP）+ 開放封閉原則（OCP）	新增銀行時不改動核心邏輯，只新增類別。</p>
+<p>✅ 對應說明（圖解式）
+text
+複製
+編輯</p>
+<h1 id="使用策略模式">使用策略模式</h1>
+<p>CardProcessingSystem
+│
+├── uses → BankPageFilterStrategy (interface)
+│       ├── CathayFilterStrategy (實作)
+│       └── DefaultFilterStrategy (實作)
+│
+├── uses → CardExtractor (interface)
+│       ├── CathayCardExtractor
+│       └── GenericCardExtractor</p>
+<h1 id="使用工廠模式">使用工廠模式</h1>
+<p>BankCrawlerFactory
+├── getFilterStrategy(&ldquo;Cathay&rdquo;) → CathayFilterStrategy
+├── getCardExtractor(&ldquo;Cathay&rdquo;) → CathayCardExtractor
+🔍 設計模式關鍵定義對照</p>
+<ol>
+<li>策略模式 (Strategy Pattern)
+定義一系列演算法，把它們封裝起來，並且可以互相替換，使得演算法可以獨立於使用它的客戶變化。</li>
+</ol>
+<p>在你的系統中，BankPageFilterStrategy 定義了如何清洗 HTML，CardExtractor 定義了如何擷取優惠資料。</p>
+<p>不同銀行實作自己的版本。</p>
+<ol start="2">
+<li>工廠模式 (Factory Pattern)
+提供一個建立物件的介面，讓子類決定實例化哪一個類別。</li>
+</ol>
+<p>BankCrawlerFactory 根據銀行名稱，建立對應的 FilterStrategy 或 CardExtractor。</p>
+<p>這樣主程式就不用 new CathayFilterStrategy()，可避免耦合。</p>
+<p>✔ 補充：為什麼不是「裝飾者模式」或「觀察者模式」？
+不是裝飾者模式：因為你沒有層層包裝物件增加行為，而是選擇不同策略執行邏輯。</p>
+<p>不是觀察者模式：沒有事件通知機制。</p>
+<p>也不是模板方法：因為沒有定義抽象流程只讓子類覆寫某部分。</p>
+<p>🧠 總結
+這套架構是典型的：</p>
+<p>策略模式：讓不同銀行可定義自己的過濾與擷取行為。</p>
+<p>工廠模式：集中建立物件邏輯，符合開放封閉原則。</p>
+<p>依賴反轉 + 介面導向設計：讓主流程不依賴具體實作。</p>
+<h3 id="定義"><strong>📌定義：</strong></h3>
+<p>前往 <a href="https://dbeaver.io/download/">Download</a><br>
+<img src="../../../images/DBeaver-%E6%8F%92%E9%A0%ADicon.jpg" alt="image"></p>
+<h3 id="原理"><strong>🧠原理：</strong></h3>
+<h3 id="-時間複雜度"><strong>⏱️ 時間複雜度：</strong></h3>
+<h3 id="-優點"><strong>✅ 優點：</strong></h3>
+<ul>
+<li></li>
+</ul>
+<h3 id="-缺點"><strong>❌ 缺點：</strong></h3>
+<ul>
+<li></li>
+</ul>
+<h3 id="-適合用在哪"><strong>💡 適合用在哪？</strong></h3>
+<h3 id="程式"><strong>👨‍💻程式：</strong></h3>
+<div class="highlight"><pre tabindex="0" style="background-color:#eed;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-java" data-lang="java"></code></pre></div><h3 id="執行結果"><strong>🧾執行結果：</strong></h3>
+<pre tabindex="0"><code></code></pre><h3 id="參考文章">📚參考文章</h3>
+<ol>
+<li>ChatGPT</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>欄位1</th>
+<th>欄位2</th>
+<th>欄位3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>資料1</td>
+<td>資料2</td>
+<td>資料3</td>
+</tr>
+<tr>
+<td>資料4</td>
+<td>資料5</td>
+<td>資料6</td>
+</tr>
+</tbody>
+</table>
+
+        </div>
+
+        
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "roylintw" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+<script>
+  var indexURL = "https://roylintw.github.io/index.json"
+</script>
+
+<!-- JS Plugins -->
+
+<script src="https://roylintw.github.io/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://roylintw.github.io/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://roylintw.github.io/plugins/slick/slick.min.js"></script>
+
+<script src="https://roylintw.github.io/plugins/venobox/venobox.min.js"></script>
+
+<script src="https://roylintw.github.io/plugins/search/fuse.min.js"></script>
+
+<script src="https://roylintw.github.io/plugins/search/mark.js"></script>
+
+<script src="https://roylintw.github.io/plugins/search/search.js"></script>
+
+<!-- Main Script -->
+
+<script src="https://roylintw.github.io/js/script.min.js"></script>
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-primary ml-2">I Accept</span>
+</div>
+<script>
+	(function ($) {
+		const cookieBox = document.getElementById('js-cookie-box');
+		const cookieButton = document.getElementById('js-cookie-button');
+		if (!Cookies.get('cookie-box')) {
+			cookieBox.classList.remove('cookie-box-hide');
+			cookieButton.onclick = function () {
+				Cookies.set('cookie-box', true, {
+					expires:  2 
+				});
+				cookieBox.classList.add('cookie-box-hide');
+			};
+		}
+	})(jQuery);
+</script>
+
+
+<style>
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 9999;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
+}
+
+.cookie-box-hide {
+  display: none;
+}
+</style>
+</body>
+</html>

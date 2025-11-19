@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>證照 on 小書僮</title>
+    <link>https://roylintw.github.io/tags/%E8%AD%89%E7%85%A7/</link>
+    <description>Recent content in 證照 on 小書僮</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 17 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://roylintw.github.io/tags/%E8%AD%89%E7%85%A7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OCA 第36題 基本型態轉換</title>
+      <link>https://roylintw.github.io/blog/oca/oca_36/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/oca/oca_36/</guid>
+      <description>Which two code fragments cause a compilation error? (Choose two.) public class Test { 	public static final int MIN = 1; 	public static void main(String[] args) { 	int x = args.</description>
+    </item>
+    
+    <item>
+      <title>OCA 第196題</title>
+      <link>https://roylintw.github.io/blog/oca/oca_196/</link>
+      <pubDate>Sat, 16 Apr 2022 14:14:57 +0600</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/oca/oca_196/</guid>
+      <description>題目 Given this code for the classes MyException and Test: public class MyException extends RuntimeException {} public class Test { 	public static void main(String[] args) { 	try { 	method1(); 	} catch (MyException ee) { 	System.</description>
+    </item>
+    
+    <item>
+      <title>OCA 1Z0-808 介紹</title>
+      <link>https://roylintw.github.io/blog/oca/oca_introduction/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/oca/oca_introduction/</guid>
+      <description>Given the code fragment: public static void main(String[] args) { 	StringBuilder sb1 = new StringBuilder(&amp;#34;Duke&amp;#34;); 	String str1 = sb1.</description>
+    </item>
+    
+    <item>
+      <title>OCA 第197題</title>
+      <link>https://roylintw.github.io/blog/oca/oca_197/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/oca/oca_197/</guid>
+      <description>Given the code fragment: public static void main(String[] args) { 	try { 	int num = 10; 	int div = 0; 	int ans = num/div; 	} catch (ArithmeticException ae) { 	ans = 0; 	} catch (Exception e) { 	System.</description>
+    </item>
+    
+    <item>
+      <title>OCA 第198題</title>
+      <link>https://roylintw.github.io/blog/oca/oca_198/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/oca/oca_198/</guid>
+      <description>Examine the given definitions: Which statement is true about the implementation of Object-Oriented Programming concepts in the given code ?</description>
+    </item>
+    
+    <item>
+      <title>OCA 第199題</title>
+      <link>https://roylintw.github.io/blog/oca/oca_199/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/oca/oca_199/</guid>
+      <description>Given the code fragment: public static void main(String[] args) { 	List&amp;lt;String&amp;gt; lst = Arrays.</description>
+    </item>
+    
+    <item>
+      <title>OCA 第1題 建構方法</title>
+      <link>https://roylintw.github.io/blog/oca/oca_1/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/oca/oca_1/</guid>
+      <description>Given the code fragment: public static void main(String[] args) { 	StringBuilder sb1 = new StringBuilder(&amp;#34;Duke&amp;#34;); 	String str1 = sb1.</description>
+    </item>
+    
+    <item>
+      <title>OCA 第200題</title>
+      <link>https://roylintw.github.io/blog/oca/oca_200/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/oca/oca_200/</guid>
+      <description>Given the code fragment: public static void main(String[] args) { 	StringBuilder sb1 = new StringBuilder(&amp;#34;Duke&amp;#34;); 	String str1 = sb1.</description>
+    </item>
+    
+    <item>
+      <title>OCA 第2題 三元運算式</title>
+      <link>https://roylintw.github.io/blog/oca/oca_2/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/oca/oca_2/</guid>
+      <description>Given: public class Test { 	public static final int MIN = 1; 	public static void main(String[] args) { 	int x = args.</description>
+    </item>
+    
+  </channel>
+</rss>

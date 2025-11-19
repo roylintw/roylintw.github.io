@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SourceTree on 小書僮</title>
+    <link>https://roylintw.github.io/categories/sourcetree/</link>
+    <description>Recent content in SourceTree on 小書僮</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 24 Jun 2025 20:11:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/categories/sourcetree/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[SourceTree]使用SSL連線GitLab(已解決)</title>
+      <link>https://roylintw.github.io/blog/sourcetree/sourcetree%E4%BD%BF%E7%94%A8ssl%E9%80%A3%E7%B7%9Agitlab/</link>
+      <pubDate>Tue, 24 Jun 2025 20:11:00 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/sourcetree/sourcetree%E4%BD%BF%E7%94%A8ssl%E9%80%A3%E7%B7%9Agitlab/</guid>
+      <description>問題描述 最近需要 Clone GitLab 上的專案，
+但 Clone 時一直顯示錯誤，
+使用 source clone https://gitlab.</description>
+    </item>
+    
+  </channel>
+</rss>

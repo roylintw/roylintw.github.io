@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stack on 小書僮</title>
+    <link>https://roylintw.github.io/tags/stack/</link>
+    <description>Recent content in Stack on 小書僮</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 25 Jul 2025 20:34:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/tags/stack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>資料結構 Stack</title>
+      <link>https://roylintw.github.io/project/credit-card-recommendation-system/%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1day5-%E4%BF%A1%E7%94%A8%E5%8D%A1%E7%B6%B2%E9%A0%81%E8%B3%87%E6%96%99%E6%B8%85%E6%B4%97/</link>
+      <pubDate>Fri, 25 Jul 2025 20:34:00 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/project/credit-card-recommendation-system/%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1day5-%E4%BF%A1%E7%94%A8%E5%8D%A1%E7%B6%B2%E9%A0%81%E8%B3%87%E6%96%99%E6%B8%85%E6%B4%97/</guid>
+      <description>何謂「資料清洗」? 資料清洗是指在資料分析或建模之前，對原始資料進行檢查、修正或刪除不正確、不完整、重複或不一致的數據，以提升資料的品質與可靠性。
+我有一份目標信用卡網頁的 html 元素，
+可以參考此文件台企銀-銀色之愛信用卡網頁html元素.txt
+可以看到有很多可以看到有很多不需要的元素， 例如: 標題列、頁尾 &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>資料結構 Stack</title>
+      <link>https://roylintw.github.io/blog/data_structure/linear/3_stack/</link>
+      <pubDate>Sun, 27 Apr 2025 22:06:35 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/data_structure/linear/3_stack/</guid>
+      <description>📌定義： 🧠特性：  LIFO(後進先出)  ⏱️ 時間複雜度： ✅ 優點：    ❌ 缺點：  無法依據元素「優先權」來排序或取出  💡 適合用在哪？ 👨‍💻程式： 🧾執行結果： 📚參考文章  ChatGPT  </description>
+    </item>
+    
+  </channel>
+</rss>

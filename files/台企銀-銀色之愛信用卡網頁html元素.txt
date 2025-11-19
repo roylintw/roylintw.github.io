@@ -1,0 +1,1724 @@
+<body class="is-loading">
+ <div style="display:none" aria-hidden="true">$AP1</div>
+ <div class="l-loading">
+  <div class="l-loading__main">
+   <div id="loading" class="l-loading__logo"></div>
+  </div>
+ </div>
+ <!--[if lte IE 11]>
+<div class="c-browserUpgrade">
+    <b>您的網路瀏覽器已過舊。</b>
+    <span>更新您的瀏覽器以獲得更佳的安全性、速度以及在此網站的最佳體驗。</span>
+    <span class="c-browserUpgrade__actions">
+        <a class="c-browserUpgrade__update" href="https://browser-update.org/zh_TW/update-browser.html" target="_blank" title="更新瀏覽器" rel="noopener noreferrer">更新瀏覽器</a>
+    </span>
+</div>
+<![endif]-->
+ <!-- #START Placeholder: body-top -->
+ <div class="c-app" data-appdl>
+  <div class="c-app__icon">
+   <img src="/zh-tw/-/media/tbb/images/configuration/app/personal-app.png?iar=0&amp;hash=080B534C78D7C199798ACD9FB156EC45" alt="">
+  </div>
+  <div class="c-app__text">臺企銀行動銀行App</div>
+  <div class="c-app__action">
+   <a class="o-btn o-btn--extra" title="前往下載行動銀行App另開新視窗" href="/zh-tw/digital/redirect/personal-app" target="_blank"> <img src="/web/content/images/icons/btns/download-rd.svg" alt=""> <span>下載</span> </a>
+  </div>
+  <div class="c-app__affix">
+   <button class="c-app__close" title="關閉APP下載" data-appdl-btn><img src="/web/content/images/icons/warn/close-bk.svg" alt="關閉"></button>
+  </div>
+ </div>
+ <!-- #END Placeholder: body-top -->
+ <div class="l-container" data-header-fixed="">
+  <!-- #START Placeholder: body-header -->
+  <header class="l-header">
+   <div class="l-header__a11y">
+    <div class="l-a11y">
+     <div class="l-a11y__wrap">
+      <div class="l-a11y__text">
+       <div class="l-a11y__item">
+        <a href="#main" class="o-commonLink o-commonLink--a11y sr-only focusable" target="_self" title="前往主要內容" data-mainlink-header> 主要內容區塊 </a>
+       </div>
+       <div class="l-a11y__item">
+        <a class="o-commonLink o-commonLink--a11y sr-only focusable" title="前往網站導覽" href="/zh-tw/about/sitemap">網站導覽</a>
+       </div>
+      </div>
+      <div class="l-a11y__brick l-a11y__brick--header">
+       <a href="#accesskey-U" accesskey="U" id="accesskey-U" class="o-brick o-brick--header" target="_self" title="上方功能區塊" data-brick-header> ::: </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="l-header__topCommon">
+    <div class="c-topCommon">
+     <div class="c-topCommon__wrap">
+      <div class="l-channel">
+       <div class="l-channel__item">
+        <a class="o-channelLink is-active" href="/zh-tw/personal" title="前往個人金融">個人金融</a>
+       </div>
+       <div class="l-channel__item">
+        <a class="o-channelLink" href="/zh-tw/business" title="前往企業金融">企業金融</a>
+       </div>
+       <div class="l-channel__item">
+        <a class="o-channelLink" href="/zh-tw/digital" title="前往數位金融">數位金融</a>
+       </div>
+       <div class="l-channel__item">
+        <a class="o-channelLink" href="/zh-tw/about/intro/brief/histories" title="前往關於臺灣企銀">關於臺灣企銀</a>
+       </div>
+      </div>
+      <div class="l-topCommon">
+       <div class="l-topCommon__item">
+        <a class="o-topCommonLink" title="前往金融友善專區頁面" href="/zh-tw/about/intro/customer-service/finance-friendly" target="_blank"> 金融友善專區 </a>
+       </div>
+       <div class="l-topCommon__item">
+        <a class="o-topCommonLink" title="前往服務據點頁面" href="/zh-tw/about/intro/location/branch"> 服務據點 </a>
+       </div>
+       <div class="l-topCommon__item">
+        <a class="o-topCommonLink" title="前往永續發展概述及報告書下載頁面" href="/zh-tw/about/sustainability/overview/status-reports"> 永續發展 </a>
+       </div>
+       <div class="l-topCommon__item">
+        <a href="https://ir.tbb.com.tw/" rel="noopener noreferrer" title="前往投資人關係網站另開新視窗" class="o-topCommonLink" target="_blank"> 投資人關係 </a>
+       </div>
+       <div class="l-topCommon__item">
+        <a href="/en-us/" class="o-topCommonLink" target="_self" title="前往英文版本臺企銀官網"> EN </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="l-header__head">
+    <div class="c-header">
+     <div class="c-header__wrap">
+      <div class="c-header__burger">
+       <a href="javascript:;" class="o-burger" target="_self" role="button" aria-haspopup="true" aria-expanded="false" title="開啟主選單" data-burger> 
+        <div class="o-burger__box">
+         <div class="o-burger__line"></div>
+         <div class="o-burger__line"></div>
+         <div class="o-burger__line"></div>
+        </div> 
+        <span class="o-burger__text">主選單</span> 
+       </a>
+      </div>
+      <div class="c-header__logo">
+       <a href="/zh-tw/" class="o-logo" target="_self" title="前往臺灣中小企業銀行首頁"> 
+        <h1><img src="/zh-tw/-/media/tbb/images/example/home/logo/logo.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=9B9F2CE95F4C7655684A3034A286FE87" alt="臺灣中小企業銀行LOGO"></h1> 
+       </a>
+      </div>
+      <div class="c-header__nav">
+       <div class="l-nav">
+        <div class="l-nav__content">
+         <div class="l-nav__wrap">
+          <div class="l-nav__channel">
+           <div class="l-channel">
+            <div class="l-channel__item">
+             <a class="o-channelLink is-active" href="/zh-tw/personal" title="前往個人金融">個人
+              <br>金融</a>
+            </div>
+            <div class="l-channel__item">
+             <a class="o-channelLink" href="/zh-tw/business" title="前往企業金融">企業
+              <br>金融</a>
+            </div>
+            <div class="l-channel__item">
+             <a class="o-channelLink" href="/zh-tw/digital" title="前往數位金融">數位
+              <br>金融</a>
+            </div>
+            <div class="l-channel__item">
+             <a class="o-channelLink" href="/zh-tw/about/intro/brief/histories" title="前往關於臺灣企銀">關於
+              <br>臺灣企銀</a>
+            </div>
+           </div>
+          </div>
+          <div class="l-nav__menu">
+           <div class="l-menu" role="menubar">
+            <div class="l-menu__item u-mobileOnly" role="menuitem" aria-hidden="true">
+             <div class="l-menu__link">
+              <!-- 小網首頁連結 -->
+              <a href="/zh-tw/personal" class="c-collapseBtn c-collapseBtn--lv1" target="_self" title="前往個人金融"> <img src="/web/content/images/icons/menu/home-gy.svg" class="c-collapseBtn__icon" alt=""> 
+               <div class="c-collapseBtn__text">首頁</div> </a>
+             </div>
+            </div>
+            <div class="l-menu__item" data-l1menu-item role="menuitem">
+             <div class="l-menu__link">
+              <a href="/zh-tw/personal/loans" class="o-menuLink o-menuLink--lv1 u-desktopOnly" target="_self" title="前往貸款" data-l1menu-link="貸款"> 
+               <div class="o-menuLink__text">貸款</div> 
+              </a> <a href="javascript:;" class="c-collapseBtn c-collapseBtn--lv1 has-child u-mobileOnly" role="button" aria-haspopup="true" aria-expanded="false" title="前往貸款'" data-l1menu-btn="貸款"> 
+               <div class="c-collapseBtn__text">貸款</div> 
+              </a>
+             </div>
+             <div class="l-menu__content" data-l1menu-content="貸款">
+              <!-- 無常用服務區塊請加上 no-common -->
+              <div class="c-menuContent ">
+               <div class="c-menuContent__main">
+                <div class="c-menuContent__back u-mobileOnly">
+                 <a href="/zh-tw/personal/loans" class="c-collapseBtn c-collapseBtn--back" target="_self" role="button" aria-haspopup="true" aria-expanded="false" title="前往貸款" data-l1menu-back="貸款"> 
+                  <div class="c-collapseBtn__text">貸款</div> 
+                 </a>
+                </div>
+                <div class="c-menuContent__index u-mobileOnly">
+                 <a href="/zh-tw/personal/loans" class="c-collapseBtn c-collapseBtn--index" target="_self" title="前往貸款"> 
+                  <div class="c-collapseBtn__text">貸款</div> 
+                 </a>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">房屋貸款</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/loans/home-loans/mortgage" title="前往購屋貸款">購屋貸款</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/loans/home-loans/pension" title="前往以房養老">以房養老</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/loans/home-loans/investment" title="前往理財好便利">理財好便利</a></li>
+                  </ul>
+                 </div>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">信用貸款</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/loans/credit-loans/overseas-study" title="前往青年海外體驗">青年海外體驗</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/loans/credit-loans/pragnancy" title="前往添好孕">添好孕</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/loans/credit-loans/monthly-salary-loan" title="前往薪資貸">薪資貸</a></li>
+                  </ul>
+                 </div>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">綠色貸款</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/loans/green-loans/esg-home-loan" title="前往ESG綠能永續房屋擔保貸款">ESG綠能永續房屋擔保貸款</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/loans/green-loans/greenshopping-loan" title="前往綠色Go物貸">綠色Go物貸</a></li>
+                  </ul>
+                 </div>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">線上申貸專區</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/loans/online-apply/online-loans" title="前往享e貸">享e貸</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/loans/online-apply/public-employee" title="前往公教人員專屬">公教人員專屬</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/loans/online-apply/payroll-salary" title="前往薪轉戶專案">薪轉戶專案</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/loans/online-apply/prime" title="前往優惠信貸">優惠信貸</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/loans/online-apply/corporate-employee/corporate-employee" title="前往團體企業員工信貸">團體企業員工信貸</a></li>
+                  </ul>
+                 </div>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">貸款工具</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/loans/loan-tools/home-loan-repayment-calculator" title="前往房貸還款金額試算">房貸還款金額試算</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/loans/loan-tools/credit-loan-repayment-calculator" title="前往信貸還款金額試算">信貸還款金額試算</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/loans/loan-tools/pension-home-loan-calculator" title="前往以房養老試算">以房養老試算</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--linkOut" href="https://aps.tbb.com.tw/dap-int-frontend3/loan/loan-calculation/info-page" rel="noopener noreferrer" target="_blank" title="前往信貸額度試算另開新視窗">信貸額度試算</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/loans/loan-tools/debt-negotiation" title="前往前置協商專區">前置協商專區</a></li>
+                  </ul>
+                 </div>
+                </div>
+               </div>
+               <div class="c-menuContent__common">
+                <div class="c-expandLink" role="menu">
+                 <div class="c-expandLink__title c-expandLink__title--common">常用服務</div>
+                 <ul class="c-expandLink__content">
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common o-menuLink--linkOut" href="https://aps.tbb.com.tw/dap-int-frontend3/loan/loan-apply/info-page" rel="noopener noreferrer" target="_blank" title="前往線上申請信貸 (享e貸)另開新視窗">線上申請信貸 (享e貸)</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common" href="/zh-tw/personal/loans/common-services/consult-loans" title="前往預約專人諮詢貸款">預約專人諮詢貸款</a></li>
+                 </ul>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="l-menu__item" data-l1menu-item role="menuitem">
+             <div class="l-menu__link">
+              <a href="/zh-tw/personal/deposits" class="o-menuLink o-menuLink--lv1 u-desktopOnly" target="_self" title="前往存款外匯" data-l1menu-link="存款外匯"> 
+               <div class="o-menuLink__text">存款外匯</div> 
+              </a> <a href="javascript:;" class="c-collapseBtn c-collapseBtn--lv1 has-child u-mobileOnly" role="button" aria-haspopup="true" aria-expanded="false" title="前往存款外匯'" data-l1menu-btn="存款外匯"> 
+               <div class="c-collapseBtn__text">存款外匯</div> 
+              </a>
+             </div>
+             <div class="l-menu__content" data-l1menu-content="存款外匯">
+              <!-- 無常用服務區塊請加上 no-common -->
+              <div class="c-menuContent ">
+               <div class="c-menuContent__main">
+                <div class="c-menuContent__back u-mobileOnly">
+                 <a href="/zh-tw/personal/deposits" class="c-collapseBtn c-collapseBtn--back" target="_self" role="button" aria-haspopup="true" aria-expanded="false" title="前往存款外匯" data-l1menu-back="存款外匯"> 
+                  <div class="c-collapseBtn__text">存款外匯</div> 
+                 </a>
+                </div>
+                <div class="c-menuContent__index u-mobileOnly">
+                 <a href="/zh-tw/personal/deposits" class="c-collapseBtn c-collapseBtn--index" target="_self" title="前往存款外匯"> 
+                  <div class="c-collapseBtn__text">存款外匯</div> 
+                 </a>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">存款產品</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/deposits/products/twd" title="前往臺幣存款">臺幣存款</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/deposits/products/foreign/demand-account" title="前往外幣存款">外幣存款</a></li>
+                  </ul>
+                 </div>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">特色帳戶</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/deposits/feature-products/easy-account" title="前往輕鬆理財戶">輕鬆理財戶</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/deposits/feature-products/payroll-savings-account" title="前往薪轉戶">薪轉戶</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/deposits/feature-products/chijiajin-account" title="前往起家金帳戶">起家金帳戶</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/digital/hokii/digital-account/intro" title="前往Hokii數位帳戶">Hokii數位帳戶</a></li>
+                  </ul>
+                 </div>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">外匯服務</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/deposits/foreign-services/outward-remittance" title="前往外幣匯出">外幣匯出</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/deposits/foreign-services/inward-remittance" title="前往外幣匯入">外幣匯入</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/deposits/foreign-services/foreign-cash" title="前往外幣現鈔">外幣現鈔</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/deposits/foreign-services/foreign-checks" title="前往外幣票據託收/買入">外幣票據託收/買入</a></li>
+                  </ul>
+                 </div>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">匯利率查詢</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/deposits/inquiry/exchange-rate/current" title="前往匯率查詢">匯率查詢</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/deposits/inquiry/currency-converter" title="前往匯率試算">匯率試算</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/deposits/inquiry/twd-deposit" title="前往臺幣存放款利率">臺幣存放款利率</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/deposits/inquiry/twd-interest-calculator" title="前往臺幣存款試算">臺幣存款試算</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/deposits/inquiry/foreign-deposit" title="前往外幣存放款利率">外幣存放款利率</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/deposits/inquiry/foreign-interest-calculator" title="前往外幣存款試算">外幣存款試算</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/deposits/inquiry/bills-bonds" title="前往票/債券利率">票/債券利率</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--linkOut" href="https://www.ba.org.tw/?AspxAutoDetectCookieSupport=1" rel="noopener noreferrer" target="_blank" title="前往TAIBOR定盤利率另開新視窗">TAIBOR定盤利率</a></li>
+                  </ul>
+                 </div>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">分行服務</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/deposits/branch-services/angent-services" title="前往代理業務">代理業務</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/deposits/branch-services/safe-deposit-box" title="前往保管箱出租業務">保管箱出租業務</a></li>
+                  </ul>
+                 </div>
+                </div>
+               </div>
+               <div class="c-menuContent__common">
+                <div class="c-expandLink" role="menu">
+                 <div class="c-expandLink__title c-expandLink__title--common">常用服務</div>
+                 <ul class="c-expandLink__content">
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common o-menuLink--linkOut" href="https://ecounter.tbb.com.tw/eWebTQ/PageMain.html" rel="noopener noreferrer" target="_blank" title="前往網路預約服務另開新視窗">網路預約服務</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common o-menuLink--linkOut" href="https://aps.tbb.com.tw/dap-int-frontend/digital/digital-acc-apply/info-page " rel="noopener noreferrer" target="_blank" title="前往申請Hokii數位帳戶另開新視窗">申請Hokii數位帳戶</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common o-menuLink--linkOut" href="https://aps.tbb.com.tw/dap-int-frontend/digital/digital-query-add/info-page " rel="noopener noreferrer" target="_blank" title="前往修改數位帳戶開戶資料另開新視窗">修改數位帳戶開戶資料</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common o-menuLink--linkOut" href="https://aps.tbb.com.tw/dap-int-frontend/digital/digital-acc-edit/info-page" rel="noopener noreferrer" target="_blank" title="前往數位帳戶開戶進度與補上傳證件另開新視窗">數位帳戶開戶進度與補上傳證件</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common" href="/zh-tw/personal/deposits/inquiry/exchange-rate/current" title="前往匯率查詢">匯率查詢</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common" href="/zh-tw/personal/deposits/inquiry/twd-deposit" title="前往臺幣存放款利率">臺幣存放款利率</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common" href="/zh-tw/personal/deposits/inquiry/foreign-deposit" title="前往外幣存放款利率">外幣存放款利率</a></li>
+                 </ul>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="l-menu__item" data-l1menu-item role="menuitem">
+             <div class="l-menu__link">
+              <a href="/zh-tw/personal/cards" class="o-menuLink o-menuLink--lv1 u-desktopOnly" target="_self" title="前往信用卡" data-l1menu-link="信用卡"> 
+               <div class="o-menuLink__text">信用卡</div> 
+              </a> <a href="javascript:;" class="c-collapseBtn c-collapseBtn--lv1 has-child u-mobileOnly" role="button" aria-haspopup="true" aria-expanded="false" title="前往信用卡'" data-l1menu-btn="信用卡"> 
+               <div class="c-collapseBtn__text">信用卡</div> 
+              </a>
+             </div>
+             <div class="l-menu__content" data-l1menu-content="信用卡">
+              <!-- 無常用服務區塊請加上 no-common -->
+              <div class="c-menuContent ">
+               <div class="c-menuContent__main">
+                <div class="c-menuContent__back u-mobileOnly">
+                 <a href="/zh-tw/personal/cards" class="c-collapseBtn c-collapseBtn--back" target="_self" role="button" aria-haspopup="true" aria-expanded="false" title="前往信用卡" data-l1menu-back="信用卡"> 
+                  <div class="c-collapseBtn__text">信用卡</div> 
+                 </a>
+                </div>
+                <div class="c-menuContent__index u-mobileOnly">
+                 <a href="/zh-tw/personal/cards" class="c-collapseBtn c-collapseBtn--index" target="_self" title="前往信用卡"> 
+                  <div class="c-collapseBtn__text">信用卡</div> 
+                 </a>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">刷卡優惠</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/offers/overview" title="前往刷卡優惠一覽">刷卡優惠一覽</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/offers/overview?type=網路購物" title="前往網路購物">網路購物</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/offers/overview?type=百貨量販" title="前往百貨量販">百貨量販</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/offers/overview?type=美食生活" title="前往美食生活">美食生活</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/offers/overview?type=旅遊交通" title="前往旅遊交通">旅遊交通</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/offers/overview?type=分期商店" title="前往分期商店">分期商店</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/offers/overview?type=分期活動" title="前往分期活動">分期活動</a></li>
+                  </ul>
+                 </div>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">信用卡產品</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/products/overview" title="前往卡片一覽">卡片一覽</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/products/overview?type=熱門卡片" title="前往熱門卡片">熱門卡片</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/products/overview?type=一般銀行卡" title="前往一般銀行卡">一般銀行卡</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/products/overview?type=聯名認同卡" title="前往聯名認同卡">聯名認同卡</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/products/overview?type=公司商務卡" title="前往公司商務卡">公司商務卡</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/products/overview?type=簽帳金融卡" title="前往簽帳金融卡">簽帳金融卡</a></li>
+                  </ul>
+                 </div>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">信用卡理財</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/finance/increase-credit-limit" title="前往額度調升">額度調升</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/finance/cash-advance" title="前往預借現金">預借現金</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/finance/payment-installment" title="前往單筆分期付款">單筆分期付款</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/finance/bill-installment" title="前往帳單分期付款">帳單分期付款</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--linkOut" href="https://ebank.tbb.com.tw/nb3/ONLINE/APPLY/online_apply_menu" rel="noopener noreferrer" target="_blank" title="前往簽署分期同意書另開新視窗">簽署分期同意書</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/finance/revolving-credit-installment" title="前往長期循環戶轉換機制">長期循環戶轉換機制</a></li>
+                  </ul>
+                 </div>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">卡友權益/服務</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/rights-services/activate-creditcard" title="前往信用卡開卡">信用卡開卡</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/rights-services/report-lost" title="前往信用卡掛失">信用卡掛失</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/about/information/announcement/news" title="前往重要公告">重要公告</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/rights-services/benefits" title="前往附加權益">附加權益</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/rights-services/manuals-terms" title="前往使用手冊/約定條款">使用手冊/約定條款</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/rights-services/rates-fees" title="前往利率及各項費用">利率及各項費用</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/rights-services/payment-donation" title="前往繳費稅與捐款">繳費稅與捐款</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/about/intro/customer-service/faq?faq=信用卡" title="前往常見問題">常見問題</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--linkOut" href="https://ebank.tbb.com.tw/nb3/LIGHT_UP/light_up_p1" rel="noopener noreferrer" target="_blank" title="前往北港朝天宮點燈查詢另開新視窗">北港朝天宮點燈查詢</a></li>
+                  </ul>
+                 </div>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">支付與收單</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/payment-acquiring/hce-creditcard" title="前往手機信用卡">手機信用卡</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/cards/payment-acquiring/acquiring-business" title="前往信用卡收單業務">信用卡收單業務</a></li>
+                  </ul>
+                 </div>
+                </div>
+               </div>
+               <div class="c-menuContent__common">
+                <div class="c-expandLink" role="menu">
+                 <div class="c-expandLink__title c-expandLink__title--common">常用服務</div>
+                 <ul class="c-expandLink__content">
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common o-menuLink--linkOut" href="https://ebank.tbb.com.tw/nb3/CREDIT/APPLY/apply_creditcard" rel="noopener noreferrer" target="_blank" title="前往線上申請信用卡另開新視窗">線上申請信用卡</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common o-menuLink--linkOut" href="https://ebank.tbb.com.tw/nb3/CREDIT/APPLY/onlineapply_creditcard_progress" rel="noopener noreferrer" target="_blank" title="前往辦卡進度查詢/補件另開新視窗">辦卡進度查詢/補件</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common o-menuLink--linkOut" href="https://ebank.tbb.com.tw/nb3/ONLINE/APPLY/online_apply?TYPE=5566" rel="noopener noreferrer" target="_blank" title="前往申請單筆分期付款另開新視窗">申請單筆分期付款</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common o-menuLink--linkOut" href="https://ebank.tbb.com.tw/nb3/ONLINE/APPLY/online_apply?TYPE=19" rel="noopener noreferrer" target="_blank" title="前往申請調升信用額度另開新視窗">申請調升信用額度</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common o-menuLink--linkOut" href="https://ebank.tbb.com.tw/nb3/CREDIT/CRC/crc" rel="noopener noreferrer" target="_blank" title="前往專屬推薦碼另開新視窗">專屬推薦碼</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common" href="/zh-tw/-/media/tbb/files/zh-tw/about/information/download/forms/creditcard/tbb32_.pdf?sc_lang=zh-tw&amp;hash=30FCA0590098A57CCD9156E006E43F82" rel="noopener noreferrer" target="_blank" title="Pdf檔案委託代繳公用事業費用另開新視窗">委託代繳公用事業費用</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common o-menuLink--linkOut" href="https://ebank.tbb.com.tw/nb3/CREDIT/REGISTRATION/registration_init" rel="noopener noreferrer" target="_blank" title="前往信用卡活動登錄另開新視窗">信用卡活動登錄</a></li>
+                 </ul>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="l-menu__item" data-l1menu-item role="menuitem">
+             <div class="l-menu__link">
+              <a href="/zh-tw/personal/investments" class="o-menuLink o-menuLink--lv1 u-desktopOnly" target="_self" title="前往投資理財" data-l1menu-link="投資理財"> 
+               <div class="o-menuLink__text">投資理財</div> 
+              </a> <a href="javascript:;" class="c-collapseBtn c-collapseBtn--lv1 has-child u-mobileOnly" role="button" aria-haspopup="true" aria-expanded="false" title="前往投資理財'" data-l1menu-btn="投資理財"> 
+               <div class="c-collapseBtn__text">投資理財</div> 
+              </a>
+             </div>
+             <div class="l-menu__content" data-l1menu-content="投資理財">
+              <!-- 無常用服務區塊請加上 no-common -->
+              <div class="c-menuContent ">
+               <div class="c-menuContent__main">
+                <div class="c-menuContent__back u-mobileOnly">
+                 <a href="/zh-tw/personal/investments" class="c-collapseBtn c-collapseBtn--back" target="_self" role="button" aria-haspopup="true" aria-expanded="false" title="前往投資理財" data-l1menu-back="投資理財"> 
+                  <div class="c-collapseBtn__text">投資理財</div> 
+                 </a>
+                </div>
+                <div class="c-menuContent__index u-mobileOnly">
+                 <a href="/zh-tw/personal/investments" class="c-collapseBtn c-collapseBtn--index" target="_self" title="前往投資理財"> 
+                  <div class="c-collapseBtn__text">投資理財</div> 
+                 </a>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">基金債券</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/investments/funds/intro" title="前往國內外基金">國內外基金</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--linkOut" href="https://ebank.tbb.com.tw/nb3/CUSTOMER/SERVICE/FundWeb" rel="noopener noreferrer" target="_blank" title="前往基金查詢 (基金理財網)另開新視窗">基金查詢 (基金理財網)</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--linkOut" href="https://tbb.moneydj.com/index.asp?menuid=1&amp;surl=$W$HTML$TBBSELECT0]HTM" rel="noopener noreferrer" target="_blank" title="前往通路報酬揭露另開新視窗">通路報酬揭露</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--linkOut" href="https://tbb.moneydj.com/index.asp?menuid=2&amp;surl=$N$WNEWSCON]DJHTM{A}3" rel="noopener noreferrer" target="_blank" title="前往海外債券另開新視窗">海外債券</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/investments/funds/bond-service" title="前往債票券業務">債票券業務</a></li>
+                  </ul>
+                 </div>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">證券服務</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/investments/securities/intro" title="前往證券經紀及融資融券業務">證券經紀及融資融券業務</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/investments/securities/future-trading" title="前往期貨交易輔助人業務">期貨交易輔助人業務</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/investments/securities/services" title="前往電子交易平台">電子交易平台</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--linkOut" href="https://www.tbbstock.com.tw/tbb/otherM/layoutRWD.jsp?type=0" rel="noopener noreferrer" target="_blank" title="前往促銷方案另開新視窗">促銷方案</a></li>
+                  </ul>
+                 </div>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">黃金存摺</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/investments/gold/intro" title="前往黃金存摺">黃金存摺</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--linkOut" href="https://ebank.tbb.com.tw/nb3/GOLD/OUT/PASSBOOK/day_price_query" rel="noopener noreferrer" target="_blank" title="前往當日黃金牌價查詢另開新視窗">當日黃金牌價查詢</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--linkOut" href="https://ebank.tbb.com.tw/nb3/GOLD/OUT/PASSBOOK/history_price_query" rel="noopener noreferrer" target="_blank" title="前往歷史黃金牌價查詢另開新視窗">歷史黃金牌價查詢</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/investments/gold/market-analysis" title="前往國際金市分析">國際金市分析</a></li>
+                  </ul>
+                 </div>
+                </div>
+               </div>
+               <div class="c-menuContent__common">
+                <div class="c-expandLink" role="menu">
+                 <div class="c-expandLink__title c-expandLink__title--common">常用服務</div>
+                 <ul class="c-expandLink__content">
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common o-menuLink--linkOut" href="https://ebank.tbb.com.tw/nb3/ONLINE/APPLY/online_apply/?TYPE=6" rel="noopener noreferrer" target="_blank" title="前往預約開立基金戶另開新視窗">預約開立基金戶</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common o-menuLink--linkOut" href="https://ebank.tbb.com.tw" rel="noopener noreferrer" target="_blank" title="前往基金申購另開新視窗">基金申購</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common o-menuLink--linkOut" href="https://www.tbbstock.com.tw/tbb/index/home.jsp" rel="noopener noreferrer" target="_blank" title="前往證券下單另開新視窗">證券下單</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common" href="/zh-tw/personal/investments/gold/intro" title="前往黃金存摺開戶">黃金存摺開戶</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common o-menuLink--linkOut" href="https://ebank.tbb.com.tw/" rel="noopener noreferrer" target="_blank" title="前往瀏覽黃金存摺賬戶另開新視窗">瀏覽黃金存摺賬戶</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common o-menuLink--linkOut" href="https://ebank.tbb.com.tw/nb3/ONLINE/APPLY/online_apply_menu" rel="noopener noreferrer" target="_blank" title="前往申請黃金存摺網路交易功能另開新視窗">申請黃金存摺網路交易功能</a></li>
+                 </ul>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="l-menu__item" data-l1menu-item role="menuitem">
+             <div class="l-menu__link">
+              <a href="/zh-tw/personal/insurance" class="o-menuLink o-menuLink--lv1 u-desktopOnly" target="_self" title="前往保險" data-l1menu-link="保險"> 
+               <div class="o-menuLink__text">保險</div> 
+              </a> <a href="javascript:;" class="c-collapseBtn c-collapseBtn--lv1 has-child u-mobileOnly" role="button" aria-haspopup="true" aria-expanded="false" title="前往保險'" data-l1menu-btn="保險"> 
+               <div class="c-collapseBtn__text">保險</div> 
+              </a>
+             </div>
+             <div class="l-menu__content" data-l1menu-content="保險">
+              <!-- 無常用服務區塊請加上 no-common -->
+              <div class="c-menuContent ">
+               <div class="c-menuContent__main">
+                <div class="c-menuContent__back u-mobileOnly">
+                 <a href="/zh-tw/personal/insurance" class="c-collapseBtn c-collapseBtn--back" target="_self" role="button" aria-haspopup="true" aria-expanded="false" title="前往保險" data-l1menu-back="保險"> 
+                  <div class="c-collapseBtn__text">保險</div> 
+                 </a>
+                </div>
+                <div class="c-menuContent__index u-mobileOnly">
+                 <a href="/zh-tw/personal/insurance" class="c-collapseBtn c-collapseBtn--index" target="_self" title="前往保險"> 
+                  <div class="c-collapseBtn__text">保險</div> 
+                 </a>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">認識保險</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/insurance/intro/knowledge" title="前往保險小常識">保險小常識</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/insurance/intro/planning" title="前往人生保險規劃">人生保險規劃</a></li>
+                  </ul>
+                 </div>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">保險產品</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/insurance/products/popular-insurance" title="前往熱門商品">熱門商品</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/insurance/products/home-loans" title="前往房貸壽險">房貸壽險</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/insurance/products/investment-insurance" title="前往投資型保險">投資型保險</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/insurance/products/life-insurance" title="前往人壽保險">人壽保險</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/insurance/products/injury-health-insurance" title="前往意外/醫療險">意外/醫療險</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/insurance/products/annuity-insurance" title="前往年金保險">年金保險</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/insurance/products/non-life-insurance" title="前往財產保險">財產保險</a></li>
+                  </ul>
+                 </div>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">重要公告</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/about/information/announcement/news" title="前往保險公告">保險公告</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/insurance/news/regulations" title="前往保險法規">保險法規</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--linkOut" href="https://www.ciaa.org.tw/highyear.aspx" rel="noopener noreferrer" target="_blank" title="前往高齡化保險專區另開新視窗">高齡化保險專區</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--linkOut" href="https://www.ciaa.org.tw/microins.aspx" rel="noopener noreferrer" target="_blank" title="前往微型保險專區另開新視窗">微型保險專區</a></li>
+                  </ul>
+                 </div>
+                </div>
+               </div>
+               <div class="c-menuContent__common">
+                <div class="c-expandLink" role="menu">
+                 <div class="c-expandLink__title c-expandLink__title--common">常用服務</div>
+                 <ul class="c-expandLink__content">
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common" href="/zh-tw/personal/insurance/common-services/investment-estimate" title="前往本行保管投資型保單帳戶淨值查詢">本行保管投資型保單帳戶淨值查詢</a></li>
+                 </ul>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="l-menu__item" data-l1menu-item role="menuitem">
+             <div class="l-menu__link">
+              <a href="/zh-tw/personal/trust" class="o-menuLink o-menuLink--lv1 u-desktopOnly" target="_self" title="前往信託" data-l1menu-link="信託"> 
+               <div class="o-menuLink__text">信託</div> 
+              </a> <a href="javascript:;" class="c-collapseBtn c-collapseBtn--lv1 has-child u-mobileOnly" role="button" aria-haspopup="true" aria-expanded="false" title="前往信託'" data-l1menu-btn="信託"> 
+               <div class="c-collapseBtn__text">信託</div> 
+              </a>
+             </div>
+             <div class="l-menu__content" data-l1menu-content="信託">
+              <!-- 無常用服務區塊請加上 no-common -->
+              <div class="c-menuContent ">
+               <div class="c-menuContent__main">
+                <div class="c-menuContent__back u-mobileOnly">
+                 <a href="/zh-tw/personal/trust" class="c-collapseBtn c-collapseBtn--back" target="_self" role="button" aria-haspopup="true" aria-expanded="false" title="前往信託" data-l1menu-back="信託"> 
+                  <div class="c-collapseBtn__text">信託</div> 
+                 </a>
+                </div>
+                <div class="c-menuContent__index u-mobileOnly">
+                 <a href="/zh-tw/personal/trust" class="c-collapseBtn c-collapseBtn--index" target="_self" title="前往信託"> 
+                  <div class="c-collapseBtn__text">信託</div> 
+                 </a>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">認識信託</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/trust/intro/about" title="前往關於信託">關於信託</a></li>
+                  </ul>
+                 </div>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">信託規劃</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/trust/services/insurance-trust" title="前往保險金信託">保險金信託</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/trust/services/securities-trust" title="前往有價證券信託">有價證券信託</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/trust/services/eldercare-trust" title="前往安養信託">安養信託</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/trust/services/family-trust" title="前往家族信託">家族信託</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/trust/services/customized-trust" title="前往客製化信託">客製化信託</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/trust/services/realestate-investment-trust" title="前往不動產信託">不動產信託</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/trust/services/realestate-values-trust" title="前往不動產買賣價金信託">不動產買賣價金信託</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/trust/services/employee-stock-ownership-trust" title="前往企業員工持股信託">企業員工持股信託</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/trust/services/employee-welfare-trust" title="前往企業員工福利儲蓄信託">企業員工福利儲蓄信託</a></li>
+                  </ul>
+                 </div>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">信託公告</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/trust/information/overview-trust-agents" title="前往信託從業人員登錄情形查詢">信託從業人員登錄情形查詢</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/trust/information/dispute-procedure" title="前往紛爭處理程序">紛爭處理程序</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/trust/information/eldercare-trust-promotion" title="前往樂活信託專區">樂活信託專區</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/about/legal-disclaimers/disclosure/public-welfare-trust" title="前往公益信託公告">公益信託公告</a></li>
+                  </ul>
+                 </div>
+                </div>
+               </div>
+               <div class="c-menuContent__common">
+                <div class="c-expandLink" role="menu">
+                 <div class="c-expandLink__title c-expandLink__title--common">常用服務</div>
+                 <ul class="c-expandLink__content">
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common o-menuLink--linkOut" href="https://trustquery.tbb.com.tw/Trust/" rel="noopener noreferrer" target="_blank" title="前往信託查詢系統另開新視窗">信託查詢系統</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common o-menuLink--linkOut" href="https://newtrustquery.tbb.com.tw" rel="noopener noreferrer" target="_blank" title="前往新信託查詢系統 (體驗版)另開新視窗">新信託查詢系統 (體驗版)</a></li>
+                 </ul>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="l-menu__item" data-l1menu-item role="menuitem">
+             <div class="l-menu__link">
+              <a href="/zh-tw/personal/wealth" class="o-menuLink o-menuLink--lv1 u-desktopOnly" target="_self" title="前往財富管理" data-l1menu-link="財富管理"> 
+               <div class="o-menuLink__text">財富管理</div> 
+              </a> <a href="javascript:;" class="c-collapseBtn c-collapseBtn--lv1 has-child u-mobileOnly" role="button" aria-haspopup="true" aria-expanded="false" title="前往財富管理'" data-l1menu-btn="財富管理"> 
+               <div class="c-collapseBtn__text">財富管理</div> 
+              </a>
+             </div>
+             <div class="l-menu__content" data-l1menu-content="財富管理">
+              <!-- 無常用服務區塊請加上 no-common -->
+              <div class="c-menuContent ">
+               <div class="c-menuContent__main">
+                <div class="c-menuContent__back u-mobileOnly">
+                 <a href="/zh-tw/personal/wealth" class="c-collapseBtn c-collapseBtn--back" target="_self" role="button" aria-haspopup="true" aria-expanded="false" title="前往財富管理" data-l1menu-back="財富管理"> 
+                  <div class="c-collapseBtn__text">財富管理</div> 
+                 </a>
+                </div>
+                <div class="c-menuContent__index u-mobileOnly">
+                 <a href="/zh-tw/personal/wealth" class="c-collapseBtn c-collapseBtn--index" target="_self" title="前往財富管理"> 
+                  <div class="c-collapseBtn__text">財富管理</div> 
+                 </a>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">理財資訊</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/digital/hokii/promotion/latest" title="前往活動情報">活動情報</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/-/media/tbb/files/zh-tw/personal/wealth/info/customer-rights/tbb-wealth-customer-rights.pdf?sc_lang=zh-tw&amp;hash=F4789334DAA2C6CC899FDC84803247D4" rel="noopener noreferrer" target="_blank" title="Pdf檔案客戶權益另開新視窗">客戶權益</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/wealth/info/exchange-market-analysis" title="前往匯市行情">匯市行情</a></li>
+                  </ul>
+                 </div>
+                </div>
+                <div class="c-menuContent__item">
+                 <div class="c-expandLink" role="menu">
+                  <div class="c-expandLink__title">理財規劃</div>
+                  <ul class="c-expandLink__content">
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/wealth/planning/how-to" title="前往如何理財規劃?">如何理財規劃?</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/wealth/planning/youth" title="前往輕青世代">輕青世代</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/wealth/planning/lohas" title="前往樂活生活">樂活生活</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/wealth/planning/family" title="前往重在家庭">重在家庭</a></li>
+                   <li class="c-expandLink__link"><a class="o-menuLink" href="/zh-tw/personal/wealth/planning/pension" title="前往養生退休">養生退休</a></li>
+                  </ul>
+                 </div>
+                </div>
+               </div>
+               <div class="c-menuContent__common">
+                <div class="c-expandLink" role="menu">
+                 <div class="c-expandLink__title c-expandLink__title--common">常用服務</div>
+                 <ul class="c-expandLink__content">
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common" href="/zh-tw/personal/insurance/products/popular-insurance" title="前往瀏覽熱門保險商品">瀏覽熱門保險商品</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common o-menuLink--linkOut" href="https://ebank.tbb.com.tw/nb3/CUSTOMER/SERVICE/FundWeb" rel="noopener noreferrer" target="_blank" title="前往基金查詢 (基金理財網)另開新視窗">基金查詢 (基金理財網)</a></li>
+                  <li class="c-expandLink__link"><a class="o-menuLink o-menuLink--common o-menuLink--linkOut" href="https://ebank.tbb.com.tw/" rel="noopener noreferrer" target="_blank" title="前往基金申購另開新視窗">基金申購</a></li>
+                 </ul>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="l-nav__quick">
+           <div class="l-topCommon">
+            <div class="l-topCommon__item">
+             <a class="o-topCommonLink" title="前往分行據點頁面" href="/zh-tw/about/intro/location/branch"> <img src="/zh-tw/-/media/tbb/images/example/home/header/location-gy.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=1981DF104BB348D2D428E682811261F9" class="o-topCommonLink__icon" alt=""> <span class="o-topCommonLink__text">據點查詢</span> </a>
+            </div>
+            <div class="l-topCommon__item">
+             <a href="/en-us/" class="o-topCommonLink" target="_self" title="前往英文版本臺企銀官網"> <img src="/web/content/images/icons/menu/language-gy.svg" alt="" class="o-topCommonLink__icon"> <span class="o-topCommonLink__text">EN</span> </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="c-header__btn">
+       <div class="l-loginBox">
+        <div class="o-overlay"></div>
+        <div class="l-loginBox__btn">
+         <a href="javascript:;" class="o-login is-aniRight" target="_self" role="button" title="登入" data-login> <span class="o-login__text">登入</span> <img src="/web/content/images/icons/btns/arrow-right-wt.svg" alt="" class="o-login__pc"> <img src="/web/content/images/icons/btns/login-wt.svg" alt="" class="o-login__mb"> </a>
+        </div>
+        <div class="l-loginBox__content">
+         <div class="o-loginBox">
+          <a href="https://ebank.tbb.com.tw/" rel="noopener noreferrer" title="前往個人網路銀行網站另開新視窗" class="o-loginBox__link" target="_blank"> <span>一般網路銀行</span> </a><a href="https://cnb3.tbb.com.tw" rel="noopener noreferrer" title="前往企業網路銀行網站另開新視窗" class="o-loginBox__link" target="_blank"> <span>企業網路銀行</span> </a><a href="https://portal.tbb.com.tw/tbbportal/" rel="noopener noreferrer" title="前網舊版企業網路銀行另開新視窗" class="o-loginBox__link" target="_blank"> <span>舊版企業網銀</span> </a><a href="https://portal.tbb.com.tw/tbbportal/" rel="noopener noreferrer" title="前往全球金融網站另開新視窗" class="o-loginBox__link" target="_blank"> <span>全球金融網</span> </a><a class="o-loginBox__link" title="前往網路ATM網站另開視窗" href="https://eatm.tbb.com.tw/"> <span>網路ATM</span> </a><a href="https://www.tbbstock.com.tw/tbb/index/home.jsp" rel="noopener noreferrer" title="前往證券下單網站另開新視窗" class="o-loginBox__link" target="_blank"> <span>證券下單</span> </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </header>
+  <!-- #END   Placeholder: body-header -->
+  <main class="l-main" id="main">
+   <section class="l-section">
+    <div class="l-section__wrap">
+     <div class="l-a11y">
+      <div class="l-a11y__brick l-a11y__brick--main">
+       <a href="#accesskey-C" accesskey="C" id="accesskey-C" class="o-brick" target="_self" title="主要內容區塊"> ::: </a>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="l-section">
+    <div class="l-section__wrap l-section__wrap--full">
+     <div class="l-contentHead">
+      <div class="l-contentHead__wrap">
+       <div class="l-contentHead__bread">
+        <div class="c-breadcrumbs">
+         <a href="/zh-tw/" class="c-breadcrumbs__item c-breadcrumbs__item--home" target="_self" title="前往首頁"> <img src="/web/content/images/icons/breadcrumbs/home-bk.svg" alt="首頁"> <img src="/web/content/images/icons/breadcrumbs/home-hover.svg" alt="首頁" aria-hidden="true"> </a> <a class="c-breadcrumbs__item" href="/zh-tw/personal" target="" title="前往個人金融">個人金融</a> <a class="c-breadcrumbs__item" href="/zh-tw/personal/cards" target="" title="前往信用卡">信用卡</a>
+         <div class="c-breadcrumbs__item">信用卡產品</div>
+         <a class="c-breadcrumbs__item" href="/zh-tw/personal/cards/products/overview" target="" title="前往卡片一覽">卡片一覽</a>
+         <div class="c-breadcrumbs__item">銀色之愛</div>
+        </div>
+       </div>
+       <div class="l-contentHead__share">
+        <div class="l-share" data-share>
+         <div class="l-share__action">
+          <a href="#" class="o-social" target="_self" role="button" title="社交媒體分享" data-share-btn> <img src="/web/content/images/icons/social/share.svg" class="o-social__img" alt="分享"> <img src="/web/content/images/icons/social/share-hover.svg" class="o-social__hover" alt="分享" aria-hidden="true"> </a>
+         </div>
+         <div class="l-share__content">
+          <div class="l-share__item">
+           <a href="#" class="o-social" data-share-copy target="_self" role="button" title="複製連結"> <img src="/web/content/images/icons/social/link.svg" class="o-social__img" alt="複製"> <img src="/web/content/images/icons/social/link-hover.svg" class="o-social__hover" alt="複製" aria-hidden="true"> </a>
+          </div>
+          <div class="l-share__item">
+           <a href="#" class="o-social" data-share-line target="_blank" rel="noreferrer noopener" title="前往line分享此頁面另開新視窗"> <img src="/web/content/images/icons/social/line.svg" class="o-social__img" alt="line"> <img src="/web/content/images/icons/social/line-hover.svg" class="o-social__hover" alt="line" aria-hidden="true"> </a>
+          </div>
+          <div class="l-share__item">
+           <a href="#" class="o-social" data-share-fb target="_blank" rel="noreferrer noopener" title="前往facebook分享此頁面另開新視窗"> <img src="/web/content/images/icons/social/facebook.svg" class="o-social__img" alt="facebook"> <img src="/web/content/images/icons/social/facebook-hover.svg" class="o-social__hover" alt="facebook" aria-hidden="true"> </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <!-- #START Placeholder: content-top -->
+   <!-- #END Placeholder: content-top -->
+   <!-- #START Placeholder: content -->
+   <div class="c-toolBox" role="toolbar" data-toolbox>
+    <div class="c-toolBox__item" data-toolbox-item>
+     <div class="c-toolBox__icon">
+      <a href="javascript:;" class="o-toolBtn" target="_self" role="button" aria-haspopup="true" aria-expanded="false" title="前往匯利率查詢頁面" data-toolbox-icon> <img src="/zh-tw/-/media/tbb/icons/zh-tw/services/l/searchvalue.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=0819AA4CB83F007B37B26902EFB603BF" alt=""> <span class="u-hidden">&nbsp;</span> </a>
+     </div>
+     <div class="c-toolBox__content">
+      <ul class="c-toolBox__links">
+       <li class="c-toolBox__link"><a href="/zh-tw/personal/deposits/inquiry/exchange-rate/current" aria-haspopup="true" title="前往匯率查詢" class="o-toolLink" role="button" aria-expanded="false"> 匯率查詢 </a></li>
+       <li class="c-toolBox__link"><a href="/zh-tw/personal/deposits/inquiry/twd-deposit" aria-haspopup="true" title="前往臺幣存放款利率" class="o-toolLink" role="button" aria-expanded="false"> 臺幣存放款利率查詢 </a></li>
+       <li class="c-toolBox__link"><a href="/zh-tw/personal/deposits/inquiry/foreign-deposit" aria-haspopup="true" title="前往外幣存放款利率" class="o-toolLink" role="button" aria-expanded="false"> 外幣存放款利率查詢 </a></li>
+       <li class="c-toolBox__link"><a href="https://ebank.tbb.com.tw/nb3/GOLD/OUT/PASSBOOK/day_price_query" target="_blank" rel="noopener noreferrer" aria-haspopup="true" title="前往當日黃金牌價查詢另開新視窗" class="o-toolLink" role="button" aria-expanded="false"> 當日黃金牌價查詢 </a></li>
+       <li class="c-toolBox__link"><a href="https://ebank.tbb.com.tw/nb3/GOLD/OUT/PASSBOOK/history_price_query" target="_blank" rel="noopener noreferrer" aria-haspopup="true" title="前往歷史黃金牌價查詢另開新視窗" class="o-toolLink" role="button" aria-expanded="false"> 歷史黃金牌價查詢 </a></li>
+      </ul>
+     </div>
+    </div>
+    <div class="c-toolBox__item" data-toolbox-item>
+     <div class="c-toolBox__icon">
+      <a href="javascript:;" class="o-toolBtn" target="_self" role="button" aria-haspopup="true" aria-expanded="false" title="前往試算頁面" data-toolbox-icon> <img src="/zh-tw/-/media/tbb/icons/zh-tw/services/l/calculator.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=05B63AF4BB58D592593C0B6589C0BF7B" alt=""> <span class="u-hidden">&nbsp;</span> </a>
+     </div>
+     <div class="c-toolBox__content">
+      <ul class="c-toolBox__links">
+       <li class="c-toolBox__link"><a href="/zh-tw/personal/deposits/inquiry/currency-converter" aria-haspopup="true" title="前往匯率試算" class="o-toolLink" role="button" aria-expanded="false"> 匯率試算 </a></li>
+       <li class="c-toolBox__link"><a href="/zh-tw/personal/deposits/inquiry/twd-interest-calculator" aria-haspopup="true" title="前往臺幣存款利率試算" class="o-toolLink" role="button" aria-expanded="false"> 臺幣存款利率試算 </a></li>
+       <li class="c-toolBox__link"><a href="/zh-tw/personal/deposits/inquiry/foreign-interest-calculator" aria-haspopup="true" title="前往外幣存款利率試算" class="o-toolLink" role="button" aria-expanded="false"> 外幣存款利率試算 </a></li>
+       <li class="c-toolBox__link"><a href="/zh-tw/personal/loans/loan-tools/home-loan-repayment-calculator" aria-haspopup="true" title="前往房貸還款金額試算" class="o-toolLink" role="button" aria-expanded="false"> 房貸還款金額試算 </a></li>
+       <li class="c-toolBox__link"><a href="/zh-tw/personal/loans/loan-tools/credit-loan-repayment-calculator" aria-haspopup="true" title="前往信貸還款金額試算" class="o-toolLink" role="button" aria-expanded="false"> 信貸還款金額試算 </a></li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <section class="l-section">
+    <div class="l-section__wrap l-section__wrap--full">
+     <div class="l-pageHead">
+      <div class="c-insideBanner">
+       <div class="c-insideBanner__content">
+        <div class="c-insideBanner__wrap">
+         <h2 class="c-insideBanner__title">銀色之愛</h2>
+         <div class="c-insideBanner__slogan">保費輕鬆繳最高12期0利率</div>
+         <div class="c-insideBanner__img c-insideBanner__img--creditcard">
+          <div class="l-integrated swiper" data-creditcard-slider card_sliderd1228318902c4ed6933f0bd423fea14b>
+           <div class="swiper-wrapper">
+            <div class="l-integrated__item swiper-slide">
+             <div class="o-creditcard ">
+              <div class="o-creditcard__img">
+               <img alt="銀色之愛" src="/zh-tw/-/media/tbb/images/zh-tw/personal/cards/products/overview/eldercaring-creditcard.jpg?sc_lang=zh-tw&amp;hash=1FEBC950126701830A8812A16D5D65B8" srcset="/zh-tw/-/media/tbb/images/zh-tw/personal/cards/products/overview/eldercaring-creditcard.jpg?sc_lang=zh-tw&amp;hash=1FEBC950126701830A8812A16D5D65B8 1x, /zh-tw/-/media/tbb/images/zh-tw/personal/cards/products/overview/eldercaring-creditcard3x.jpg?sc_lang=zh-tw&amp;hash=7F1EBC2687E54D5E142CE2A32BF7C5B7 3x">
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="l-integrated__action">
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-next"></div>
+           </div>
+          </div>
+         </div>
+         <div class="c-insideBanner__feature">
+          <div class="c-featureTab is-single" data-tab-auto>
+           <div class="c-featureTab__nav" role="tablist">
+            <div class="is-active" data-tab-btn="1">有什麼特色?</div>
+           </div>
+           <div class="c-featureTab__content" data-tab-wrapper>
+            <div class="c-featureTab__panel is-active" role="tabpanel" id="tab-1" aria-labelledby="tab1" data-tab-panel="1">繳保費輕鬆無負擔！單筆保費達新臺幣10,000元（含）以上，刷銀色之愛信用卡獨享6/12期分期0利率或最高3,200元刷卡金(擇一回饋)。</div>
+           </div>
+           <div class="c-featureTab__btns">
+            <div class="l-action__item">
+             <a href="https://ebank.tbb.com.tw/nb3/CREDIT/APPLY/apply_creditcard?CardType=eldercaring" rel="noopener noreferrer" title="前往臺灣企銀網路銀行申請信用卡另開新視窗" role="button" class="o-btn is-aniRight" target="_blank"> <span> 立即申辦 </span> <img src="/web/content/images/icons/btns/arrow-right-wt.svg" alt="" class="o-btn__icon"> <img src="/web/content/images/icons/btns/arrow-right-wt.svg" alt="" class="o-btn__press" aria-hidden="true"> </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="l-section">
+    <div class="l-section__wrap">
+     <div class="c-anchorBox" data-anchor>
+      <div class="c-anchorBox__box" data-anchor-box>
+       <a href="javascript:;" class="c-anchorBox__select" target="_self" aria-hidden="true" data-anchor-select> <span>卡片特色</span> </a>
+       <div class="c-anchorBox__area" data-anchor-area>
+        <div class="c-anchorBox__options">
+         <a href="#features" title="前往卡片特色" class="c-anchorBox__option is-active" data-anchor-option="features"> <span>卡片特色</span> </a><a href="#promotion" title="前往刷卡優惠" class="c-anchorBox__option " data-anchor-option="promotion"> <span>刷卡優惠</span> </a><a href="#requirements" title="前往申請須知" class="c-anchorBox__option " data-anchor-option="requirements"> <span>申請須知</span> </a><a href="#benefits" title="前往卡友權益" class="c-anchorBox__option " data-anchor-option="benefits"> <span>卡友權益</span> </a><a href="#faq" title="前往常見問題" class="c-anchorBox__option " data-anchor-option="faq"> <span>常見問題</span> </a>
+        </div>
+        <div class="c-anchorBox__btn">
+         <a href="https://ebank.tbb.com.tw/nb3/CREDIT/APPLY/apply_creditcard?CardType=eldercaring" rel="noopener noreferrer" title="前往臺灣企銀網路銀行申請信用卡另開新視窗" role="button" class="o-btn o-btn--secondary is-aniRight" target="_blank"> <span> 立即申辦 </span> <img src="/web/content/images/icons/btns/arrow-rd.svg" alt="" class="o-btn__icon"> <img src="/web/content/images/icons/btns/arrow-press-rd.svg" alt="" class="o-btn__press" aria-hidden="true"> </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="l-section">
+    <div class="l-section__wrap">
+     <div id="features" class="l-textBlock" data-anchor-block="features">
+      <div class="l-textBlock__title">
+       <div class="o-textTitle">卡片特色</div>
+      </div>
+      <div class="l-textBlock__paragraph">
+       <div class="l-textBlock__card">
+        <div class="l-card">
+         <div class="l-card__item">
+          <div class="c-pointCard">
+           <div class="c-pointCard__head">
+            <div class="c-pointCard__icon">
+             <div class="o-quickCardImg">
+              <img src="/zh-tw/-/media/tbb/icons/zh-tw/services/l/gift.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=7F09F850091F8AD7316F9DB9A03927B6" alt="">
+             </div>
+            </div>
+            <div class="c-pointCard__title">新戶首刷禮</div>
+           </div>
+           <div class="c-pointCard__content">
+            <p>新戶於核卡後60日內，新增一般消費且每筆達666元(含)以上共3筆者，贈「刷卡金500元」。</p>
+            <p><span><strong><span style="color: red;">新戶指首次申辦銀色之愛信用卡正卡，且申請人於核卡日前</span><span style="color: red;">6</span><span style="color: red;">個月未曾持有本行信用卡正卡者，若持卡人曾停用銀色之愛信用卡再申辦者，恕無法適用新戶資格。</span></strong></span></p>
+            <br>
+           </div>
+           <div class="c-pointCard__link"></div>
+          </div>
+         </div>
+         <div class="l-card__item">
+          <div class="c-pointCard">
+           <div class="c-pointCard__head">
+            <div class="c-pointCard__icon">
+             <div class="o-quickCardImg">
+              <img src="/zh-tw/-/media/tbb/icons/zh-tw/services/l/giveback.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=F8AF3BB93B6567A62CA71F79E62B86D8" alt="">
+             </div>
+            </div>
+            <div class="c-pointCard__title">扣繳保費享最高12期0利率或3,200元回饋</div>
+           </div>
+           <div class="c-pointCard__content">
+            單筆保費達新臺幣10,000元（含）以上，刷銀色之愛信用卡獨享3/6/12期分期0利率或最高回饋3,200元刷卡金(擇一回饋)。
+            <br>
+           </div>
+           <div class="c-pointCard__link"></div>
+          </div>
+         </div>
+         <div class="l-card__item">
+          <div class="c-pointCard">
+           <div class="c-pointCard__head">
+            <div class="c-pointCard__icon">
+             <div class="o-quickCardImg">
+              <img src="/zh-tw/-/media/tbb/icons/zh-tw/services/l/banknotes.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=BD756BF99E7F78DF68F2BFD7B52FA4B0" alt="">
+             </div>
+            </div>
+            <div class="c-pointCard__title">攜手扶弱公益捐款</div>
+           </div>
+           <div class="c-pointCard__content">本行提撥一般刷卡消費金額0.3%，用於幫助銀髮族享受健康樂活，扶助弱勢族群、身心障礙者、落實社區照顧，散播持卡人愛心，114年3月提撥NT$378,333，累積提撥NT$31,382,548。</div>
+           <div class="c-pointCard__link"></div>
+          </div>
+         </div>
+         <div class="l-card__item">
+          <div class="c-pointCard">
+           <div class="c-pointCard__head">
+            <div class="c-pointCard__icon">
+             <div class="o-quickCardImg">
+              <img src="/zh-tw/-/media/tbb/icons/zh-tw/services/l/giveback.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=F8AF3BB93B6567A62CA71F79E62B86D8" alt="">
+             </div>
+            </div>
+            <div class="c-pointCard__title">一般消費回饋無上限 最高2%</div>
+           </div>
+           <div class="c-pointCard__content">
+            國外刷卡回饋2％、國內差旅消費回饋0.6%、國內一般消費回饋0.4%，無回饋上限
+            <br>
+           </div>
+           <div class="c-pointCard__link">
+            <a class="o-iconLink is-aniRight" title="前往現金回饋頁面" href="/zh-tw/personal/cards/rights-services/benefits/cashback"> <span class="o-iconLink__text">了解更多</span> <img src="/web/content/images/icons/links/circle-arrow-right-rd.svg" alt="" class="o-iconLink__icon"> <img src="/web/content/images/icons/links/circle-arrow-right-press-rd.svg" alt="" class="o-iconLink__press" aria-hidden="true"> </a>
+           </div>
+          </div>
+         </div>
+         <div class="l-card__item">
+          <div class="c-pointCard">
+           <div class="c-pointCard__head">
+            <div class="c-pointCard__icon">
+             <div class="o-quickCardImg">
+              <img src="/zh-tw/-/media/tbb/icons/zh-tw/services/l/apppay.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=D427CB27481ABF78B8FAA63585228B1A" alt="">
+             </div>
+            </div>
+            <div class="c-pointCard__title">台灣Pay支付 額外1.5%回饋</div>
+           </div>
+           <div class="c-pointCard__content">
+            <p>使用台灣Pay透過本行行動銀行APP或台灣行動支付APP(限綁定本行信用卡)進行信用卡掃碼交易，依每筆一般消費金額回饋1.5%刷卡金</p>
+            <p>&nbsp;</p>
+            <p>每戶每期上限100元</p>
+           </div>
+           <div class="c-pointCard__link"></div>
+          </div>
+         </div>
+         <div class="l-card__item">
+          <div class="c-pointCard">
+           <div class="c-pointCard__head">
+            <div class="c-pointCard__icon">
+             <div class="o-quickCardImg">
+              <img src="/zh-tw/-/media/tbb/icons/zh-tw/services/l/bill.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=1DA8C3C1016BF408ABB316FF6593669D" alt="">
+             </div>
+            </div>
+            <div class="c-pointCard__title">帳單E化 繳費簡化</div>
+           </div>
+           <div class="c-pointCard__content">首次申請電子帳單或帳戶自動扣繳並發送或扣繳成功者，各贈50元刷卡金</div>
+           <div class="c-pointCard__link"></div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="l-section">
+    <div class="l-section__wrap">
+     <div id="promotion" class="l-textBlock" data-anchor-block="promotion">
+      <div class="l-textBlock__title">
+       <div class="o-textTitle">刷卡優惠</div>
+      </div>
+      <div class="l-textBlock__paragraph"></div>
+      <div class="l-textBlock__paragraph">
+       <div class="l-textBlock__subTitle">
+        <div class="o-textSubTitle">扣繳保費加碼最高3,200元刷卡金 (需登錄)</div>
+       </div>
+       <div class="l-textBlock__text">
+        <p style="letter-spacing: 0.96px;">活動期間：2025/1/1~2025/12/31</p>
+        <p style="letter-spacing: 0.96px;">活動內容：</p>
+        <ul>
+         <li style="letter-spacing: 0.96px;"><span style="font-size: 1em;"><strong>單筆</strong>保費滿額贈：每戶每月最高回饋1,200元：</span></li>
+        </ul>
+        <div class="l-textBlock__table">
+         <table class="c-table c-table--sm">
+          <thead>
+           <tr>
+            <th>單筆保費交易金額</th>
+            <th>回饋金</th>
+           </tr>
+          </thead>
+          <tbody>
+           <tr>
+            <td class="is-pcCenter" data-title="單筆保費代扣門檻(元)">
+             <div>10,000 ~ 19,999</div>
+            </td>
+            <td class="is-pcCenter" data-title="1.5%回饋金(元)">
+             <div>150</div>
+            </td>
+           </tr>
+           <tr>
+            <td class="is-pcCenter" data-title="單筆保費代扣門檻(元)">
+             <div>20,000 ~ 29,999</div>
+            </td>
+            <td class="is-pcCenter" data-title="1.5%回饋金(元)">
+             <div>300</div>
+            </td>
+           </tr>
+           <tr>
+            <td class="is-pcCenter" data-title="單筆保費代扣門檻(元)">
+             <div>30,000 ~ 39,999</div>
+            </td>
+            <td class="is-pcCenter" data-title="1.5%回饋金(元)">
+             <div>450</div>
+            </td>
+           </tr>
+           <tr>
+            <td class="is-pcCenter" data-title="單筆保費代扣門檻(元)">
+             <div>40,000 ~ 49,999</div>
+            </td>
+            <td class="is-pcCenter" data-title="1.5%回饋金(元)">
+             <div>600</div>
+            </td>
+           </tr>
+           <tr>
+            <td class="is-pcCenter" data-title="單筆保費代扣門檻(元)">
+             <div>50,000 ~ 59,999</div>
+            </td>
+            <td class="is-pcCenter" data-title="1.5%回饋金(元)">
+             <div>750</div>
+            </td>
+           </tr>
+           <tr>
+            <td class="is-pcCenter" data-title="單筆保費代扣門檻(元)">
+             <div>60,000 ~ 69,999</div>
+            </td>
+            <td class="is-pcCenter" data-title="1.5%回饋金(元)">
+             <div>900</div>
+            </td>
+           </tr>
+           <tr>
+            <td class="is-pcCenter" data-title="單筆保費代扣門檻(元)">
+             <div>70,000 ~ 79,999</div>
+            </td>
+            <td class="is-pcCenter" data-title="1.5%回饋金(元)">
+             <div>1,050</div>
+            </td>
+           </tr>
+           <tr>
+            <td class="is-pcCenter" data-title="單筆保費代扣門檻(元)">
+             <div>80,000(含)以上</div>
+            </td>
+            <td class="is-pcCenter" data-title="1.5%回饋金(元)">
+             <div>1,200</div>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+        <ul>
+         <li style="letter-spacing: 0.96px;"><strong>當季累積</strong>保費滿額贈：每戶每季最高回饋2,000元：</li>
+        </ul>
+        <div class="l-textBlock__table">
+         <table class="c-table c-table--sm" style="width: 690px; height: 199.889px;">
+          <thead>
+           <tr>
+            <th>當季累積保費交易金額</th>
+            <th>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="background-color: #ffead7;">回饋金</span></th>
+            <th>限量名額</th>
+           </tr>
+          </thead>
+          <tbody>
+           <tr>
+            <td class="is-pcCenter" data-title="單筆保費代扣門檻(元)">
+             <div>200,000 ~ 499,999</div>
+            </td>
+            <td class="is-pcCenter" data-title="1.5%回饋金(元)">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="background-color: #ffffff; text-align: center; letter-spacing: 0.96px;">800</span></td>
+            <td class="is-pcCenter" data-title="1.5%回饋金(元)">
+             <div>200</div>
+            </td>
+           </tr>
+           <tr>
+            <td class="is-pcCenter" data-title="單筆保費代扣門檻(元)">
+             <div>500,000 ~ 999,999</div>
+            </td>
+            <td class="is-pcCenter" data-title="1.5%回饋金(元)">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="text-align: center; letter-spacing: 0.96px;">1,200</span></td>
+            <td class="is-pcCenter" data-title="1.5%回饋金(元)">
+             <div>100</div>
+            </td>
+           </tr>
+           <tr>
+            <td class="is-pcCenter" data-title="單筆保費代扣門檻(元)">
+             <div>1,000,000 ~ 1,799,999</div>
+            </td>
+            <td class="is-pcCenter" data-title="1.5%回饋金(元)">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="background-color: #ffffff; text-align: center; letter-spacing: 0.96px;">1,800</span></td>
+            <td class="is-pcCenter" data-title="1.5%回饋金(元)">
+             <div>50</div>
+            </td>
+           </tr>
+           <tr>
+            <td class="is-pcCenter" data-title="單筆保費代扣門檻(元)">
+             <div>
+              1,800,000<span style="text-align: center; letter-spacing: 0.96px;">(含)以上</span>
+             </div>
+            </td>
+            <td class="is-pcCenter" data-title="1.5%回饋金(元)">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="text-align: center; letter-spacing: 0.96px;">2,000</span></td>
+            <td class="is-pcCenter" data-title="1.5%回饋金(元)">
+             <div>30</div>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <span style="font-size: 1em;"></span>
+        </div>
+        <div class="l-textBlock__table">
+         <span style="font-size: 1em;"> 
+          <p><span>※&nbsp;</span><span style="font-size: 1em;">2025/7/1~2025/12/31首次扣繳保費，單筆金額達3,000元以上，享<strong>加碼100元</strong>刷卡金！須登錄，<a rel="noopener noreferrer" href="https://www.tbb.com.tw/zh-tw/personal/cards/offers/overview/20250625" target="_blank">活動詳情</a></span></p> 
+         </span>
+        </div>
+       </div>
+       <div class="l-textBlock__notice">
+        <div class="c-collapse" data-collapse>
+         <a href="javascript:;" class="c-collapse__head " target="_self" role="button" aria-expanded="false" data-collapse-nav> <span class="c-collapse__icon"> <img src="/web/content/images/icons/collapse/notice-bk.svg" alt=""> <img src="/web/content/images/icons/collapse/notice-hover.svg" alt="" aria-hidden="true"> </span> <span class="c-collapse__text">注意事項</span> </a>
+         <div class="c-collapse__container " role="region" aria-hidden="true" data-collapse-container>
+          <ul class="c-textList">
+           <li><strong>新戶首刷禮活動</strong>：
+            <ul class="c-textList is-alpha">
+             <li>新戶指首次申辦銀色之愛信用卡正卡，或申請人於核卡日前6個月未曾持有本行信用卡正卡者，若持卡人曾停用銀色之愛信用卡再申辦者，恕無法適用新戶資格。</li>
+             <li>正附卡消費及回饋合併歸戶計算，新戶首刷禮活動每戶限回饋乙次，本活動一般消費係以「<strong><span class="u-stress">入帳日</span></strong>」為準，一般消費之排除項目請詳臺灣企銀官網查詢。</li>
+             <li>消費金額以活動期間刷卡交易且完成入帳計算，若為付款失敗、訂單取消、銷售退貨等訂單將不列入活動計算範圍。</li>
+            </ul></li>
+           <li><strong>代扣繳保費加碼最高3,200元刷卡金：</strong></li>
+           <ul class="c-textList is-alpha">
+            <li>限使用銀色之愛信用卡刷卡代扣繳以新臺幣計價之保險商品，並於活動期間完成保險費扣繳且請款入帳始得計算回饋。欲申辦代扣繳保險費，請聯絡所屬之保險公司索取信用卡自動扣繳保險費申請書，保費回饋須視投保之保險公司是否接受以該信用卡支付保費。</li>
+            <li>持卡人須於活動期間至本行官網活動頁面完成登錄始符合資格(限以正卡人資料登錄)，自登錄當月起計算消費金額，恕不追溯回饋。已登錄者自登錄月份起無需重新登錄，即享本活動參與資格。</li>
+            <li>本活動保費交易係以「<strong><span class="u-stress">交易日</span></strong>」且完成入帳為準，如持卡人刷退或取消交易，亦將於信用卡帳單收回刷卡金回饋。</li>
+            <li><strong><span class="u-stress">如持卡人參加本行「單筆分期付款之特定消費零利率分期付款優惠」繳納保險費將不列入本活動回饋之計算範圍。</span></strong></li>
+           </ul>
+           <li>刷卡金回饋方式/期間：</li>
+           <ul class="c-textList is-alpha">
+            <li>【新戶首刷禮】：將於符合回饋資格後，回饋至有效正卡人次次期信用卡帳單，僅限折抵信用卡消費款，不得要求轉讓、提領或兌現。</li>
+            <li>【單筆保費滿額贈】：<strong><span class="u-stress">以每月(月曆日</span></strong><strong><span class="u-stress">)為單位計算</span></strong>，刷卡金將於符合活動資格後回饋至有效正卡人次次期信用卡帳單。</li>
+            <li>【當季累積保費滿額贈】：<strong><span class="u-stress">以每季(1/1~3/31、4/1~6/30…依此類推)為單位計算</span></strong> ，「當季」係指刷卡金將於符合活動資格後依下表回饋至有效正卡人信用卡帳單。</li>
+           </ul>
+           <li>如卡片申請停用、掛失不補發、逾期繳款、到期不續卡、取消交易、申請退貨、或為虛偽交易，或有其他違反信用卡約定條款者，本行得取消其回饋資格。</li>
+           <li>本行保有取消、終止、修改或暫停，及解釋本活動相關事宜之權利，其他相關事宜，悉公布於本行網站(https://www.tbb.com.tw)並依其相關規定辦理</li>
+          </ul>
+         </div>
+        </div>
+       </div>
+       <div class="l-textBlock__btn">
+        <div class="l-action">
+         <div class="l-action__item">
+          <a href="https://ebank.tbb.com.tw/nb3/CREDIT/REGISTRATION/registration_init" title="前往站外連結另開新視窗" role="button" class="o-btn"> <span> 活動登錄 </span> </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="l-textBlock__paragraph">
+       <div class="l-textBlock__subTitle">
+        <div class="o-textSubTitle">扣繳保費獨享6期/12期分期0利率</div>
+       </div>
+       <div class="l-textBlock__text">
+        <p style="letter-spacing: 0.96px;">活動期間：2025/1/1~2025/12/31</p>
+        <p style="letter-spacing: 0.96px;">活動內容：</p>
+        <ul>
+         <li>單筆保費達 3,000元 以上即可申請 (辦理分期付款零利率優惠之保費金額將不列入「扣繳保費加碼最高3,200元刷卡金」活動回饋之計算範圍)</li>
+         <div class="l-scrollTable">
+          <table class="c-fullTable" style="text-align: center;">
+           <thead>
+            <tr>
+             <th id="a">分期期數</th>
+             <th id="b"><span style="background-color: #ffead7; text-align: center;">3期</span>&nbsp;</th>
+             <th id="c">&nbsp;6<span style="background-color: #ffead7; text-align: center;">期</span></th>
+             <th><span style="background-color: #ffead7; text-align: center;">12期</span>&nbsp;</th>
+             <th id="d"><span style="background-color: #ffead7; text-align: center;">24期</span>&nbsp;</th>
+             <th id="e">&nbsp;<span style="background-color: #ffead7; text-align: center;">30期</span></th>
+            </tr>
+            <tr>
+             <td headers="a">&nbsp;分期年利率
+              <br>
+              (即總費用年百分率)</td>
+             <td headers="b">&nbsp;<strong><span class="u-stress">零利率</span></strong></td>
+             <td headers="c">&nbsp;<strong><span class="u-stress">零利率</span></strong></td>
+             <td headers="c">&nbsp;<strong><span class="u-stress">零利率</span></strong></td>
+             <td headers="d">&nbsp;<strong>6.66%</strong></td>
+             <td headers="e">&nbsp;<strong>6.66%</strong></td>
+            </tr>
+            <tr>
+             <th headers="a">&nbsp;分期金額門檻</th>
+             <th headers="b">&nbsp;3,000元</th>
+             <th headers="c">&nbsp;10<span style="background-color: #ffead7; text-align: center;">,000元</span></th>
+             <th headers="c">&nbsp;<span style="background-color: #ffead7; text-align: center;">10</span><span style="background-color: #ffead7; text-align: center;">,000元</span></th>
+             <th headers="d">&nbsp;<span style="background-color: #ffead7; text-align: center;">3,000元</span></th>
+             <th headers="e"><span style="background-color: #ffead7; text-align: center;">3,000元</span>&nbsp;</th>
+            </tr>
+           </thead>
+          </table>
+         </div>
+         <p class="l-scrollTable"><span style="font-size: 1rem;">&nbsp;</span></p>
+        </ul>
+       </div>
+       <div class="l-textBlock__btn">
+        <div class="l-action">
+         <div class="l-action__item">
+          <a href="https://www.tbb.com.tw/zh-tw/personal/cards/finance/payment-installment" title="前往站外連結另開新視窗" role="button" class="o-btn o-btn--auto is-aniRight"> <span> 了解更多 </span> <img src="/web/content/images/icons/btns/arrow-right-wt.svg" alt="" class="o-btn__icon"> <img src="/web/content/images/icons/btns/arrow-right-wt.svg" alt="" class="o-btn__press" aria-hidden="true"> </a>
+         </div>
+         <div class="l-action__item">
+          <a href="https://ebank.tbb.com.tw/nb3/ONLINE/APPLY/online_apply?TYPE=5566" title="前往站外連結另開新視窗" role="button" class="o-btn"> <span> 線上分期 </span> </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="l-textBlock__paragraph">
+       <div class="l-textBlock__subTitle">
+        <div class="o-textSubTitle">一般消費回饋無上限 最高2%</div>
+       </div>
+       <div class="l-textBlock__text">
+        <p>國外刷卡回饋<strong>2％</strong>、國內差旅消費回饋<strong>0.6%</strong>、國內一般消費回饋<strong>0.4%</strong>，無回饋上限</p>
+        <p>&nbsp;</p>
+        <p>※國外消費係指該筆交易幣別非為新臺幣，或於國外以新臺幣交易者。
+         <br>
+         ※國內差旅消費係持卡人於<strong>加油站、旅行社、飯店住宿、交通運輸費用及高爾夫球場</strong>等五大通路之刷卡交易。
+         <br>
+         ※一般消費之排除項目請詳<a rel="noopener noreferrer" href="http://https://www.tbb.com.tw/zh-tw/personal/cards/rights-services/benefits/cashback" target="_blank">臺灣企銀官網查詢</a>。</p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="l-section">
+    <div class="l-section__wrap">
+     <div id="requirements" class="l-textBlock" data-anchor-block="requirements">
+      <div class="l-textBlock__title">
+       <div class="o-textTitle">申請須知</div>
+      </div>
+      <div class="l-textBlock__paragraph">
+       <div class="l-textBlock__table">
+        <div class="c-fakeTable">
+         <div class="c-fakeTable__block">
+          <div class="c-fakeTable__title">申請條件</div>
+          <div class="c-fakeTable__main">
+           <div class="c-fakeTable__container">
+            <div class="c-fakeTable__subTitle">正卡</div>
+            <div class="c-fakeTable__content">
+             <div class="l-textBlock l-textBlock--inside">
+              <div class="l-textBlock__paragraph">申請人須為成年人且有正當職業者。</div>
+             </div>
+            </div>
+           </div>
+           <div class="c-fakeTable__container">
+            <div class="c-fakeTable__subTitle">附卡</div>
+            <div class="c-fakeTable__content">
+             <div class="l-textBlock l-textBlock--inside">
+              <div class="l-textBlock__paragraph">附卡申請人須為正卡申請人之配偶、父母或年滿15歲之子女。</div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="c-fakeTable__block">
+          <div class="c-fakeTable__title">申請文件</div>
+          <div class="c-fakeTable__main">
+           <div class="c-fakeTable__container">
+            <div class="c-fakeTable__subTitle">身份證明文件</div>
+            <div class="c-fakeTable__content">
+             <div class="l-textBlock l-textBlock--inside">
+              <div class="l-textBlock__paragraph">申請人身分證正、反面影本。</div>
+             </div>
+            </div>
+           </div>
+           <div class="c-fakeTable__container">
+            <div class="c-fakeTable__subTitle">所得或財力證明文件</div>
+            <div class="c-fakeTable__content">
+             <div class="l-textBlock l-textBlock--inside">
+              <div class="l-textBlock__paragraph">
+               <ul class="c-textList">
+                <li>最近一年薪資所得扣繳憑單或報稅資料影本。</li>
+                <li>薪資轉帳資料。</li>
+                <li>存款證明。</li>
+                <li>其他可資證明所得或財力之文件。</li>
+               </ul>
+               以上資料請惠予提供，資料愈詳細則越愈有利於信用額度之申請，本行保留接受申請與否之權利，所附文件恕不退還，並視需要得要求增加保證人或其他證明文件。
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="c-fakeTable__block">
+          <div class="c-fakeTable__title">條款與費用</div>
+          <div class="c-fakeTable__main">
+           <div class="c-fakeTable__container">
+            <div class="c-fakeTable__content">
+             <div class="l-textBlock l-textBlock--inside">
+              <div class="l-textBlock__paragraph">
+               <div class="l-link">
+                <div class="l-link__item">
+                 <a class="o-iconLink is-aniRight" title="前往信用卡約定條款" href="/zh-tw/personal/cards/rights-services/manuals-terms"> <span class="o-iconLink__text">信用卡約定條款</span> <img src="/web/content/images/icons/links/arrow-right-rd.svg" alt="" class="o-iconLink__icon"> <img src="/web/content/images/icons/links/arrow-right-press-rd.svg" alt="" class="o-iconLink__press" aria-hidden="true"> </a>
+                </div>
+                <div class="l-link__item">
+                 <a class="o-iconLink is-aniRight" title="前往信用卡費用說明" href="/zh-tw/personal/cards/rights-services/rates-fees"> <span class="o-iconLink__text">信用卡費用說明</span> <img src="/web/content/images/icons/links/arrow-right-rd.svg" alt="" class="o-iconLink__icon"> <img src="/web/content/images/icons/links/arrow-right-press-rd.svg" alt="" class="o-iconLink__press" aria-hidden="true"> </a>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="c-fakeTable__block">
+          <div class="c-fakeTable__title">重要資訊</div>
+          <div class="c-fakeTable__main">
+           <div class="c-fakeTable__container">
+            <div class="c-fakeTable__content">
+             <div class="l-textBlock l-textBlock--inside">
+              <div class="l-textBlock__paragraph">本行保留核准發卡與否及調整額度之權利；申請所檢附文件(包括本申請書)恕不歸還。您所申請的臺灣企銀各類信用卡，不論卡數多少，皆共同一個信用額度。</div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="l-section">
+    <div class="l-section__wrap">
+     <div id="benefits" class="l-textBlock" data-anchor-block="benefits">
+      <div class="l-textBlock__title">
+       <div class="o-textTitle">卡友權益</div>
+      </div>
+      <div class="l-textBlock__paragraph">
+       <div class="l-textBlock__card">
+        <div class="l-card l-card--col4">
+         <div class="l-card__item">
+          <div class="c-simpleCard">
+           <div class="c-simpleCard__main">
+            <div class="c-simpleCard__title">嘟嘟房免費停車</div>
+            <div class="c-simpleCard__content">
+             <p>VISA商務御璽卡、Mastercard鈦金商旅卡消費滿額享每日1次市區免費停車優惠、每次最多2小時，每月上限15次。</p>
+            </div>
+           </div>
+           <div class="c-simpleCard__link">
+            <a class="o-iconLink is-aniRight" title="前往嘟嘟房免費停車頁面" href="/zh-tw/personal/cards/rights-services/benefits/city-parking"> <span class="o-iconLink__text">了解更多</span> <img src="/web/content/images/icons/links/circle-arrow-right-rd.svg" alt="" class="o-iconLink__icon"> <img src="/web/content/images/icons/links/circle-arrow-right-press-rd.svg" alt="" class="o-iconLink__press" aria-hidden="true"> </a>
+           </div>
+           <div class="c-simpleCard__bg">
+            <img src="/zh-tw/-/media/tbb/icons/zh-tw/common/bg/parking.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=8BBE6B6DFD28B2D179C9A96B00C4AEB2" alt="">
+           </div>
+          </div>
+         </div>
+         <div class="l-card__item">
+          <div class="c-simpleCard">
+           <div class="c-simpleCard__main">
+            <div class="c-simpleCard__title">國際機場接送</div>
+            <div class="c-simpleCard__content">
+             <p>刷卡購買國外機票或團費符合消費條件者享國際組織機場接送優惠價</p>
+            </div>
+           </div>
+           <div class="c-simpleCard__link">
+            <a class="o-iconLink is-aniRight" title="前往國際機場接送頁面" href="/zh-tw/personal/cards/rights-services/benefits/airport-pickup"> <span class="o-iconLink__text">了解更多</span> <img src="/web/content/images/icons/links/circle-arrow-right-rd.svg" alt="" class="o-iconLink__icon"> <img src="/web/content/images/icons/links/circle-arrow-right-press-rd.svg" alt="" class="o-iconLink__press" aria-hidden="true"> </a>
+           </div>
+           <div class="c-simpleCard__bg">
+            <img src="/zh-tw/-/media/tbb/icons/zh-tw/common/bg/airport.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=FEEF6ED111E276922E47A043E6840CC5" alt="">
+           </div>
+          </div>
+         </div>
+         <div class="l-card__item">
+          <div class="c-simpleCard">
+           <div class="c-simpleCard__main">
+            <div class="c-simpleCard__title">機場週邊停車服務</div>
+            <div class="c-simpleCard__content">
+             <p>刷卡購買國外機票或團費符合消費條件者，享每戶每年20天免費停車</p>
+            </div>
+           </div>
+           <div class="c-simpleCard__link">
+            <a class="o-iconLink is-aniRight" title="前往國際機場免費停車頁面" href="/zh-tw/personal/cards/rights-services/benefits/airport-parking"> <span class="o-iconLink__text">了解更多</span> <img src="/web/content/images/icons/links/circle-arrow-right-rd.svg" alt="" class="o-iconLink__icon"> <img src="/web/content/images/icons/links/circle-arrow-right-press-rd.svg" alt="" class="o-iconLink__press" aria-hidden="true"> </a>
+           </div>
+           <div class="c-simpleCard__bg">
+            <img src="/zh-tw/-/media/tbb/icons/zh-tw/common/bg/parking.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=8BBE6B6DFD28B2D179C9A96B00C4AEB2" alt="">
+           </div>
+          </div>
+         </div>
+         <div class="l-card__item">
+          <div class="c-simpleCard">
+           <div class="c-simpleCard__main">
+            <div class="c-simpleCard__title">全年無休24小時道路救援</div>
+            <div class="c-simpleCard__content">
+             <p>符合優惠資格者享每年每戶50公里內免費拖吊及急修等多項服務</p>
+            </div>
+           </div>
+           <div class="c-simpleCard__link">
+            <a class="o-iconLink is-aniRight" title="前往全年無休24小時道路救援頁面" href="/zh-tw/personal/cards/rights-services/benefits/roadside-assistance"> <span class="o-iconLink__text">了解更多</span> <img src="/web/content/images/icons/links/circle-arrow-right-rd.svg" alt="" class="o-iconLink__icon"> <img src="/web/content/images/icons/links/circle-arrow-right-press-rd.svg" alt="" class="o-iconLink__press" aria-hidden="true"> </a>
+           </div>
+           <div class="c-simpleCard__bg">
+            <img src="/zh-tw/-/media/tbb/icons/zh-tw/common/bg/roadside-assistance.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=6B99D46302DFA1193F8EB67F262C41E2" alt="">
+           </div>
+          </div>
+         </div>
+         <div class="l-card__item">
+          <div class="c-simpleCard">
+           <div class="c-simpleCard__main">
+            <div class="c-simpleCard__title">旅遊平安險及不便險</div>
+            <div class="c-simpleCard__content">
+             <p>刷卡支付全額公共運輸工具票款或80%以上之團費，享有高額旅遊保障。</p>
+            </div>
+           </div>
+           <div class="c-simpleCard__link">
+            <a class="o-iconLink is-aniRight" title="前往旅遊平安險及不便險頁面" href="/zh-tw/personal/cards/rights-services/benefits/travel-insurance"> <span class="o-iconLink__text">了解更多</span> <img src="/web/content/images/icons/links/circle-arrow-right-rd.svg" alt="" class="o-iconLink__icon"> <img src="/web/content/images/icons/links/circle-arrow-right-press-rd.svg" alt="" class="o-iconLink__press" aria-hidden="true"> </a>
+           </div>
+           <div class="c-simpleCard__bg">
+            <img src="/zh-tw/-/media/tbb/icons/zh-tw/common/bg/travel-insurance.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=6F3EC46FEFA5C0187BCE8F175D308E57" alt="">
+           </div>
+          </div>
+         </div>
+         <div class="l-card__item">
+          <div class="c-simpleCard">
+           <div class="c-simpleCard__main">
+            <div class="c-simpleCard__title">免費使用機場貴賓室</div>
+            <div class="c-simpleCard__content">
+             <p>VISA商務御璽卡、Mastercard鈦金商旅卡符合優惠資格者免費申請全球機場貴賓室(Priority Pass)，免費使用全球超過1,000個國際機場貴賓室的候機服務。</p>
+            </div>
+           </div>
+           <div class="c-simpleCard__link">
+            <a class="o-iconLink is-aniRight" title="前往免費使用機場貴賓室頁面" href="/zh-tw/personal/cards/rights-services/benefits/airport-vip"> <span class="o-iconLink__text">了解更多</span> <img src="/web/content/images/icons/links/circle-arrow-right-rd.svg" alt="" class="o-iconLink__icon"> <img src="/web/content/images/icons/links/circle-arrow-right-press-rd.svg" alt="" class="o-iconLink__press" aria-hidden="true"> </a>
+           </div>
+           <div class="c-simpleCard__bg">
+            <img src="/zh-tw/-/media/tbb/icons/zh-tw/common/bg/airport.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=FEEF6ED111E276922E47A043E6840CC5" alt="">
+           </div>
+          </div>
+         </div>
+         <div class="l-card__item">
+          <div class="c-simpleCard">
+           <div class="c-simpleCard__main">
+            <div class="c-simpleCard__title">MasterCard國際組織不定期優惠</div>
+            <div class="c-simpleCard__content">
+             <p>盡享全球美饌、旅遊、購物及娛樂體驗</p>
+            </div>
+           </div>
+           <div class="c-simpleCard__link">
+            <a href="https://www.mastercard.com.tw/" rel="noopener noreferrer" title="前往MasterCard國際組織不定期優惠另開新視窗" class="o-iconLink is-aniOutLink" target="_blank"> <span class="o-iconLink__text">了解更多</span> 
+             <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+              <title>另開視窗</title> <path d="M3.60016 3.98306C2.6351 3.98102 1.85 4.76654 1.85 5.7313V16.3999C1.85 17.3648 2.63519 18.1501 3.6 18.1501H14.2673C15.2321 18.1501 16.0173 17.3648 16.0173 16.3999V9.99914C16.0173 9.62165 15.7121 9.31639 15.3346 9.31639C14.9571 9.31639 14.652 9.62165 14.652 9.99914V16.3999C14.652 16.6114 14.4795 16.7827 14.2693 16.7827H3.6C3.38858 16.7827 3.21732 16.6102 3.21732 16.3999V5.7313C3.21732 5.51982 3.38982 5.34856 3.6 5.34856H10C10.3775 5.34856 10.6827 5.0433 10.6827 4.66581C10.6827 4.28831 10.3775 3.98306 10 3.98306H3.60016ZM3.60016 3.98306C3.60022 3.98306 3.60027 3.98306 3.60033 3.98306L3.6 4.13306V3.98306H3.60016Z" fill="#DA3700" stroke="#DA3700" stroke-width="0.3" /> <path d="M18.1499 7.33138V2.53275V2.5308C18.1489 2.1542 17.8441 1.85 17.4672 1.85H12.6672C12.2897 1.85 11.9845 2.15525 11.9845 2.53275C11.9845 2.91024 12.2897 3.2155 12.6672 3.2155H15.8174L8.45238 10.5833C8.45228 10.5834 8.45218 10.5835 8.45208 10.5836C8.18409 10.8494 8.1849 11.2822 8.45188 11.5492C8.58438 11.6817 8.75954 11.7492 8.93454 11.7492C9.10954 11.7492 9.28469 11.6817 9.4172 11.5492L16.7845 4.18092V7.33138C16.7845 7.70888 17.0897 8.01413 17.4672 8.01413C17.8447 8.01413 18.1499 7.70888 18.1499 7.33138Z" fill="#DA3700" stroke="#DA3700" stroke-width="0.3" class="o-iconLink__outArrow" />
+             </svg> </a>
+           </div>
+           <div class="c-simpleCard__bg">
+            <img src="/zh-tw/-/media/tbb/icons/zh-tw/common/bg/mastercard.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=7BF69559BF5B544532A299D01214DD6E" alt="">
+           </div>
+          </div>
+         </div>
+         <div class="l-card__item">
+          <div class="c-simpleCard">
+           <div class="c-simpleCard__main">
+            <div class="c-simpleCard__title">VISA國際組織不定期優惠</div>
+            <div class="c-simpleCard__content">
+             <p>Visa樂享精彩優惠。</p>
+            </div>
+           </div>
+           <div class="c-simpleCard__link">
+            <a href="https://www.visa.com.tw/" rel="noopener noreferrer" title="前往VISA國際組織不定期優惠另開新視窗" class="o-iconLink is-aniOutLink" target="_blank"> <span class="o-iconLink__text">了解更多</span> 
+             <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+              <title>另開視窗</title> <path d="M3.60016 3.98306C2.6351 3.98102 1.85 4.76654 1.85 5.7313V16.3999C1.85 17.3648 2.63519 18.1501 3.6 18.1501H14.2673C15.2321 18.1501 16.0173 17.3648 16.0173 16.3999V9.99914C16.0173 9.62165 15.7121 9.31639 15.3346 9.31639C14.9571 9.31639 14.652 9.62165 14.652 9.99914V16.3999C14.652 16.6114 14.4795 16.7827 14.2693 16.7827H3.6C3.38858 16.7827 3.21732 16.6102 3.21732 16.3999V5.7313C3.21732 5.51982 3.38982 5.34856 3.6 5.34856H10C10.3775 5.34856 10.6827 5.0433 10.6827 4.66581C10.6827 4.28831 10.3775 3.98306 10 3.98306H3.60016ZM3.60016 3.98306C3.60022 3.98306 3.60027 3.98306 3.60033 3.98306L3.6 4.13306V3.98306H3.60016Z" fill="#DA3700" stroke="#DA3700" stroke-width="0.3" /> <path d="M18.1499 7.33138V2.53275V2.5308C18.1489 2.1542 17.8441 1.85 17.4672 1.85H12.6672C12.2897 1.85 11.9845 2.15525 11.9845 2.53275C11.9845 2.91024 12.2897 3.2155 12.6672 3.2155H15.8174L8.45238 10.5833C8.45228 10.5834 8.45218 10.5835 8.45208 10.5836C8.18409 10.8494 8.1849 11.2822 8.45188 11.5492C8.58438 11.6817 8.75954 11.7492 8.93454 11.7492C9.10954 11.7492 9.28469 11.6817 9.4172 11.5492L16.7845 4.18092V7.33138C16.7845 7.70888 17.0897 8.01413 17.4672 8.01413C17.8447 8.01413 18.1499 7.70888 18.1499 7.33138Z" fill="#DA3700" stroke="#DA3700" stroke-width="0.3" class="o-iconLink__outArrow" />
+             </svg> </a>
+           </div>
+           <div class="c-simpleCard__bg">
+            <img src="/zh-tw/-/media/tbb/icons/zh-tw/common/bg/common.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=A3330FC41F2164DBDA4D293A229B29EE" alt="">
+           </div>
+          </div>
+         </div>
+         <div class="l-card__item">
+          <div class="c-simpleCard">
+           <div class="c-simpleCard__main">
+            <div class="c-simpleCard__title">信用卡秘書專屬服務(限VISA卡)</div>
+            <div class="c-simpleCard__content">
+             <p>提供您全天24小時秘書專屬服務，24小時服務專線04-22065271。</p>
+            </div>
+           </div>
+           <div class="c-simpleCard__link">
+            <a href="https://www.canlead.com.tw/service.aspx" rel="noopener noreferrer" title="前往白金秘書服務網站另開新視窗" class="o-iconLink is-aniOutLink" target="_blank"> <span class="o-iconLink__text">了解更多</span> 
+             <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+              <title>另開視窗</title> <path d="M3.60016 3.98306C2.6351 3.98102 1.85 4.76654 1.85 5.7313V16.3999C1.85 17.3648 2.63519 18.1501 3.6 18.1501H14.2673C15.2321 18.1501 16.0173 17.3648 16.0173 16.3999V9.99914C16.0173 9.62165 15.7121 9.31639 15.3346 9.31639C14.9571 9.31639 14.652 9.62165 14.652 9.99914V16.3999C14.652 16.6114 14.4795 16.7827 14.2693 16.7827H3.6C3.38858 16.7827 3.21732 16.6102 3.21732 16.3999V5.7313C3.21732 5.51982 3.38982 5.34856 3.6 5.34856H10C10.3775 5.34856 10.6827 5.0433 10.6827 4.66581C10.6827 4.28831 10.3775 3.98306 10 3.98306H3.60016ZM3.60016 3.98306C3.60022 3.98306 3.60027 3.98306 3.60033 3.98306L3.6 4.13306V3.98306H3.60016Z" fill="#DA3700" stroke="#DA3700" stroke-width="0.3" /> <path d="M18.1499 7.33138V2.53275V2.5308C18.1489 2.1542 17.8441 1.85 17.4672 1.85H12.6672C12.2897 1.85 11.9845 2.15525 11.9845 2.53275C11.9845 2.91024 12.2897 3.2155 12.6672 3.2155H15.8174L8.45238 10.5833C8.45228 10.5834 8.45218 10.5835 8.45208 10.5836C8.18409 10.8494 8.1849 11.2822 8.45188 11.5492C8.58438 11.6817 8.75954 11.7492 8.93454 11.7492C9.10954 11.7492 9.28469 11.6817 9.4172 11.5492L16.7845 4.18092V7.33138C16.7845 7.70888 17.0897 8.01413 17.4672 8.01413C17.8447 8.01413 18.1499 7.70888 18.1499 7.33138Z" fill="#DA3700" stroke="#DA3700" stroke-width="0.3" class="o-iconLink__outArrow" />
+             </svg> </a>
+           </div>
+           <div class="c-simpleCard__bg">
+            <img src="/zh-tw/-/media/tbb/icons/zh-tw/common/bg/common.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=A3330FC41F2164DBDA4D293A229B29EE" alt="">
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="l-section">
+    <div class="l-section__wrap">
+     <div class="l-textBlock"></div>
+    </div>
+   </section>
+   <section class="l-section">
+    <div class="l-section__wrap">
+     <div id="faq" class="l-textBlock l-textBlock--qa" data-anchor-block="faq">
+      <div class="l-textBlock__title">
+       <div class="o-textTitle">常見問題</div>
+      </div>
+      <div class="l-textBlock__paragraph">
+       <div class="l-textBlock__qa">
+        <div data-collapse-group data-single="true">
+         <div class="c-qaCollapse" data-collapse-item>
+          <a href="#" class="c-qaCollapse__head" target="_self" role="button" aria-expanded="false" data-collapse-nav> <span class="c-qaCollapse__q"> Q </span> <span class="c-qaCollapse__text">申請進度查詢</span> </a>
+          <div class="c-qaCollapse__container" role="region" aria-hidden="true" data-collapse-container>
+           申請信用卡進度可透過以下方式查詢:
+           <ul class="c-textList">
+            <li>線上查詢:您可透過本行官網查詢(路徑：本行官網-快速查詢-我想申請-信用卡-申請信用卡進度查詢，完成身分與OTP驗證後 ，即可查詢信用卡辦理進度。)</li>
+            <li>專人服務: 您可撥打24小時客服中心電話<a href="tel: 0800-01-7171" class="o-link" target="_self" title="撥打0800-01-7171"><span>0800-01-7171</span></a>，手機請撥<a href="tel: 02-2357-7171" class="o-link" target="_self" title="撥打02-2357-7171"><span>02-2357-7171</span></a>，由專人協助您查詢信用卡辦理進度。</li>
+           </ul>
+          </div>
+         </div>
+         <div class="c-qaCollapse" data-collapse-item>
+          <a href="#" class="c-qaCollapse__head" target="_self" role="button" aria-expanded="false" data-collapse-nav> <span class="c-qaCollapse__q"> Q </span> <span class="c-qaCollapse__text">信用卡如何補件?</span> </a>
+          <div class="c-qaCollapse__container" role="region" aria-hidden="true" data-collapse-container>
+           申請信用卡可透過以下方式補件:
+           <ul class="c-textList">
+            <li>線上申辦:您可透過本行官網查詢(路徑：本行官網-信用卡-常用服務-申請信用卡進度查詢，進行線上補件(完成身分與OTP驗證後，點選右「立即補件」，依畫面指示上傳文件)。</li>
+            <li>專人服務: 請您備妥相關文件後撥打24小時客服中心電話<a href="tel: 0800-01-7171" class="o-link" target="_self" title="撥打0800-01-7171"><span>0800-01-7171</span></a>，手機請撥<a href="tel: 02-2357-7171" class="o-link" target="_self" title="撥打02-2357-7171"><span>02-2357-7171</span></a>，由專人協助您以MAIL/傳真方式補件。</li>
+            <li>臨櫃辦理:您可備妥補件資料至鄰近分行，並請分行人員協助將您的資料傳真/轉交至本行信用卡部。</li>
+           </ul>
+           ※提醒您，補件完成後將重新進入審核流程，約需5~7個工作天會有審核結果。如需查詢信用卡申請進度請 點此 <a href="https://ebank.tbb.com.tw/nb3/CREDIT/APPLY/onlineapply_creditcard_progress" class="o-link" target="_blank" title="前往臺灣企銀網路銀行信用卡申請進度查詢網站另開新視窗"> <span>(https://ebank.tbb.com.tw/nb3/CREDIT/APPLY/onlineapply_creditcard_progress)</span> </a>，或請致電客服中心，由客服人員竭誠為您服務。
+          </div>
+         </div>
+         <div class="c-qaCollapse" data-collapse-item>
+          <a href="#" class="c-qaCollapse__head" target="_self" role="button" aria-expanded="false" data-collapse-nav> <span class="c-qaCollapse__q"> Q </span> <span class="c-qaCollapse__text">如何開卡呢?</span> </a>
+          <div class="c-qaCollapse__container" role="region" aria-hidden="true" data-collapse-container>
+           <ul class="c-textList">
+            <li>信用卡開卡</li>
+            您可選下列任一方式完成開卡程序(請先備妥您的信用卡及開卡密碼(您的國曆出生年月日共六碼))：
+            <ul class="c-textList is-alpha">
+             <li>人工開卡：請撥本行24小時客服中心電話<a href="tel: 0800-01-7171" class="o-link" target="_self" title="撥打0800-01-7171"><span>0800-01-7171</span></a>，手機請撥<a href="tel: 02-2357-7171" class="o-link" target="_self" title="撥打02-2357-7171"><span>02-2357-7171</span></a>。</li>
+             <li>中華電信信用卡語音開卡專線：區域碼412-1366【六碼地區為41-1366】</li>
+             <li>網路銀行開卡：操作路徑為信用卡-網路銀行-開卡</li>
+            </ul>
+            <li>得利Combo晶片卡</li>
+            <ul class="c-textList is-alpha">
+             <li>金融卡開卡：親領卡片的客戶可選擇臨櫃開卡或於ATM自己執行開卡(請參考得利Combo晶片卡額度通知書。</li>
+             <li>信用卡開卡：與一般信用卡相同可選擇語音或人工方式開卡。</li>
+            </ul>
+           </ul>
+          </div>
+         </div>
+         <div class="c-qaCollapse" data-collapse-item>
+          <a href="#" class="c-qaCollapse__head" target="_self" role="button" aria-expanded="false" data-collapse-nav> <span class="c-qaCollapse__q"> Q </span> <span class="c-qaCollapse__text">信用卡有提供刷卡分期的功能嗎?</span> </a>
+          <div class="c-qaCollapse__container" role="region" aria-hidden="true" data-collapse-container>
+           本行信用卡提供<strong>單筆分期付款</strong>及<strong>帳單分期付款</strong>服務。
+           <ul class="c-textList">
+            <li>單筆分期付款：單筆消費NT$1,000，<span style="letter-spacing: 0.96px;">並於當期帳單結帳日前，來電本行客服中心申請，分期期數</span>3~30期，分期年利率6.88%起。<a rel="noopener noreferrer" href="https://www.tbb.com.tw/zh-tw/personal/cards/finance/payment-installment" target="_blank">了解更多</a></li>
+            <li>帳單分期<span style="letter-spacing: 0.96px;">付款</span>：當期帳單繳足最低應繳金額，餘額滿 NT$ 1,000，並於當期帳單繳款截止日前，來電本行客服中心申請<span style="letter-spacing: 0.96px;"><span style="letter-spacing: 0.96px;">，分期期數</span><span style="letter-spacing: 0.96px;">3~30期，分期年利率9.99%起。<a rel="noopener noreferrer" href="https://www.tbb.com.tw/zh-tw/personal/cards/finance/bill-installment" target="_blank">了解更多</a></span></span></li>
+           </ul>
+          </div>
+         </div>
+         <div class="c-qaCollapse" data-collapse-item>
+          <a href="#" class="c-qaCollapse__head" target="_self" role="button" aria-expanded="false" data-collapse-nav> <span class="c-qaCollapse__q"> Q </span> <span class="c-qaCollapse__text">信用卡有提供分期0利率嗎?</span> </a>
+          <div class="c-qaCollapse__container" role="region" aria-hidden="true" data-collapse-container>
+           本行提供特定消費 0 利率分期付款優惠。
+           <ul class="c-textList">
+            <li>特定消費類別：學費、<span style="letter-spacing: 0.96px;">保費、旅行社。</span></li>
+            <li>單筆金額達 NT$3,000 以上<span style="letter-spacing: 0.96px;">即可申請</span>&nbsp;3 期 0 利率分期還款。</li>
+            ※繳保費輕鬆無負擔！單筆保費達<span style="letter-spacing: 0.96px;">&nbsp;NT$</span>10,000以上，刷銀色之愛信用卡獨享<strong>6、12期分期0利率</strong>或<strong>最高3,200元刷卡金</strong>(擇一回饋)。<a rel="noopener noreferrer" href="https://www.tbb.com.tw/zh-tw/personal/cards/products/overview/eldercaring-creditcard" target="_blank">了解更多</a>
+            <br>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="l-textBlock__link">
+        <div class="l-link">
+         <div class="l-link__item">
+          <a class="o-iconLink is-aniRight" title="前往更多常見問題另開新視窗" href="/zh-tw/about/intro/customer-service/faq?faq=信用卡" target="_blank"> <span class="o-iconLink__text">更多常見問題</span> <img src="/web/content/images/icons/links/circle-arrow-right-rd.svg" alt="" class="o-iconLink__icon"> <img src="/web/content/images/icons/links/circle-arrow-right-press-rd.svg" alt="" class="o-iconLink__press" aria-hidden="true"> </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="l-section">
+    <div class="l-section__wrap">
+     <div class="l-block">
+      <div class="l-block__title">
+       <p class="o-textSubTitle">您可能也喜歡...</p>
+      </div>
+      <div class="l-block__content">
+       <div class="l-integrated swiper" id="_fec79be617ff49c8b7d2ea89e0c230ae">
+        <div class="swiper-wrapper">
+         <div class="l-integrated__item swiper-slide">
+          <a class="o-creditcard o-creditcard--sm o-creditcard--link" title="前往永續生活悠遊鈦金卡頁面" href="/zh-tw/personal/cards/products/overview/greenlife-easy-creditcard"> 
+           <div class="o-creditcard__img">
+            <img src="/zh-tw/-/media/tbb/images/zh-tw/personal/cards/products/overview/greenlife-easy-creditcard3x.png?iar=0&amp;sc_lang=zh-tw&amp;hash=CB5F843D89BECD38622A2CF33D73F869" alt="永續生活悠遊鈦金卡卡面">
+           </div> 
+           <div class="o-creditcard__box">
+            <span class="o-creditcard__text">永續生活悠遊卡</span>
+           </div> 
+          </a>
+         </div>
+         <div class="l-integrated__item swiper-slide">
+          <a class="o-creditcard o-creditcard--sm o-creditcard--link" title="前往藝FUN悠遊御璽卡頁面" href="/zh-tw/personal/cards/products/overview/artfun-easy-creditcard"> 
+           <div class="o-creditcard__img">
+            <img src="/zh-tw/-/media/tbb/images/zh-tw/personal/cards/products/overview/artfun-easy-creditcard3x.png?iar=0&amp;sc_lang=zh-tw&amp;hash=FABF36142996B44D663A0DE20912D4D8" alt="藝FUN悠遊御璽卡卡面">
+           </div> 
+           <div class="o-creditcard__box">
+            <span class="o-creditcard__text">藝FUN悠遊御璽卡</span>
+           </div> 
+          </a>
+         </div>
+         <div class="l-integrated__item swiper-slide">
+          <a class="o-creditcard o-creditcard--sm o-creditcard--link" title="前往銀色之愛頁面" href="/zh-tw/personal/cards/products/overview/eldercaring-creditcard"> 
+           <div class="o-creditcard__img">
+            <img src="/zh-tw/-/media/tbb/images/zh-tw/personal/cards/products/overview/eldercaring-creditcard3x.jpg?h=250&amp;iar=0&amp;w=390&amp;sc_lang=zh-tw&amp;hash=D669CFEF56568746E5466C1C4D74864B" alt="銀色之愛卡面">
+           </div> 
+           <div class="o-creditcard__box">
+            <span class="o-creditcard__text">銀色之愛</span>
+           </div> 
+          </a>
+         </div>
+        </div>
+        <div class="l-integrated__action">
+         <div class="swiper-button-prev"></div>
+         <div class="swiper-pagination"></div>
+         <div class="swiper-button-next"></div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="l-section">
+    <div class="l-section__wrap">
+     <div class="c-creditWarning">
+      <div class="c-creditWarning__title">謹慎理財 信用至上</div>
+      <div class="c-creditWarning__content">
+       <p class="c-creditWarning__text">信用卡循環信用年利率=本行基準利率(月調利率)+加碼利率(3%~15%)，上限為15% (基準日為110年9月29日)。
+        <br>
+        預借現金手續費=每筆NT$150+每筆預借現金金額x2.5%，其他費率依本行網站公告。</p>
+      </div>
+     </div>
+    </div>
+   </section> 
+   <!-- #END   Placeholder: content -->
+   <!-- #START Placeholder: content-bottom -->
+   <!-- #END Placeholder: content-bottom -->
+  </main>
+  <!-- #START Placeholder: body-footer -->
+  <div class="l-bottomTool">
+   <div class="l-bottomTool__item">
+    <a href="https://robot.tbb.com.tw/web/index.php" rel="noopener noreferrer" title="開啟臺灣企銀智能客服另開新視窗" class="o-chatbot" target="_blank"> <img src="/zh-tw/-/media/tbb/images/configuration/service-money.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=5027DE7156732E58DF681A1C4CD7A1E7" alt=""> <span class="u-hidden">&nbsp;</span> </a>
+   </div>
+   <div class="l-bottomTool__item" data-gotop>
+    <a href="javascript:;" class="o-goTop" role="button" title="回到最頂端" data-gotop-action> <img src="/web/content/images/icons/bottomTool/gotop.svg" alt="頂端"> </a>
+   </div>
+  </div>
+  <div class="m-tabBar">
+   <div class="m-tabBar__item">
+    <a href="javascript:;" class="m-tabBar__icon" target="_self" role="button" title="前往匯利率查詢頁面" data-tabbar-icon data-template="tab-bar-1"> <img src="/zh-tw/-/media/tbb/icons/zh-tw/services/l/searchvalue.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=0819AA4CB83F007B37B26902EFB603BF" class="m-tabBar__icon-img" alt=""> 
+     <div class="m-tabBar__icon-title">匯利率</div> </a>
+    <template class="m-tabBar__content" id="tab-bar-1">
+     <ul class="m-tabBar__links">
+      <li class="m-tabBar__link"><a href="/zh-tw/personal/deposits/inquiry/exchange-rate/current" title="前往匯率查詢" role="button" class="m-tabLink"> 匯率查詢 </a></li>
+      <li class="m-tabBar__link"><a href="/zh-tw/personal/deposits/inquiry/twd-deposit" title="前往臺幣存放款利率" role="button" class="m-tabLink"> 臺幣存放款利率查詢 </a></li>
+      <li class="m-tabBar__link"><a href="/zh-tw/personal/deposits/inquiry/foreign-deposit" title="前往外幣存放款利率" role="button" class="m-tabLink"> 外幣存放款利率查詢 </a></li>
+      <li class="m-tabBar__link"><a href="https://ebank.tbb.com.tw/nb3/GOLD/OUT/PASSBOOK/day_price_query" rel="noopener noreferrer" title="前往當日黃金牌價查詢另開新視窗" role="button" class="m-tabLink" target="_blank"> 當日黃金牌價查詢 </a></li>
+      <li class="m-tabBar__link"><a href="https://ebank.tbb.com.tw/nb3/GOLD/OUT/PASSBOOK/history_price_query" rel="noopener noreferrer" title="前往歷史黃金牌價查詢另開新視窗" role="button" class="m-tabLink" target="_blank"> 歷史黃金牌價查詢 </a></li>
+     </ul>
+    </template>
+   </div>
+   <div class="m-tabBar__item">
+    <a href="javascript:;" class="m-tabBar__icon" target="_self" role="button" title="前往試算頁面" data-tabbar-icon data-template="tab-bar-2"> <img src="/zh-tw/-/media/tbb/icons/zh-tw/services/l/calculator.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=05B63AF4BB58D592593C0B6589C0BF7B" class="m-tabBar__icon-img" alt=""> 
+     <div class="m-tabBar__icon-title">試算</div> </a>
+    <template class="m-tabBar__content" id="tab-bar-2">
+     <ul class="m-tabBar__links">
+      <li class="m-tabBar__link"><a href="/zh-tw/personal/deposits/inquiry/currency-converter" title="前往匯率試算" role="button" class="m-tabLink"> 匯率試算 </a></li>
+      <li class="m-tabBar__link"><a href="/zh-tw/personal/deposits/inquiry/twd-interest-calculator" title="前往臺幣存款利率試算" role="button" class="m-tabLink"> 臺幣存款利率試算 </a></li>
+      <li class="m-tabBar__link"><a href="/zh-tw/personal/deposits/inquiry/foreign-interest-calculator" title="前往外幣存款利率試算" role="button" class="m-tabLink"> 外幣存款利率試算 </a></li>
+      <li class="m-tabBar__link"><a href="/zh-tw/personal/loans/loan-tools/home-loan-repayment-calculator" title="前往房貸還款金額試算" role="button" class="m-tabLink"> 房貸還款金額試算 </a></li>
+      <li class="m-tabBar__link"><a href="/zh-tw/personal/loans/loan-tools/credit-loan-repayment-calculator" title="前往信貸還款金額試算" role="button" class="m-tabLink"> 信貸還款金額試算 </a></li>
+     </ul>
+    </template>
+   </div>
+   <div class="m-tabBar__item m-tabBar__item-service">
+    <a href="https://robot.tbb.com.tw/web/index.php" rel="noopener noreferrer" title="開啟臺灣企銀智能客服另開新視窗" role="button" class="m-tabBar__icon-chatbot" target="_blank"> <img src="/zh-tw/-/media/tbb/images/configuration/service-money.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=5027DE7156732E58DF681A1C4CD7A1E7" alt=""> </a>
+   </div>
+   <div class="m-tabBar__item">
+    <a href="/zh-tw/digital/hokii/digital-account/intro" title="前往Intro - Hokii數位帳戶介紹" role="button" class="m-tabBar__icon" target="_blank"> <img src="/zh-tw/-/media/tbb/icons/zh-tw/services/l/penguin.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=4CD61F29B4F082B1C4FFBC1ABFD38C0C" class="m-tabBar__icon-img" alt=""> 
+     <div class="m-tabBar__icon-title">數位帳戶</div> </a>
+   </div>
+   <div class="m-tabBar__item">
+    <a href="/zh-tw/digital/services/customer/apply" title="前往Apply - 雲端櫃台" role="button" class="m-tabBar__icon"> <img src="/zh-tw/-/media/tbb/icons/zh-tw/services/l/worker.svg?iar=0&amp;sc_lang=zh-tw&amp;hash=39B39FB38A6F995C0784AF7593257337" class="m-tabBar__icon-img" alt="雲端櫃台"> 
+     <div class="m-tabBar__icon-title">雲端櫃檯</div> </a>
+   </div>
+  </div>
+  <!-- #END   Placeholder: body-footer -->
+ </div>
+ <!-- #START Placeholder: body-bottom -->
+ <!-- #END   Placeholder: body-bottom -->         
+</body>

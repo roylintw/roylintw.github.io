@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>安裝 on 小書僮</title>
+    <link>https://roylintw.github.io/tags/%E5%AE%89%E8%A3%9D/</link>
+    <description>Recent content in 安裝 on 小書僮</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 05 Jul 2025 01:10:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/tags/%E5%AE%89%E8%A3%9D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>安裝  DBeaver 教學</title>
+      <link>https://roylintw.github.io/blog/sql/%E5%AE%89%E8%A3%9Ddbeaver%E6%95%99%E5%AD%B8/</link>
+      <pubDate>Sat, 05 Jul 2025 01:10:00 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/sql/%E5%AE%89%E8%A3%9Ddbeaver%E6%95%99%E5%AD%B8/</guid>
+      <description>下載 前往下載網址 前往 Download
+開始下載 DBeaver Community &amp;gt; 點選 Windows(installer) &amp;gt; 雙擊下載</description>
+    </item>
+    
+    <item>
+      <title>安裝mysql教學</title>
+      <link>https://roylintw.github.io/blog/sql/%E5%AE%89%E8%A3%9Dmysql%E6%95%99%E5%AD%B8/</link>
+      <pubDate>Sat, 14 Jun 2025 14:37:00 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/sql/%E5%AE%89%E8%A3%9Dmysql%E6%95%99%E5%AD%B8/</guid>
+      <description>下載 前往下載網址 前往 MySQL Community Downloads
+選擇版本和下載點 選擇最新版本，選擇第二個下載點 直接下載 這時畫面上會出現 Login 和 Sign Up 按鈕，</description>
+    </item>
+    
+  </channel>
+</rss>

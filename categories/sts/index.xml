@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STS on 小書僮</title>
+    <link>https://roylintw.github.io/categories/sts/</link>
+    <description>Recent content in STS on 小書僮</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 13 May 2025 23:16:00 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/categories/sts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[STS] Console Logs 太多被洗掉的原因(已解決)</title>
+      <link>https://roylintw.github.io/blog/sts/console%E7%9A%84log%E8%A8%8A%E6%81%AF%E8%A2%AB%E6%B4%97%E6%8E%89%E5%8E%9F%E5%9B%A0/</link>
+      <pubDate>Tue, 13 May 2025 23:16:00 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/sts/console%E7%9A%84log%E8%A8%8A%E6%81%AF%E8%A2%AB%E6%B4%97%E6%8E%89%E5%8E%9F%E5%9B%A0/</guid>
+      <description>問題描述 最近在看專案結構時，
+想透過 log 觀看跑到哪個 method，
+但一直沒有印在 Console 視窗裡面，
+調了 log.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>選擇排序法 on 小書僮</title>
+    <link>https://roylintw.github.io/tags/%E9%81%B8%E6%93%87%E6%8E%92%E5%BA%8F%E6%B3%95/</link>
+    <description>Recent content in 選擇排序法 on 小書僮</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 18 Apr 2025 15:11:35 +0800</lastBuildDate><atom:link href="https://roylintw.github.io/tags/%E9%81%B8%E6%93%87%E6%8E%92%E5%BA%8F%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🔢 排序演算法 - 選擇排序法</title>
+      <link>https://roylintw.github.io/blog/algorithms/selectionsort/</link>
+      <pubDate>Fri, 18 Apr 2025 15:11:35 +0800</pubDate>
+      
+      <guid>https://roylintw.github.io/blog/algorithms/selectionsort/</guid>
+      <description>📌定義： 選擇排序是一種簡單直觀的排序演算法。
+它的基本思想是：每一輪從未排序的元素中選出最小（或最大）的元素，放到已排序區域的最前/後面。
+🧠原理： 假設有一個陣列 [29, 10, 14, 37, 13]，進行升序排序：</description>
+    </item>
+    
+  </channel>
+</rss>
